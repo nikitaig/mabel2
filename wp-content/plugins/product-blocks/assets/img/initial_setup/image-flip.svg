@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.728" height="27.534" viewBox="0 0 33.728 27.534">
+    <defs>
+        <linearGradient id="5n565s50la" x1=".102" x2=".862" y2="1.059" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#88c024"/>
+            <stop offset="1" stop-color="#2e8909"/>
+        </linearGradient>
+    </defs>
+    <path data-name="Path 2000" d="M126.653 82.618v3.059h3.066v-3.059zm18.4 6.118V91.8h3.066v-3.064zm6.132-24.474H129.72a3.062 3.062 0 0 0-3.066 3.059v6.12h3.066v-6.12h21.463v6.12h3.066v-6.12a3.062 3.062 0 0 0-3.067-3.059zm3.066 24.474h-3.066V91.8a3.062 3.062 0 0 0 3.064-3.064zM123.587 76.5v3.059h33.728V76.5zm9.2 12.237V91.8h3.066v-3.064zm18.4-6.118v3.059h3.066v-3.06zm-12.264 6.118V91.8h3.066v-3.064zm-12.264 0a3.062 3.062 0 0 0 3.061 3.063v-3.064z" transform="translate(-123.587 -64.262)" style="fill:url(#5n565s50la)"/>
+</svg>

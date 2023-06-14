@@ -1,0 +1,916 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+ :root {
+	--wholesalex-primary-color: #4D4DFF;
+    --wholesalex-primary-hover-color: #6C6CFF;
+	--wholesalex-text-color: #444;
+	--wholesalex-meta-color: #888;
+
+	--wholesalex-heading-color: #272727;
+	--wholesalex-border-color: #ddd;
+	--wholesalex-success-button-color: #73b81c;
+	--wholesalex-success-button-hover-color: #619e14;
+	--wholesalex-warning-button-color: #d88a02;
+	--wholesalex-warning-button-hover-color: #d88a02;
+	--wholesalex-upgrade-pro-button-color: #fead01;
+    
+
+    --wholesalex-size-12: 12px;
+    --wholesalex-size-14: 14px;
+    --wholesalex-size-16: 16px;
+    --wholesalex-size-18: 18px;
+    --wholesalex-size-20: 20px;
+    --wholesalex-size-22: 22px;
+    --wholesalex-size-24: 24px;
+}
+
+
+
+.wholesalex-predefined{
+    display: none;
+}
+
+.wholesalex-single-repeated-clone-hidden{
+    display: none;
+}
+
+#_wholesalex_single_product_settings{
+    border-top: 1px solid #EEEEEE;
+    padding: 0 12px;
+}
+
+.wholesalex-btn {
+    font-size: var(--wholesalex-size-16);
+    padding: 12px 25px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 400ms;
+    max-width: fit-content;
+}
+
+.wholesalex-btn-sm {
+    padding: 6px 12px 6px;
+    font-size: var(--wholesalex-size-14);
+}
+
+.wholesalex-btn-primary {
+    background-color: var(--wholesalex-primary-color);
+    color: #ffffff;
+}
+
+.wholesalex-btn-primary:hover {
+    background-color: var(--wholesalex-primary-hover-color);
+    color: #fff;
+}
+
+.wholesalex-btn-warning {
+    background-color: var(--wholesalex-warning-button-color);
+    color: #ffffff;
+}
+
+.wholesalex-btn-warning:hover {
+    background-color: var(--wholesalex-warning-button-hover-color);
+    color: #fff;
+}
+
+.wholesalex-btn-black {
+    background-color: var(--wholesalex-heading-color);
+    color: #ffffff;
+}
+
+.wholesalex-btn-black:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.wholesalex-btn-danger {
+    background-color: #eb3224;
+    color: #ffffff;
+}
+
+.wholesalex-btn-danger:hover {
+    background-color: #cc2519;
+    color: #fff;
+}
+
+.wholesalex-heading-inline {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* ------------------------- */
+/* ------------------------- */
+/* Registration Form Builder */
+/* ------------------------- */
+/* ------------------------- */
+.wholesalex-builder-field{
+    border-radius: 3px;
+}
+.wholesalex-builder-group{
+    position: absolute;
+    background-color: #fff;
+    padding: 20px;
+    width: 200px;
+    left: 22%;
+    z-index: 1;
+}
+.wholesalex-add-btn{
+    text-align: center;
+    left: 50%;
+    position: relative;
+}
+.wholesalex-builder-field > label {
+    display: block;
+    font-size: var(--wholesalex-size-16);
+    line-height: 24px;
+}
+
+.wholesalex-builder-field{
+    padding: 10px;
+}
+.LabelHide{
+    color: transparent;
+}
+
+
+/* ------------------------- */
+/* ------------------------- */
+/* ------------------------- */
+/* ------------------------- */
+
+
+/*--------------------------*/
+
+/* ------------------------- */
+/* ------------------------- */
+/* -- Conversation START --- */
+/* ------------------------- */
+/* ------------------------- */
+
+.wsx-created-by {
+    display: flex;
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.wsx-reply-meta .wsx-name .reply-name {
+    font-weight: 600;
+}
+
+.wsx-created-author {
+    margin-right: 15px;
+}
+
+.wsx-created-author img {
+    border-radius: 100px;
+}
+
+.wsx-reply-meta {
+    margin-bottom: 8px;
+    text-transform: capitalize;
+    font-size: 14px;
+    color: var(--wholesalex-meta-color);
+}
+
+.wsx-reply-lists {
+    margin-bottom: 30px;
+}
+
+.wsx-content{
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.wsx-conversation-wrap textarea {
+    width: 100%;
+    border: 1px solid var(--wholesalex-border-color);
+    border-radius: 2px;
+    padding: 10px 12px;
+    box-sizing: border-box;
+}
+
+.wsx-reply-lists .wsx-content{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #efefef;
+}
+
+.wsx-reply-right .wsx-content {
+    background-color: #f8f8f8;
+    color: #272727;
+    border: 1px solid #e6e6e6;
+    text-align: right;
+}
+.wsx-reply-left .wsx-content{
+    background-color: #f2f0ff;
+    color: #272727;
+    border: 1px solid #e1def7;
+    text-align: left;
+}
+.wsx-reply-right .wsx-reply-meta {
+    text-align: right;
+}
+.wsx-reply-left .wsx-reply-meta{
+    text-align: left;
+}
+
+.wsx-content-btn {
+    margin-top: 25px;
+}
+
+.wsx-content .wsx-content-btn a {
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+.wsx-content .wsx-content-btn a:first-child {
+    margin-left: 0;
+}
+
+
+.wholesalex_conversation_buttons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+} 
+
+.wholesalex_conversation_buttons .wsx-reply {
+    padding: 8px 14px 7px 21px;
+    border-radius: 2px;
+}
+.wsx-reply-left .wholesalex_quote_table{
+    border: none;
+    padding-left: 0;
+    border-collapse: collapse;
+
+}
+  .wsx-reply-left .wholesalex_quote_table thead tr {
+    background-color: #e8e5fc;
+}
+
+.wsx-reply-right .wholesalex_quote_table thead tr {
+  background-color: #fafafa;
+  color: black;
+}
+.wsx-reply-right .wholesalex_quote_table thead th {
+  color: black;
+}
+
+  table.wholesalex_quote_table th {
+    font-size: 14px;
+    padding: 12px 20px;
+}
+  table.wholesalex_quote_table td {
+    font-size: 14px;
+    padding: 12px 20px;
+}
+
+
+
+  .wholesalex_quote_table thead tr, .wholesalex_quote_table thead td, .wholesalex_quote_table thead th {
+    border:none;
+  }
+
+  .wholesalex_quote_table tbody {
+    background-color: #fff;
+  }
+
+  .wholesalex_quote_table tbody tr, .wholesalex_quote_table tbody td, .wholesalex_quote_table tbody th {
+    border:none;
+  }
+
+  .quote-table_footer-text {
+    font-size: 18px;
+    color: #272727;
+  }
+
+  .quote-table_footer-text .woocommerce-Price-amount{
+    font-weight: bold;
+  }
+
+  .quote_table_footer {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+    padding-left: 0;
+  }
+  
+  .wsx-reply-right .quote_table_footer {
+    justify-content: flex-end;
+}
+/* ------------------------- */
+/* ------------------------- */
+/* -- Conversation CLOSE --- */
+/* ------------------------- */
+/* ------------------------- */
+
+
+/* ------------------------- */
+/* ------------------------- */
+/* -- Addon Settings Start - */
+/* ------------------------- */
+/* ------------------------- */
+
+.wsx-addons-dashboard {
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+
+.wsx-addons-dashboard .whx_addon_notice{
+    margin-bottom: 20px;
+}
+
+.wsx-content-addon-container {
+	display: flex;
+	gap: 16px;
+	border-radius: 3px;
+	padding: 23px 20px 20px 25px;
+	background-color: #fff;
+}
+.wsx-addons-grid {
+	display: grid;
+	justify-content: space-between;
+	grid-template-columns: 1fr 1fr;
+	gap: 30px;
+    margin-top: 30px;
+}
+.wsx-addon-heading {
+	font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 24px;
+    text-align: center;
+    padding: 50px 0 20px;
+}
+.wsx-content-addon {
+	border-radius: 3px;
+	box-shadow: 0 5px 15px 0 rgb(0 0 0 / 15%);
+	transition: .3s;
+}
+.wsx-content-addon:hover {
+	box-shadow: 0 5px 15px 0 rgb(0 0 0 / 25%);
+}
+.wsx-addons-option-control {
+	display: flex;
+	justify-content: space-between;
+}
+.wsx-addons-option-wrapper {
+	width: 100%;
+}
+.wsx-content-addon .wsx-content-meta img {
+	height: 73px;
+}
+.wsx-content-addon .wsx-addon-desc {
+	color: var(--wholesalex-meta-color);
+	font-size: var(--wholesalex-size-12);
+	margin: 0;
+	max-width: 75%;
+}
+.wsx-content-addon .wsx-mid-title {
+	display: block;
+	color: #0e2843;
+	font-size: 18px;
+	font-weight: 500;
+	margin: 0px;
+}
+.wsx-content-addon .wsx-control-option {
+	gap: 20px;
+	padding-right: 0px;
+	align-items: flex-start;
+	margin-bottom: 10px;
+}
+.wsx-option-tooltip {
+    position: relative;
+    display: flex !important;
+    justify-content: center;
+    text-decoration: none;
+}
+.wsx-option-tooltip span {
+    display: none;
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+    white-space: nowrap;
+    position: absolute;
+    top: -34px;
+    border-radius: 2px;
+    padding: 3px 6px 4px;
+    background-color: #000;
+}
+.wsx-addons-content .wsx-option-tooltip > div {
+    color: #b0b9c3;
+    font-size: var(--wholesalex-size-20);
+}
+.wsx-control-option .wsx-addons-enable,.wsx-control-option .wsx-email-enable {
+    width: 0;
+    height: 0;
+    display: none;
+}
+.wsx-control-option .wsx-addons-enable:checked+label, .wsx-control-option .wsx-email-enable:checked+label{
+    position: relative;
+    background-color: var(--wholesalex-primary-color);
+}
+/* .wholesalex-addon_lock-icon {
+    position: absolute;
+    top: -1px;
+    right: -3px;
+    color: #f8ff31;
+    text-indent: 0;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+} */
+
+.wholesalex-lock-icon {
+    position: absolute;
+    top: -1px;
+    right: -3px;
+    text-indent: 0;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    color: #f8ff31;
+}
+.wsx-control-option label {
+    width: 36px;
+    height: 18px;
+    display: block;
+    cursor: pointer;
+    border-radius: 100px;
+    /* text-indent: -9999px; */
+    background: grey;
+    position: relative;
+}
+.wsx-control-option .wsx-addons-enable:checked+label:after,.wsx-control-option .wsx-email-enable:checked+label:after {
+    left: calc(100% - 3px);
+    transform: translateX(-100%);
+}
+.wsx-control-option label::after {
+    content: '';
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 12px;
+    height: 12px;
+    border-radius: 90px;
+    background: #fff;
+    transition: 0.3s;
+}
+.wsx-control-option {
+    display: flex;
+}
+.wsx-option-tooltip {
+	position: relative;
+	display: flex !important;
+	justify-content: center;
+	text-decoration: none;
+}
+.wsx-option-tooltip span {
+	display: none;
+	color: #fff;
+	font-size: 10px;
+	text-align: center;
+	white-space: nowrap;
+	position: absolute;
+	top: -34px;
+	border-radius: 2px;
+	padding: 3px 6px 4px;
+	background-color: #000;
+}
+.wsx-option-tooltip:hover span {
+	display: block;
+}
+.wsx-option-tooltip span:after {
+	content: " ";
+	width: 0;
+	height: 0;
+	border-left: 4px solid transparent;
+	border-right: 4px solid transparent;
+	border-top: 7px solid rgb(0, 0, 0);
+	position: absolute;
+	left: 40%;
+	bottom: -6px;
+}
+.wsx-option-tooltip > div {
+	color: #b0b9c3;
+	font-size: var(--wholesalex-size-16);
+}
+.wsx-addons-content .wsx-option-tooltip > div {
+	color: #b0b9c3;
+	font-size: var(--wholesalex-size-20);
+}
+.wholesalex-get-pro-button {
+    text-transform: capitalize;
+}
+.wsx-dashboard-container {
+    margin-top: 30px;
+}
+.type-wsx_conversation .column-type {
+    text-transform: capitalize;
+}
+/*
+Products - WholesaleX Rule On Column
+*/
+td.wholesalex_rule_on.column-wholesalex_rule_on {
+    display: flex;
+    gap:15px;
+    flex-wrap: wrap;
+}
+span.wholesalex_rule_on_list {
+    color: #5a40e8;
+    font-size: 10px;
+    border: 1px solid #5a40e8;
+    border-radius: 2px;
+    padding: 6px 13px 6px 10px;
+    max-height: fit-content;
+}
+
+.wholesalex_rule_on_more{
+    background-color: #5a40e8;
+    color: white;
+    font-size: 10px;
+    line-height: 28px;
+    border: 1px solid #5a40e8;
+    border-radius: 2px;
+    padding: 6px 13px 6px 10px;
+    max-height: fit-content;
+    cursor: pointer;
+}
+
+.table-view-list.posts {
+    position: relative;
+}
+.modal{
+    position: absolute;
+    /* top: 0; */
+    z-index: 999999999994;
+    /* background: aquamarine; */
+    top: 50vh;
+    left: 25%;
+    width: 50%;
+    min-height: 15%;
+}
+.modal_content {
+    border-radius: 6px;
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    position: absolute;
+    z-index: 999999999994;
+    left: 25%;
+    width: 50%;
+    min-height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wholesalex_rule_modal{
+    display: none;
+}
+.wholesalex_rule_on_lists {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#wholesalex_rule_on {
+    width: 15%;
+}
+
+.wholesalex-btn-extra-sm {
+    font-size: 10px;
+    padding: 4px 8px;
+    border-radius: 2px;
+}
+
+.wholesalex_loader {
+    display: none;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background: rgb(255, 255, 255);
+    opacity: 0.6;
+    cursor: wait;
+    position: absolute;
+    z-index: 999;
+}
+.wholesalex_loader::before{
+    height: 1em;
+    width: 1em;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -0.5em;
+    margin-top: -0.5em;
+    content: "";
+    -webkit-animation: rotating 1s ease-in-out infinite;
+    animation: rotating 1s ease-in-out infinite;
+    background: url(../img/loader.svg) center center;
+    background-size: cover;
+    line-height: 1;
+    text-align: center;
+    font-size: 2em;
+    color: rgba(0,0,0,.75);
+}
+
+.spinner {
+    background-image: url(../img/loader.svg);
+    opacity: 1;
+    margin: 10px 5px 0px 0px;
+    -webkit-animation: rotating 2s linear infinite;
+    -moz-animation: rotating 2s linear infinite;
+    -ms-animation: rotating 2s linear infinite;
+    -o-animation: rotating 2s linear infinite;
+    animation: rotating 2s linear infinite;
+    margin: 5px 0 0;
+}
+
+@-webkit-keyframes rotating {
+    from {
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    to {
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes rotating {
+    from {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    to {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.rotating {
+    -webkit-animation: rotating 2s linear infinite;
+    -moz-animation: rotating 2s linear infinite;
+    -ms-animation: rotating 2s linear infinite;
+    -o-animation: rotating 2s linear infinite;
+    animation: rotating 2s linear infinite;
+}
+
+/* Subaccount Orders Page */
+.wholesalex_placed_by_column
+.dashicons.dashicons-editor-break {
+    transform: translate(0,0) scale(-1,1);
+    font-size: 22px;
+    margin-left: 2px;
+    color: #707070;
+  }
+.wholesalex_placed_by_column
+.name {
+    color: #272727;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .wholesalex_placed_by_column,
+  .subaccount {
+    white-space: nowrap;
+}
+.bulkorder_settings_icon::before{
+    content:url('../img/addons/bulkorder_black.svg');
+}
+
+/* Upgrade Pro Popup HTML*/
+
+.wholesalex-popup-container{
+    background-color: rgba(0, 0, 0, 0.10);
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.10);
+    position: absolute;
+    top: 0;
+    right: 0;
+    transition: .5s;
+    padding-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999;
+}
+.wholesalex-popup-container.popup-center .wholesalex-unlock-popup {
+    width: 400px;
+    height: fit-content;
+    vertical-align: middle;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+ .wholesalex-unlock-popup {
+    /* margin-top: 5%; */
+    transition-property: right;
+    transition: .3s;
+    height: 100%;
+    position: fixed;
+    z-index: 999999;
+    /* top: 32px; */
+    margin: 0 auto;
+    border-radius: 6px;
+    box-sizing: border-box;
+    background-color: #fff;
+    box-shadow: 0 0 263px 0 rgba(0, 0, 0, 0.7%);
+    overflow-x: hidden;
+    transition: 0.5s;
+    width: 400px;
+    height: fit-content;
+    vertical-align: middle;
+}
+.wholesalex-unlock-popup img {
+    height: 150px;
+}
+.wholesalex-unlock-subheading {
+    font-size: 14px;
+    margin-bottom: 11px;
+    display: block;
+}
+.wholesalex-unlock-modal {
+    text-align: center;
+    overflow: visible;
+    padding: 40px 40px 60px;
+    /* margin-top: 5%; */
+}
+.wholesalex-md-heading{
+    font-size: 24px;
+	text-transform: capitalize;
+    line-height: 1;
+}
+.wholesalex-mt25 {
+    margin-top: 25px;
+}
+.wholesalex-popup-desc{
+    font-size: 14px;
+}
+
+.wholesalex-btn-warning {
+    color: white;
+    background: #d88a02;
+}
+.wholesalex-btn {
+    font-size: 16px;
+    line-height: 1;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 2px;
+    transition: 400ms;
+    padding: 15px 35px;
+    cursor: pointer;
+}
+
+.wholesalex-unlock-modal .wholesalex-popup-close {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 99999 !important;
+    border-top-right-radius: 6px;
+}
+
+.wholesalex-unlock-popup .wholesalex-popup-close {
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    border: none;
+    padding: 0px 9px 3px;
+    background-color: #000;
+}
+
+.wholesalex-unlock-popup .wholesalex-popup-desc {
+    margin: 0px 0 50px;
+    font-size: 14px;
+}
+
+.wholesalex-unlock-popup .wholesalex-popup-close::after {
+    content: "\00d7";
+}
+
+.display-none {
+    display: none;
+}
+
+.wholesalex-upgrade-pro-btn{
+    margin-top: 15px;
+    background-color: var(--wholesalex-upgrade-pro-button-color);
+    color: #ffffff;
+    transition: 0s;
+    padding: 10px 20px 10px;
+    line-height: 20px;
+}
+.wholesalex-upgrade-pro-btn .dashicons-arrow-right-alt2 {
+    line-height: 24px;
+    padding-left: 5px;
+}
+.dashicons.dashicons-lock {
+    cursor: pointer;
+}
+.wholesalex_users_table{
+    margin-top: 20px;
+}
+
+.admin_page_wholesalex-setup-wizard #wpadminbar,.admin_page_wholesalex-setup-wizard #adminmenumain {
+    display: none;
+    
+}
+.admin_page_wholesalex-setup-wizard #wpcontent {
+    margin: 0 !important;
+    
+}
+#wholesalex_initial_setup_wizard {
+    margin-top: -32px;
+}
+
+#wholesalex_coversation_header {
+    padding-bottom: 70px;
+}
+.wholesalex-dashboard-upgrade {
+    color: #adff2f;
+}
+
+.wholesalex-users {
+    background-color: #f0f0f1;
+    padding: 80px 40px 40px 0;
+}
+.wholesalex-users .wholesalex-wrapper{
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    padding: 30px;
+}
+
+.wholesalex-users .no-items {
+    text-align: center;
+}
+
+.wholesalex_users_import_export a {
+    color: unset;
+    text-decoration: unset;
+}
+.wholesalex_users_import_export{
+    position: absolute;
+    right: 0px;
+}
+.wholesalex_users_import_export .import-button {
+    background-color: var(--wholesalex-primary-color);
+    color: white;
+    border: none;
+    padding: 0px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin-right: 10px;
+    min-height: 30px;
+    border-radius: 3px;
+
+  }
+  
+  .wholesalex_users_import_export .import-button:hover{
+    background-color: var(--wholesalex-primary-hover-color);
+    cursor: pointer;
+  }
+  .wholesalex_users_import_export .export-button {
+    background-color: var(--wholesalex-meta-color);
+    color: white;
+    border: none;
+    padding: 0px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    border-radius: 3px;
+    min-height: 30px;
+
+  }
+  
+  .wholesalex_users_import_export .export-button:hover{
+    opacity: 0.7;
+    cursor: pointer;
+  }

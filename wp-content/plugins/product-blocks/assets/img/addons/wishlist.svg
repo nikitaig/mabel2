@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="wishlist-b" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FA9C61"/>
+      <stop offset="100%" stop-color="#F7531C"/>
+    </linearGradient>
+    <rect id="wishlist-a" width="128" height="128" x="0" y="0"/>
+    <linearGradient id="wishlist-c" x1="1.467%" x2="106.784%" y1="49.874%" y2="40.395%">
+      <stop offset="0%" stop-opacity=".177"/>
+      <stop offset="100%" stop-color="#F71F1F" stop-opacity=".133"/>
+    </linearGradient>
+    <rect id="wishlist-e" width="90" height="90" x="19" y="19" rx="45"/>
+    <linearGradient id="wishlist-g" x1="0%" x2="84.544%" y1="50%" y2="45.208%">
+      <stop offset="0%" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".097"/>
+    </linearGradient>
+    <linearGradient id="wishlist-h" x1="50%" x2="50%" y1=".628%" y2="100%">
+      <stop offset="0%" stop-color="#FA8A61"/>
+      <stop offset="100%" stop-color="#F76B1C"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="wishlist-d" fill="#fff">
+      <use xlink:href="#wishlist-a"/>
+    </mask>
+    <use fill="url(#wishlist-b)" xlink:href="#wishlist-a"/>
+    <rect width="90" height="90" x="47.321" y="52.745" fill="url(#wishlist-c)" mask="url(#wishlist-d)" transform="rotate(50 92.32 97.745)"/>
+    <mask id="wishlist-f" fill="#fff">
+      <use xlink:href="#wishlist-e"/>
+    </mask>
+    <use fill="#FFF" xlink:href="#wishlist-e"/>
+    <g mask="url(#wishlist-f)">
+      <g transform="translate(39 42)">
+        <rect width="52" height="43" x="21.084" y="16.158" fill="url(#wishlist-g)" transform="rotate(46 47.084 37.658)"/>
+        <path fill="url(#wishlist-h)" fill-rule="nonzero" d="M13.7228231,0.0574282147 C10.2011197,0.0574282147 6.6624443,1.20599251 3.97535368,3.96254682 C-1.3985982,9.47565543 -1.25112472,17.9750312 3.97535368,23.4881398 L25.1904341,46 L46.4055145,23.4881398 C51.6324516,17.9750312 51.779237,9.47565543 46.4055145,3.96254682 C41.031792,-1.32084894 32.2842983,-1.32084894 26.9105757,3.96254682 L25.1904341,5.80024969 L23.4702924,3.96254682 C20.7822844,1.20599251 17.2445264,0.0574282147 13.7228231,0.0574282147 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

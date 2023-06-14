@@ -1,0 +1,586 @@
+== Changelog ==
+= 2.7.1 - 31 May 2023 =
+* Fix: Taxonomy order by in product filter block
+* Fix: Deal not showing on variable product
+* Fix: Add to cart not working when using variation swatches
+* Fix: Product count not perfect in taxonomy of product filter block for search page builder
+* Fix: My account builder css issue with elementor
+* Fix: Content wrap background color not working in block
+* Fix: Billing address css broken
+* Fix: Product category 2 layout preview and design mismatch
+
+= 2.7.0 - 25 May 2023 =
+* Fix: Default font weight issue in typography
+* Fix: Product search extra scrollbar remove
+* Update: Product search result label settings
+
+= 2.6.9 - 22 May 2023 =
+* Fix: Quick view redirect to single product after add to cart
+* Update: Taxonomy showing limit settings in product filter block
+* Update: Minimum and maximum option in product filter block
+* Update: Notice Banner
+
+= 2.6.8 - 17 May 2023 =
+* New: Search Block
+
+= 2.6.7 - 15 May 2023 =
+* Update: Cart, Checkout, My Account block is now available for all pages
+* Fix: Product title issue in wishlist
+
+= 2.6.6 - 10 May 2023 =
+* Fix: Product filter issue
+
+= 2.6.5 - 10 May 2023 =
+* Fix: Call for price addon text rewrite
+* Fix: On sale and exclude product not working on product sort query
+* Fix: Embedded video not working in builder
+* Fix: Product grid 4 wishlist, compare broken on hover
+* Fix: WholesaleX price not display in quick view
+* Fix: Product sort query not working in homepage builder
+* Fix: Variation swatches not working with elementor
+* Fix: Quickview not working with elementor
+* Fix: Filter max price not showing properly
+
+= 2.6.4 - 17 April 2023 =
+* Update: Notice Banner
+
+= 2.6.3 - 10 April 2023 =
+* Fix: Undefined product variable in product query
+
+= 2.6.2 - 5 April 2023 =
+* New: Row Column Block
+
+= 2.6.1 - 3 April 2023 =
+* Fix: HTML code showing in product title
+* Fix: Product category 2 responsive design broken in mobile device
+* Fix: WooCommerce zoom disable when lightbox zoom disable in single product builder
+* Update: Alignment settings added in archive title and excerpt
+* Update: New options added in Initial Setup Wizard
+
+= 2.6.0 - 29 March 2023 =
+* Fix: Single product image gallery slide issue
+* Fix: Checkbox not showing in checkout builder
+* Update: Advance query builder
+
+= 2.5.6 - 15 March 2023 =
+* Fix: Product slide view design broken before the slider loaded
+* Fix: The flip image is not working properly in every image
+* Fix: Product search builder not working properly for all theme
+* Fix: Divi theme compatibility with shop, archive builder
+* Fix: Column not working properly for Kadence WOO Template plugin
+* Fix: Select options button is not working properly for variable product
+* Fix: WooCommerce additional variation image not working in the single product builder
+* Fix: Specific category selection missing for category query in builder
+
+= 2.5.5 - 26 February 2023 =
+* Fix: Block hide setting issue in responsive of Gutenberg editor
+* Fix: Custom tab plugin compatibility with single product builder tab
+* Fix: Product grid filter not working in widget area
+* Fix: Pagination not working in the widget area
+* Fix: Load more not working in the widget area
+* Fix: Filter, pagination, and load more not working in Kadence Elements
+* New: Google font disable option added
+
+= 2.5.4 - 13 February 2023 =
+* Fix: Favicon doesn't show in twenty twenty-two and three themes while using the builder
+* Fix: Footer menu item not showing in home page builder
+* Fix: Load more not working properly in archive builder
+* Fix: Login form design broken in my account builder
+* Update: Pagination and load more included in product list blocks
+* Update: Filtering options synced with the category query of product blocks
+
+= 2.5.3 - 30 January 2023 =
+* Fix: Private product showing on the builder
+* Fix: Add to cart button showing for out of stock products
+* Fix: All taxonomy filtering options are displaying instead of a fixed number, after clicking on the show more link
+* Update: Table content alignment settings
+
+= 2.5.2 - 25 January 2023 =
+* Fix: Block css issue
+
+= 2.5.1 - 22 January 2023 =
+* Fix: Column setting not working properly for Gutenberg mobile and tablet preview
+* Fix: Single product page compatibility issue with twenty twenty three theme
+* Fix: Product grid not working in Builder while using Docent theme
+* Fix: Filter block, search input place holder, and sort by dropdown values are not translating
+* Fix: Slide view not working in Product grid for RTL website
+* Fix: Wrapper block issue
+* Fix: Product filter by taxonomy doesn't work properly in specific category page builder
+* Update: Filter block implemented with product list 1 block
+
+= 2.5.0 - 01 January 2023 =
+* Fix: Homepage builder showing error
+* Fix: Slide view not working on mobile and tablet preview
+* Fix: The product should display based on the category while using the filtering option on a category page
+* Fix: The product should be based on the search query while using filtering options in the search results page
+* Fix: Broken design of thank you page template
+* Fix: Custom menu not showing in homepage builder
+* Fix: Block drag n drop issue
+* Fix: Filter block empty taxonomy issue
+* Update: Taxonomy initially expand/collapse control in the filter block
+* Update: Setting options for variation swatches of product label background
+
+= 2.4.9 - 14 December 2022 =
+* Update: Background image added in wrapper block
+* Fix: Compatibility issue with duplicate post plugin
+* Fix: Single product builder doesn't working for category
+* Fix: Header and footer missing on blockbase theme and elementor
+
+= 2.4.8 - 11 December 2022 =
+* Fix: Cross sell block showing even if there is no cross sell on the cart page
+* Fix: Product grid broken when product filter apply to same grid
+* Fix: Custom taxonomy support on product filter
+
+= 2.4.7 - 30 November 2022 =
+* Fix: ProductX template full-width issue
+* New: Currency Switcher Block
+
+= 2.4.6 - 24 November 2022 =
+* Fix: Product Filtering Block output issue
+
+= 2.4.5 - 20 November 2022 =
+* Fix: Product filter loader doesn't working properly
+
+= 2.4.4 - 15 November 2022 =
+* New: Dashboard setup wizard
+* New: Social Share block in single product page builder
+
+= 2.4.3 - 10 November 2022 =
+* Fix: Invalid data title on table data of Cart Total Block
+* Fix: Broken design of Compare popup
+* Fix: Broken design of Payment Method Block
+* Update: Option implemented to add sidebar in Builder
+* Update: Overview page content
+* Update: Loader added while adding to cart
+
+= 2.4.2 - 31 October 2022 =
+* Fix: Session issue
+
+= 2.4.1 - 27 October 2022 =
+* Update: Tested up to WordPress 6.1
+* Fix: Builder home page pre-made template issue
+* Fix: TemplateKit import special character issue
+* Fix: Block library css issue in page edit
+* Fix: Product count control in Filter Block
+* Fix: Save Template issues with Elementor
+* Fix: Design issue on Product Image Block
+* Fix: Broken design of image using image flip
+
+= 2.4.0 - 23 October 2022 =
+* Fix: Conflict between single product image and variation swatches in the single product builder
+* Fix: Pagination not working when using random product in quick query
+* Fix: Add to cart validation message multiple time when using variation swatches
+* Update: Quickview added on WooCommerce default shop page
+* Update: Compare added on WooCommerce default shop page
+* Update: Wishlist added on WooCommerce default shop page
+* Fix: Quick query dropdown default selection issue
+* Fix: Broken box shadow inset on Image
+* Fix: Broken star rating on Sydney theme
+
+= 2.3.9 - 19 October 2022 =
+* New: Builder settings new design
+* New: Checkout Page Builder
+* New: Billing Address Block in Checkout Page Builder
+* New: Shipping Address Block in Checkout Page Builder
+* New: Additional Information Block in Checkout Page Builder
+* New: Order Review Block in Checkout Page Builder
+* New: Payment Method Block in Checkout Page Builder
+* New: Coupon Block in Checkout Page Builder
+* New: Login Block in Checkout Page Builder
+* New: My Account Page Builder
+* New: Thank You Page Builder
+* New: Order Conformation Block in Thank You Page Builder
+* New: Thank You Address Block in Thank You Page Builder
+* New: Thank You Order Details Block in Thank You Page Builder
+* New: Order Payment Block in Thank You Page Builder
+* New: Content Wrapper Style added on Product Grid 1 and Product List 1 Block
+* Fix: Product list 1 design broken when using the filter
+* Fix: Product filtering failed to produce the correct results for specific category page.
+
+= 2.3.8 - 27 September 2022 =
+* New: Dashboard And Settings Page New Design
+* Fix: Random post not working in builder
+* Fix: Single product builder broken in plant theme
+
+= 2.3.7 - 12 September 2022 =
+* New: Global Setting Pannel added
+* New: 500+ google Fonts added
+* New: Preview Support added in block editor
+* Update: Setting Pannel redesign
+* Update: Performance improvement
+* Update: Image height control on Product Image Block
+* Fix: Caching issue solved
+* Fix: Broken Wishlist design in Divi theme
+* Fix: Broken design in Heading Block
+
+= 2.3.6 - 04 September 2022 =
+* Fix: Variation Swatches price not changing in builder
+* Fix: Broken layout design of Category 1 Block
+* Fix: Select option is not working properly in Single Product Blocks
+
+= 2.3.5 - 01 September 2022 =
+* New: Product Filter Blocks
+* Fix: Heading alignment is not working properly in Product Grid 1,2,3,4 and Product List 1 Blocks
+* Fix: Broken Product Image Blocks design on Builder in Flatsome theme
+* Fix: Broken star icon in Flatsome theme
+* Fix: Broken Image design in Product Category 2 Blocks
+
+= 2.3.4 - 9 August 2022 =
+* Fix: Loadmore doesn't work properly on Saved Templates
+* Fix: SVG icon is not appearing on Saved Templates
+* Fix: Variation Swatches doesn't work properly on Saved Templates
+* Fix: Filter doesn't work properly on Saved Templates
+* Fix: Popup closing isn't working properly on Saved Templates
+* Fix: Design Incompatibility with OceanWP Theme
+* Fix: Design Incompatibility with PopularFX Theme
+* Fix: Broken Product Review Blocks Design in Neve Theme
+* Fix: Broken Button Design on Cart Table Blocks in Colibri WP Theme
+* Fix: Rating star is not appearing in Colibri WP Theme
+* Fix: Broken author image design on Product Review Blocks in Blocksy Theme
+
+= 2.3.3 - 3 August 2022 =
+* Fix: Broken image design when category image is missing on Product Category 1 Blocks
+* Fix: Broken image design when category image is missing on Product Category 2 Blocks
+* Fix: Removing item from Wishlist doesn't work properly
+* Fix: Product compare status is not changing after removing product from compare list
+* Fix: Product Image Blocks appearing multiple times on Builder
+* Fix: Rating star is not appearing properly on Product Review Blocks in block editor
+* Fix: Rating star is not appearing properly on Product Rating Blocks in Storefront theme
+* Fix: Broken Product Image Blocks design on Builder in Storefront theme
+* Fix: Broken Buttons design on Cart Page Builder in Storefront theme
+* Fix: Broken author image design on Product Review Blocks in Storefront theme
+* Fix: Broken Navbar design on Product Tab Blocks in Storefront theme
+* Fix: Background color doesn't work properly in the Additional Info tab on Product Tab Blocks in the Storefront theme
+* Fix: Broken Product Review Blocks design on Kadence theme
+* Fix: Broken Product Review Blocks design on GeneratePress theme
+
+= 2.3.2 - 27 July 2022 =
+* Fix: Broken Additional Info Blocks width on Builder
+* Fix: Broken Product Review Blocks design on Builder
+* Fix: Heading Tag doesn't work properly in Blocks
+* Fix: Title Tag doesn't work properly in Blocks
+* Fix: Applying border on Add to Cart button doesn't work on Layout 1 of Product Grid 4 Blocks
+* Fix: The Quick View button still appears on Layout 1 of Product Grid 4 Blocks after turning it off from the settings
+* Fix: Horizontal Position doesn't work in Product Category 1 Blocks
+* Fix: Image Border Radius doesn't work in Blocks
+
+= 2.3.1 - 20 July 2022 =
+* Fix: Broken Additional Info Block alignment on Builder
+* Fix: Variation Swatches incompatible with Divi theme
+* Fix: Quickview popup confliction on Divi theme
+* Fix: In Wishlist popup for the variable product after clicking on the Select Options button redirects to the Cart Page instead of the Product Page
+* Fix: After a product is added to the wishlist, clicking on the Continue Shopping button redirects incorrectly when the "Redirect to Page" option is selected in the Wishlist Addon setting
+* Fix: Shortcode doesn't work properly on Builder
+
+= 2.3.0 - 06 July 2022 =
+* Fix: View Cart Showing Issue After Pagination
+* Fix: Quickview Addons Issue
+* Fix: Product Image Block Design Issue
+* Fix: Product Add To Cart Block Design Issue
+* Fix: Product Review Block Design Issue
+
+= 2.2.9 - 29 June 2022 =
+* Fix: Product Grid Add To Cart Issue
+* Fix: Product Grid View Cart Issue
+* Fix: WooCommerce Default Filter Issue in Shop Builder
+* Fix: WooCommerce Default Filter Issue in Archive Builder
+* Fix: Product Meta Issue in Single Product Builder
+* Fix: Product Image Sale Style Issue in Single Product Builder
+
+= 2.2.8 - 22 June 2022 =
+* New: Cart Page Builder
+* New: Cart Table Block In Cart Page Builder
+* New: Cart Total Block In Cart Page Builder
+* New: Free Shipping Progress Bar In Cart Page Builder
+* Fix: On Sale Status, Filter Issue
+* Fix: Rating 3 Star Issue
+* Fix: SelectSort Page Issue
+* Fix: Compare Page Issue
+* Fix: Builder And Variation Swatches Default Enable
+* Fix: Archive Block Title Issue
+
+= 2.2.7 - 1 June 2022 =
+* New: Variation Swatches Addons Added
+* Fix: Add to Cart Button Showing Issue
+* Fix: Review Rating CSS Issue
+* Fix: WooCommerce Deal Warning Issue
+
+= 2.2.6 - 25 May 2022 =
+* Fix: Data Escaped Issue
+
+= 2.2.5 - 24 May 2022 =
+* Fix: Many Variables and Options Escaped Issue
+
+= 2.2.4 - 22 May 2022 =
+* Fix: Data Sanitized, Escaped, and Validated Issue
+
+= 2.2.3 - 21 May 2022 =
+* Update: Plugin Title Keyword Stuffing issue
+
+= 2.2.2 - 24 April 2022 =
+* Fix: WooCommerce Check Issue
+* Fix: Blocksy Theme Issue
+
+= 2.2.1 - 20 April 2022 =
+* New: Partial Payments Addon Compatibility Added
+* Fix: Quick View Addons Popup Design Issue
+* Fix: Wishlist Addon Popup Design Issue
+* Fix: Product Compare Addons Popup Redesign
+* Fix: Product Single Page Builder Wishlist and Product Compare Issue
+* Fix: Product Compare Addon Action Issue
+
+= 2.2.0 - 11 April 2022 =
+* Fix: Stop the Hyperlink Option Issue
+* New: Back Order Addon Compatibility Added
+
+= 2.1.9 - 6 April 2022 =
+* New: Call for Price Addon Compatibility Added
+* Fix: Z-Index Save Issue Fixed
+* Fix: Query Offset Issue Fixed
+* Fix: Filter Dropdown Issue Fix
+* Fix: Filter Item Overlap Issue Fix
+* Fix: Block Preview Issue Fix
+* Fix: Product Grid #1 Three Style Available for Free
+* Fix: Product Grid #2 Three Style Available for Free
+* Fix: Product Grid #3 Three Style Available for Free
+* Fix: Product Grid #4 Three Style Available for Free
+* Fix: Product List #1 Four Styles Available for Free
+* Fix: Product Category #2 Four Styles Available for Free
+* Fix: Compare Popup Issue Fix
+* Fix: Wishlist Popup Issue Fix
+* Update: PostX Compatibility Added
+
+= 2.1.8 - 30 March 2022 =
+* New: Stock Progress Bar Addon Compatibility Added.
+* Fix: Category Heading Alignment Issue
+* Fix: Star Rating Icon CSS Issue
+* Fix: Product Single Page Builder Condition Issue
+
+= 2.1.7 - 22 March 2022 =
+* New: Pre-order Addon Compatibility Added
+* Fix: Addons Issue Fixed
+* Fix: Short Description Not Showing Correctly
+* Fix: Empty Image Permalink Issue
+* Fix: Post Grid 1, Post Grid 2, Post Grid 3, Post Grid 4, Post List 1 Empty Image Issue
+* Fix: Wishlist Add to Cart Disable Popup Issue
+* Update: Short Description Length Increase
+
+= 2.1.6 - 1 March 2022 =
+* New: All Blocks Widget Support Added
+* New: In Stock Label Added for Product
+* New: Preview on Mobile and Tablet Support Added
+* New: Filter Mobile Dropdown Menu Enable/Disable and Text Change Option Added
+* Fix: Title Link and Tag Link not Working in Quickview Issue
+* Fix: Filter Dropdown not Showing Correctly Issue
+* Fix: Notification AJAX Issue
+* Fix: Builder Shop Render Issue
+* Fix: Filter Broken Issue on Mobile Device
+* Update: Layout Pro Option Updated
+* Update: Documentation Link License Key Area Added
+* Update: Fix Spelling Mistake Issue
+
+= 2.1.5 - 26 January 2022 =
+* Fix: Color Field CSS Broken Issue
+* Fix: Builder Condition Button Broken Issue
+* Fix: Product Grid #2, Product Grid #3, Product Grid #4 Pagination Issue
+
+= 2.1.4 - 24 January 2022 =
+* New: Loadmore & Pagination Text Changing Option Add
+* New: "Compare Product" and "Wishlist" Button Design Issue
+* Fix: Product Tab Navigation Padding Issue
+* Fix: Product Image Alignment Issue
+* Fix: Sales Badge Condition Issue
+* Fix: Category by Query Field Added
+* Fix: Sale Badge Position Issue
+* Fix: Image Gallery Fixed Height Issue
+* Fix: Block Library Sections Naming Issue
+* Update: "Blocksy Companion" Plugin Compatibility Issue
+* Update: "Loadmore" is not Working Inside Group
+* Update: "Add to cart" Button Issue on Blocksy Theme
+* Update: "Twenty Twenty-Two" Theme Compatibility Issue
+* Update: WordPress 5.9 Core Compatibility Issue
+
+= 2.1.3 - 4 January 2022 =
+* Fix: Group Product and Variable Product in Builder Broken Issue
+
+= 2.1.2 - 4 January 2022 =
+* New: Top Store, Shopping Cart, Envo Storefront, Envo Shop, Ecommerce Plus, Colibri WP, Big Store, OceanWP, TwentyTwentyTwo, TwentyTwentyOne, Orchid Store, Rife Free, Customify, Sydney, Botiga, Storefront, Blocksy, Zakra, Go, Generatepress, Kadence, Neve, Astra Themes Compatibility Checked
+* New: ProductX Multisite Ready
+* New: Old to New Added in Quick Query
+* New: WooCommerce Default Filter Support Add
+* New: OnClick Copy Shortcode from Save Template
+* Fix: Builder Variable Products & Group Products Issue Fixed
+* Fix: TwentyTwentyTwo Themes Quick Blocks Icon Issue
+* Fix: Blocks Icon Broken in Widget, Blocks Manager
+* Fix: Builder's Draft Post Condition Issue
+* Fix: Builder's Quick Query Field Now Showing Issue
+* Fix: Color Settings Popup Issue
+* Fix: ProductX Textdomain Issue
+* Fix: Builders Block Library Window Closing Issue
+* Fix: No Product Found Loading Icon Removed
+* Fix: Saved Template Shortcode Issue Fixed
+
+= 2.1.1 - 22 November 2021 =
+* Fix: Query Sections Problems Issue
+* Fix: Image Lazy Loading Issue
+
+= 2.1.0 - 15 November 2021 =
+* New: Product Single page builder added
+* New: Product archive page builder added
+* New: Shop page builder added
+* New: Product Title Blocks added
+* New: Product Archive Title Blocks added
+* New: Product Image Blocks added
+* New: Product Add To Cart Blocks added
+* New: Product Stock Blocks added
+* New: Product Rating Blocks added
+* New: Product Short Description Blocks added
+* New: Product Description Blocks added
+* New: Product Price Blocks added
+* New: Product Meta Blocks added
+* New: Product Breadcrumb Blocks added
+* New: Product Additional Info Blocks added
+* New: Product Tab Blocks added
+* New: Product Review Blocks added
+
+= 2.0.9 - 23 August 2021 =
+* Fix: Addon Enable Disable Options Security Issue
+* Fix: Private Product Security Issue
+* Fix: Password Protected Product Security Issue
+
+= 2.0.8 - 19 August 2021 =
+* Fix: SVG Image Break Issue Fix
+* Fix: CSS Issue on Shop Page Fix
+* Fix: Shop Page Double Cart Link Issue
+
+= 2.0.7 - 11 August 2021 =
+* New: Show Full Title Button Added
+* New: Exclude Out of Stock Products Added in Query
+* New: Synchronization Button Added
+* Fix: Category Blocks Image Issue Fixed
+* Fix: Image alt Issue Fix
+* Fix: Cart Button Style in Quick View Issue Fix
+* Fix: Settings Overlap Issue Fix
+* Fix: License Function Issue Fixed
+* Fix: Remove Roboto Font from Heading Settings
+* Fix: Reusable Blocks Issue Fix
+* Update: WordPress 5.8 Compatibility Issue
+* Update: Feature Page Option Removed
+
+= 2.0.6 - 10 June 2021 =
+* Fix: Product Grid 1 cart issue fix
+
+= 2.0.5 - 03 June 2021 =
+* Update: Rebranding ProductX Plugin
+* Fix: Product Grid 1 Cart issue fix
+
+= 2.0.4 - 16 May 2021 =
+* Update: Performance Improvement
+
+= 2.0.3 - 07 May 2021 =
+* Fix: preview CSS broken issue
+
+= 2.0.2 - 25 April 2021 =
+* Fix: Shortcode bug fix
+* Fix: Can disable pro freature from free
+* Fix: Add to cart link filter issue
+* Update: Facebook group link added in readme
+
+= 2.0.1 - 11 April 2021 =
+* New: Backend language translate compatibility
+* New: Qubely compatibility
+* New: WPML compatibility
+* Fix: Pagination field issue
+* Fix: Product Category Blocks responsive issue
+
+= 2.0.0 - 25 March 2021 =
+* New: Product Grid 4 block added
+* New: Product Category 2 block added
+* New: Product Compare addon added
+* New: Product Flip Image addon added
+* New: Product Quickview addon added
+* New: Product Templates addon added
+* New: Product Wishlist addon added
+* New: New readymade layout added
+* New: New readymade section added
+* New: Order by modified and random added
+* New: Advanced query builder added
+* New: Action filter like top sale, most popular, top rated etc. added
+* Update: Update post grid 1, post grid 2, post grid 3
+* Update: Heading block updated
+* Fix: Inner block issue fixed
+* Fix: Filter issue fixed
+
+= 1.1.1 - 02 January 2021 =
+* Update: Plugin name rebranding
+
+= 1.1.0 - 16 December 2020 =
+* New: Only Parent Category Query Added in Category Blocks
+* New: Typography Font Weight 800, 900 Added
+* New: Set Variable Product Not Added in Cart
+* New: Gutenberg Post Blocks Compatible With Twenty Twenty One Theme
+* Fix: Filter Issue
+* Fix: Carousel Issue
+* Fix: Add to Cart Quantity Issue
+* Update: Category Blank Image Link Added
+* Fix: isActive Issue
+* Fix: Backend Title Special Charecter Issue
+* Fix: WordPress 5.6 Warning register_rest_route PHP Warning Issue
+* Fix: Paginaion in Homepage Issue
+* Fix: Toolbar Import Button Add for WordPress 5.6
+
+
+= 1.0.9 - 01 October 2020 =
+* Fix: Regsiter_rest_route was called incorrectly Issue
+* Update: Category block link in image Issue
+
+= 1.0.8 - 18 August 2020 =
+* New: Hide Import Button Disable Option Added
+* Update: Hide Import Button Design.
+
+= 1.0.7 - 30 July 2020 =
+* New: Child Category Option Added in Product Category #1 Query
+* New: Multisite Support Added
+* Fix: Show Cart Field Issue Fixed
+
+= 1.0.6 - 29 May 2020 =
+* Update: Product Blocks Grid #1 Loadmore Issue Fix
+* Update: Product Blocks Grid #2 Loadmore Issue Fix
+* Update: Product Blocks Grid #3 Loadmore Issue Fix
+
+= 1.0.5 - 21 May 2020 =
+* Update: Plugins Title and Content
+
+= 1.0.4 - 20 May 2020 =
+* New: Add Design Section top of the Setting Panel
+* Fix: Product Blocks Grid 2 Issue Fix
+* Fix: Product Blocks Grid #1 Backend Loading Issue Fix
+* Fix: Product Blocks Grid #3 Backend Loading Issue Fix
+* Fix: Product Blocks Grid #4 Backend Loading Issue Fix
+* Fix: Product Blocks List #1 Backend Loading Issue Fix
+* Fix: Product Category Blocks #1 Backend Loading Issue Fix
+
+= 1.0.3 - 12 May 2020 =
+* New: WooCommerce Active Dismiss Notice Option
+* Fix: AJAX Filter and Pagination not Working for Logout Users
+* Fix: Category Blocks Image Settings Removed
+* Fix: Product Grid 3 Alignment Removed
+* Fix: Category Blocks Count Typography
+* Fix: Default Arrow Background Color Issue
+* Fix: Category Blocks Short Description Font Size Issue
+* Fix: Category Blocks Description Style Issue
+
+= 1.0.2 - 10 May 2020 =
+* New: Slider responsive breakpoint settings
+* New: Pre-made design section added
+* Fix: Unnecessary show quick view option disable
+* Update: Plugins title and content
+
+= 1.0.1 - 4 May 2020 =
+* New: Layout Import Option Added
+* Fix: Backend product preloader issue fixed
+* Update: Product blcoks (product Grid #3) icon update
+* Update: Product blcoks (Product Grid #2) icon update
+
+= 1.0.0 - 22 April 2020 =
+* New: Initial version released

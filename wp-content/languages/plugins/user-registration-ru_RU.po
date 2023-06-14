@@ -1,0 +1,3851 @@
+# Translation of Plugins - User Registration &#8211; Custom Registration Form, Login Form And User Profile For WordPress - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - User Registration &#8211; Custom Registration Form, Login Form And User Profile For WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-02 09:08:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - User Registration &#8211; Custom Registration Form, Login Form And User Profile For WordPress - Stable (latest release)\n"
+
+#: includes/admin/settings/class-ur-settings-general.php:406
+msgid "Check to enable login title in login form."
+msgstr "Установите флажок, чтобы включить заголовок входа в форму входа."
+
+#: includes/admin/class-ur-admin-export-users.php:161
+msgid "User Status"
+msgstr "Статус пользователя"
+
+#: includes/admin/class-ur-admin-assets.php:471
+msgctxt "user-registration admin"
+msgid "Payment"
+msgstr "Платеж"
+
+#: includes/abstracts/abstract-ur-list-table.php:652
+#: includes/admin/views/html-admin-page-form-templates.php:40
+msgid "All"
+msgstr "Все"
+
+#: includes/admin/settings/class-ur-settings-general.php:164
+msgid "Endpoints Section"
+msgstr "Раздел конечных точек"
+
+#: includes/admin/views/html-admin-page-export-users.php:17
+msgid "GENERAL"
+msgstr "ОСНОВНЫЕ"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:64
+msgid "Select All "
+msgstr "Выбрать все "
+
+#: includes/admin/settings/class-ur-settings-email.php:148
+#: includes/admin/settings/class-ur-settings-email.php:155
+msgid "Send Email"
+msgstr "Отправить письмо"
+
+#: includes/admin/settings/class-ur-settings-email.php:135
+msgid "Send To"
+msgstr "Отправить"
+
+#: includes/admin/settings/class-ur-settings-general.php:145
+#: includes/RestApi/class-ur-rest-api.php:268
+msgid "Check to disable profile picture in edit profile page."
+msgstr "Установите флажок, чтобы отключить изображение профиля на странице редактирования профиля."
+
+#: includes/form/settings/class-ur-setting-user_login.php:69
+msgid "Allow Special Character"
+msgstr "Разрешить специальный символ"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:53
+#: includes/form/settings/class-ur-setting-checkbox.php:60
+msgid "Choice Limit"
+msgstr "Ограничение выбора"
+
+#: includes/functions-ur-core.php:1046
+msgid "Bottom"
+msgstr "Снизу"
+
+#: includes/functions-ur-core.php:1045
+msgid "Top"
+msgstr "Вверх"
+
+#: includes/admin/class-ur-admin-assets.php:473
+msgctxt "user registration admin"
+msgid "Are you sure want to delete this row?"
+msgstr "Вы действительно хотите удалить эту строку?"
+
+#: includes/admin/class-ur-admin-assets.php:467
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/admin/class-ur-admin-assets.php:358
+msgid "Disabled"
+msgstr "Отключить"
+
+#: includes/admin/class-ur-admin-assets.php:357
+msgid "Enabled"
+msgstr "Включено"
+
+#: includes/admin/class-ur-admin-assets.php:475
+msgctxt "user registration admin"
+msgid "At least one row is required to create a registration form."
+msgstr "Для создания регистрационной формы требуется хотя бы одна строка."
+
+#: includes/admin/class-ur-admin-assets.php:476
+msgctxt "user registration admin"
+msgid "Cannot delete row"
+msgstr "Невозможно удалить строку"
+
+#: includes/admin/class-ur-admin-assets.php:344
+#: includes/admin/views/html-admin-page-import-export-forms.php:49
+msgid "No file selected."
+msgstr "Файл не выбран."
+
+#: includes/admin/class-ur-admin-menus.php:468
+#: includes/admin/class-ur-admin-menus.php:469
+#: includes/admin/class-ur-admin-user-list-manager.php:387
+msgid "All Forms"
+msgstr "Все формы"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:389
+msgid "All UR Forms"
+msgstr "Все формы UR"
+
+#: includes/functions-ur-core.php:3551 includes/functions-ur-core.php:3554
+#: includes/functions-ur-core.php:3560 includes/functions-ur-core.php:3563
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+#: includes/form/settings/class-ur-setting-date.php:100
+msgid "Enter max date."
+msgstr "Введите максимальную дату."
+
+#: includes/form/settings/class-ur-setting-date.php:89
+msgid "Enter min date."
+msgstr "Введите минимальную дату."
+
+#: includes/functions-ur-core.php:774
+msgid "Enter placeholder for the field."
+msgstr "Введите заполнитель для поля."
+
+#: includes/admin/settings/class-ur-settings-general.php:440
+msgid "Hide Field Labels"
+msgstr "Скрыть этикетки полей"
+
+#: includes/admin/settings/class-ur-settings-general.php:502
+msgid "Labels"
+msgstr "Этикетки"
+
+#: includes/admin/settings/class-ur-settings-general.php:584
+msgid "Messages"
+msgstr "Сообщения"
+
+#: includes/admin/settings/class-ur-settings-general.php:558
+msgid "Placeholders"
+msgstr "Заполнители"
+
+#: includes/form/settings/class-ur-setting-date.php:111
+msgid "Set current as default."
+msgstr "Установить текущий по умолчанию."
+
+#: includes/admin/settings/class-ur-settings-general.php:599
+msgid "Empty Password"
+msgstr "Пустой пароль"
+
+#: includes/admin/settings/class-ur-settings-general.php:507
+#: includes/admin/settings/class-ur-settings-general.php:513
+#: includes/functions-ur-core.php:1176
+msgid "Username or Email"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: includes/form/settings/class-ur-setting-text.php:53
+msgid "Allowed maximum number of characters."
+msgstr "Разрешенное максимальное количество символов."
+
+#: includes/form/settings/class-ur-setting-number.php:61
+msgid "Amount to increment or decrement at one step."
+msgstr "Сумма для увеличения или уменьшения за один шаг."
+
+#: includes/functions-ur-core.php:794
+msgid "Check this option to hide the label of this field."
+msgstr "Установите этот флажок, чтобы скрыть этикетку этого поля."
+
+#: includes/functions-ur-core.php:784
+msgid "Check this option to mark the field required. A form will not submit unless all required fields are provided."
+msgstr "Установите этот флажок, чтобы отметить поле как обязательное. Форма не будет отправлена, если не будут заполнены все обязательные поля."
+
+#: includes/admin/settings/class-ur-settings-general.php:154
+msgid "Check to disable logout confirmation."
+msgstr "Установите этот флажок, чтобы отключить подтверждение выхода."
+
+#: includes/admin/settings/class-ur-settings-general.php:444
+msgid "Check to hide field labels."
+msgstr "Установите флажок, чтобы скрыть этикетки полей."
+
+#: includes/functions-ur-core.php:1083
+msgid "Choose form template to use."
+msgstr "Выберите шаблон формы для использования."
+
+#: includes/form/settings/class-ur-setting-checkbox.php:50
+#: includes/form/settings/class-ur-setting-country.php:56
+#: includes/form/settings/class-ur-setting-date.php:50
+#: includes/form/settings/class-ur-setting-description.php:42
+#: includes/form/settings/class-ur-setting-display_name.php:42
+#: includes/form/settings/class-ur-setting-email.php:39
+#: includes/form/settings/class-ur-setting-first_name.php:42
+#: includes/form/settings/class-ur-setting-last_name.php:42
+#: includes/form/settings/class-ur-setting-nickname.php:42
+#: includes/form/settings/class-ur-setting-number.php:72
+#: includes/form/settings/class-ur-setting-radio.php:37
+#: includes/form/settings/class-ur-setting-select.php:40
+#: includes/form/settings/class-ur-setting-text.php:75
+#: includes/form/settings/class-ur-setting-textarea.php:53
+#: includes/form/settings/class-ur-setting-user_confirm_email.php:43
+#: includes/form/settings/class-ur-setting-user_confirm_password.php:42
+#: includes/form/settings/class-ur-setting-user_email.php:42
+#: includes/form/settings/class-ur-setting-user_login.php:55
+#: includes/form/settings/class-ur-setting-user_pass.php:42
+#: includes/form/settings/class-ur-setting-user_url.php:42
+msgid "Class name to embed in this field."
+msgstr "Имя класса для вставки в это поле."
+
+#: includes/functions-ur-core.php:714
+msgid "Text"
+msgstr "Текст"
+
+#: includes/functions-ur-core.php:707
+msgid "User Login"
+msgstr "Логин пользователя"
+
+#: includes/admin/settings/class-ur-settings-general.php:135
+msgid "Ajax Submission on Edit Profile"
+msgstr "Ajax отправка при редактировании профиля"
+
+#: includes/validation/class-ur-form-validation.php:870
+msgid "Email already exists"
+msgstr "Этот адрес почты уже существует"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:277
+msgid "Registered At"
+msgstr "Зарегистрирован на"
+
+#: includes/admin/class-ur-admin-assets.php:482
+msgid "Confirm Deletion"
+msgstr "Подтвердить удаление"
+
+#: includes/admin/settings/class-ur-settings-general.php:486
+msgid "Please make sure that you have created a login or my-account page which has a login form before enabling this option. Learn how to create a login form <a href=\"https://docs.wpuserregistration.com/docs/how-to-show-login-form/\" target=\"_blank\">here</a>."
+msgstr "Перед включением этой опции убедитесь, что вы создали страницу входа или моей учетной записи, на которой есть форма входа. Узнайте, как создать форму входа <a href=\"https://docs.wpuserregistration.com/docs/how-to-show-login-form/\" target=\"_blank\">здесь</a>."
+
+#: includes/form/settings/class-ur-setting-date.php:73
+msgid "Enable Min-Max Date"
+msgstr "Включить минимальную максимальную дату"
+
+#: includes/form/settings/class-ur-setting-date.php:82
+msgid "Min Date"
+msgstr "Минимальная дата"
+
+#: includes/form/settings/class-ur-setting-date.php:93
+msgid "Max Date"
+msgstr "Максимальная дата"
+
+#: includes/form/settings/class-ur-setting-date.php:106
+msgid "Set Current Date as Default Date"
+msgstr "Установить текущую дату как дату по умолчанию"
+
+#: includes/form/settings/class-ur-setting-date.php:117
+msgid "Enable Date Range"
+msgstr "Включить диапазон дат"
+
+#: includes/form/settings/class-ur-setting-country.php:59
+msgid "Selected Countries"
+msgstr "Выбранные страны"
+
+#: includes/admin/views/html-admin-page-forms.php:147
+msgid "Get Support"
+msgstr "Получать поддержку"
+
+#: includes/admin/views/html-admin-page-forms.php:148
+msgid "Create Login Form"
+msgstr "Создать форму входа"
+
+#: includes/admin/views/html-admin-page-forms.php:149
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/admin/class-ur-admin-assets.php:492
+msgctxt "user registration admin"
+msgid "Please select at least one country."
+msgstr "Пожалуйста, выберите хотя бы одну страну."
+
+#: includes/form/settings/class-ur-setting-date.php:56
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: includes/class-ur-frontend-scripts.php:376
+msgid "Please enter a valid phone number."
+msgstr "Пожалуйста введите правильный номер телефона."
+
+#: includes/admin/class-ur-admin-user-list-manager.php:276
+msgid "Source"
+msgstr "Источник"
+
+#: includes/admin/settings/class-ur-settings-general.php:109
+msgid "Select the page which contains your login form: [%s]"
+msgstr "Выберите страницу, содержащую форму входа: [%s]"
+
+#: includes/validation/class-ur-form-validation.php:424
+msgid "Password should not match with Username or Email address."
+msgstr "Пароль не должен совпадать с именем пользователя или адресом электронной почты."
+
+#: includes/class-ur-frontend-scripts.php:389
+msgid "Password strength is not strong enough"
+msgstr "Пароль недостаточно надежный"
+
+#. translators: 1: Newly registered user count 2: User
+#: includes/admin/class-ur-admin.php:358
+msgid "%1$d new %2$s registered."
+msgstr "%1$d новый %2$s зарегестрирован."
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:34
+msgid "Export Forms"
+msgstr "Экспорт Форм"
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:21
+msgid "Export your forms along with their settings as <strong>JSON</strong> file."
+msgstr "Экспортируйте формы вместе с их настройками в файл <strong>JSON</strong>."
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:43
+msgid "Import your forms along with their settings from <strong>JSON</strong> file."
+msgstr "Импортируйте формы вместе с их настройками в файл <strong>JSON</strong>."
+
+#: includes/admin/settings/class-ur-settings-import-export.php:34
+msgid "Import/Export"
+msgstr "Импорт/Экспорт"
+
+#: includes/admin/settings/class-ur-settings-import-export.php:50
+msgid "Import/Export Forms"
+msgstr "Импорт/Экспорт Форм"
+
+#: includes/admin/class-ur-admin-import-export-forms.php:199
+#: includes/admin/class-ur-admin-import-export-forms.php:205
+msgid "Imported Successfully."
+msgstr "Импортировано Успешно."
+
+#: includes/admin/class-ur-admin-import-export-forms.php:212
+#: includes/admin/class-ur-admin-import-export-forms.php:219
+msgid "Invalid file content. Please export file from user registration plugin."
+msgstr "Недопустимое содержимое файла. Пожалуйста, экспортируйте файл из плагина регистрации пользователя."
+
+#: includes/admin/class-ur-admin-import-export-forms.php:226
+msgid "Invalid file format. Only Json File Allowed."
+msgstr "Неверный формат файла. Разрешен Только Файл Json."
+
+#: includes/admin/class-ur-admin-import-export-forms.php:233
+msgid "Please select json file to import form data."
+msgstr "Выберите файл json для импорта данных формы."
+
+#: includes/admin/class-ur-admin-menus.php:821
+#: includes/admin/views/html-admin-page-forms.php:134
+msgid "Untitled"
+msgstr "Без названия"
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:56
+msgid "Import Forms"
+msgstr "Импорт Формы"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:26
+msgid "Email sent to the admin when a user changed profile information"
+msgstr "Электронная почта, отправленная администратору, когда пользователь изменил информацию профиля"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:49
+msgid "Enable this email sent to the admin when a user changed profile information."
+msgstr "Включите это сообщение электронной почты, отправленное администратору, когда пользователь изменил информацию профиля."
+
+#: includes/admin/views/html-admin-page-forms.php:53
+msgid "Fullscreen"
+msgstr "На весь экран"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:42
+msgid "Profile Details Changed Email"
+msgstr "Письмо с изменениями в профиле"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:102
+msgid ""
+"User has changed profile information for the following account:<br/>\n"
+"\n"
+"SiteName: {{blog_info}} <br/>\n"
+"Username: {{username}} <br/>\n"
+"\n"
+"{{all_fields}}\n"
+"<br/>\n"
+"Thank You!"
+msgstr ""
+"Пользователь изменил информацию профиля для следующей учетной записи:<br/>\n"
+"\n"
+"Имя сайта: {{blog_info}} <br/>\n"
+"Логин: {{username}} <br/>\n"
+"\n"
+"{{all_fields}}\n"
+"<br/>\n"
+"Спасибо!"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:70
+#: includes/class-ur-emailer.php:533
+msgid "Profile Details Changed Email: {{blog_info}}"
+msgstr "Детали профиля изменен адрес электронной почты: {{blog_info}}"
+
+#: includes/class-ur-ajax.php:570
+msgid "File size exceed, please check your file size."
+msgstr "Размер файла превышает, пожалуйста, проверьте размер файла."
+
+#: includes/class-ur-ajax.php:577
+msgid "Something went wrong while uploading, please contact your site administrator."
+msgstr "Что-то пошло не так при загрузке, пожалуйста, свяжитесь с администратором вашего сайта."
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:233
+msgid "No profile details found."
+msgstr "Сведения о профиле не найдены."
+
+#: includes/admin/class-ur-admin-form-templates.php:98
+#: includes/admin/class-ur-admin-registrations-table-list.php:126
+#: includes/admin/views/html-admin-page-form-templates.php:100
+#: includes/admin/views/html-admin-page-forms.php:55
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: templates/myaccount/form-edit-profile.php:34
+msgid "Profile Detail"
+msgstr "Детали профиля"
+
+#. translators: %s - Form name.
+#: includes/class-ur-preview.php:121 includes/class-ur-preview.php:168
+msgid "%s &ndash; Preview"
+msgstr "%s &ndash; Предпросмотр"
+
+#: includes/admin/settings/class-ur-settings-general.php:321
+#: includes/form/class-ur-form-field-user-confirm-email.php:52
+msgid "Confirm Email"
+msgstr "Подтвердить Email"
+
+#: includes/form/class-ur-form-field-user-confirm-email.php:47
+msgid "Confirm Email "
+msgstr "Письмо с Подтверждением "
+
+#: includes/functions-ur-core.php:565
+msgid "Confirm password can not be changed."
+msgstr "Подтверждение пароля не может быть изменено."
+
+#: includes/class-ur-preview.php:66
+msgid "Edit Form"
+msgstr "Изменить форму"
+
+#: includes/validation/class-ur-form-validation.php:345
+msgid "Email and confirm email not matched"
+msgstr "Электронная почта и подтверждение электронной почты не совпадают"
+
+#: includes/admin/settings/class-ur-settings-general.php:327
+#: includes/class-ur-frontend-scripts.php:378
+msgid "Email and confirm email not matched."
+msgstr "Электронная почта и подтверждение электронной почты не совпадают."
+
+#: includes/admin/settings/class-ur-settings-general.php:322
+msgid "Enter the error message in form submission on Confim Email."
+msgstr "Введите сообщение об ошибке в форме отправки по почте Потверждения."
+
+#: includes/class-ur-frontend-scripts.php:387
+msgid "Hide Password"
+msgstr "Скрыть пароль"
+
+#: includes/form/settings/class-ur-setting-number.php:60
+msgid "Legal Number Intervals"
+msgstr "Допустимый интервал чисел"
+
+#: includes/form/settings/class-ur-setting-number.php:49
+msgid "Max Value"
+msgstr "Макс значение"
+
+#: templates/myaccount/form-edit-profile.php:71
+msgid "Max size: "
+msgstr "Максимальный размер: "
+
+#: includes/form/settings/class-ur-setting-number.php:42
+msgid "Maximum Value"
+msgstr "Максимальное значение"
+
+#: includes/form/settings/class-ur-setting-number.php:38
+#: includes/form/settings/class-ur-setting-user_login.php:65
+msgid "Min Value"
+msgstr "Мин значение"
+
+#: includes/form/settings/class-ur-setting-number.php:31
+msgid "Minimum Value"
+msgstr "Минимальное значение"
+
+#. translators: 1: user display name 2: logout url
+#: templates/myaccount/dashboard.php:82
+msgid "Not %1$s? <a href=\"%2$s\">Sign out</a>"
+msgstr "Вы не %1$s? <a href=\"%2$s\">Выйти</a>"
+
+#: includes/functions-ur-core.php:561
+msgid "Passowrd can not be changed."
+msgstr "Пароль не может быть изменен."
+
+#: includes/admin/class-ur-admin-assets.php:318
+#: includes/admin/views/html-admin-page-forms.php:55
+msgid "Preview Form"
+msgstr "Предпросмотр формы"
+
+#: includes/class-ur-frontend-scripts.php:388
+#: templates/myaccount/form-edit-password.php:43
+#: templates/myaccount/form-edit-password.php:55
+#: templates/myaccount/form-edit-password.php:66
+#: templates/myaccount/form-reset-password.php:36
+#: templates/myaccount/form-reset-password.php:47
+msgid "Show Password"
+msgstr "Показать пароль"
+
+#: templates/myaccount/form-login.php:105
+msgid "Show password"
+msgstr "Показать Пароль"
+
+#: includes/form/settings/class-ur-setting-number.php:53
+msgid "Step"
+msgstr "Шаг"
+
+#: templates/myaccount/form-edit-profile.php:74
+msgid "Upload your new profile image."
+msgstr "Загрузите новое изображение профиля."
+
+#: includes/functions-ur-core.php:557
+msgid "Username can not be changed."
+msgstr "Имя пользователя не может быть изменено."
+
+#. translators: %s - Users display name.
+#: templates/myaccount/dashboard.php:28
+msgid "Welcome, %1$s"
+msgstr "Добро пожаловать на %1$s"
+
+#: includes/class-ur-ajax.php:132
+msgid "You are already logged in."
+msgstr "Вы уже вошли в систему."
+
+#: includes/functions-ur-core.php:568
+msgid "Confirm email can not be changed."
+msgstr "Подтверждение электронной почты не может быть изменено."
+
+#: includes/class-ur-form-handler.php:268
+msgid "Please enter your new password."
+msgstr "Пожалуйста, введите новый пароль."
+
+#: includes/admin/functions-ur-admin.php:619
+msgid "I already did!"
+msgstr "Я уже сделал это!"
+
+#: includes/admin/functions-ur-admin.php:623
+msgid "Never show again"
+msgstr "Никогда больше не показывать"
+
+#: includes/admin/functions-ur-admin.php:618
+msgid "Sure, I'd love to!"
+msgstr "Конечно, с удовольствием!"
+
+#: includes/admin/functions-ur-admin.php:42
+msgid "loading..."
+msgstr "загрузка..."
+
+#: templates/dashboard-widget.php:29
+msgid "Current Version:"
+msgstr "Текущая версия:"
+
+#: includes/admin/settings/class-ur-settings-misc.php:73
+msgid "<strong>Heads Up!</strong> Check this if you would like to remove ALL User Registration data upon plugin deletion."
+msgstr "Внимание! Установите флажок, если вы хотите удалить все регистрационные данные пользователя после удаления плагина."
+
+#: templates/dashboard-widget.php:52
+msgid "Last Month"
+msgstr "Последний месяц"
+
+#: templates/dashboard-widget.php:46
+msgid "Last Week"
+msgstr "Прошлая неделя"
+
+#: templates/myaccount/form-edit-profile.php:96
+msgid "Remove"
+msgstr "Удалить"
+
+#: includes/admin/class-ur-admin-assets.php:240
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: templates/dashboard-widget.php:40
+msgid "Today"
+msgstr "Сегодня"
+
+#: templates/dashboard-widget.php:58
+msgid "Total"
+msgstr "Итого"
+
+#: includes/admin/class-ur-admin-settings.php:655
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: includes/admin/class-ur-admin-assets.php:239
+msgid "Upload Profile Picture"
+msgstr "Загрузить изображение профиля"
+
+#: includes/admin/functions-ur-admin.php:26
+msgid "User Registration Activity"
+msgstr "Деятельность по регистрации пользователей"
+
+#: templates/myaccount/form-edit-profile.php:108
+msgid "You can change your profile picture on"
+msgstr "Вы можете изменить изображение профиля на"
+
+#: includes/form/class-ur-form-field-checkbox.php:52
+#: includes/form/class-ur-form-field-radio.php:52
+#: includes/form/class-ur-form-field-select.php:52
+#: includes/functions-ur-core.php:827
+msgid "First Choice"
+msgstr "Первый выбор"
+
+#: includes/class-ur-form-handler.php:474
+msgid "Invalid Key"
+msgstr "Неверный ключ"
+
+#: includes/form/class-ur-form-field-checkbox.php:53
+#: includes/form/class-ur-form-field-radio.php:53
+#: includes/form/class-ur-form-field-select.php:53
+#: includes/functions-ur-core.php:828
+msgid "Second Choice"
+msgstr "Второй выбор"
+
+#: includes/class-ur-form-handler.php:491
+msgid "Thanks for confirming your erasure request."
+msgstr "Спасибо за подтверждение вашего запроса на удаление."
+
+#: includes/class-ur-form-handler.php:489
+msgid "Thanks for confirming your export request."
+msgstr "Спасибо за подтверждение вашего запроса на экспорт."
+
+#: includes/form/class-ur-form-field-checkbox.php:54
+#: includes/form/class-ur-form-field-radio.php:54
+#: includes/form/class-ur-form-field-select.php:54
+#: includes/functions-ur-core.php:829
+msgid "Third Choice"
+msgstr "Третий выбор"
+
+#: includes/class-ur-cache-helper.php:86
+msgid "In order for <strong>database caching</strong> to work with User Registration you must add %1$s to the \"Ignored Query Strings\" option in <a href=\"%2$s\">W3 Total Cache settings</a>."
+msgstr "Чтобы <strong>кэширование базы данных</strong> работало с User Registration, необходимо добавить %1$s к опции \"Ignored Query Strings\" в настройках <a href=\"%2$s\">W3 Total Cache</a>."
+
+#: includes/admin/class-ur-admin-welcome.php:63
+#: includes/admin/views/html-admin-page-forms.php:77
+#: includes/class-ur-form-block.php:65
+msgid "Form Settings"
+msgstr "Настройки формы"
+
+#: includes/class-ur-ajax.php:739
+msgid "Could not save form, "
+msgstr "Не могу сохранить форму, "
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:25
+msgid "Email sent to the user with a verification link when email confirmation to register option is choosen"
+msgstr "Электронная почта, отправленная пользователю со ссылкой для подтверждения, когда выбрано подтверждение электронной почты для регистрации"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:49
+msgid "Enable this email sent to the user notifying the registration is approved by site admin."
+msgstr "Включите это сообщение электронной почты, отправленное пользователю с уведомлением о том, что регистрация одобрена администратором сайта."
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:49
+msgid "Enable this email sent to the user notifying the registration is denied by the admin."
+msgstr "Включите это сообщение электронной почты, отправленное пользователю с уведомлением о том, что регистрация запрещена администратором."
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:49
+msgid "Enable this email sent to the user notifying the registration is pending."
+msgstr "Включите это сообщение электронной почты, отправленное пользователю с уведомлением о том, что регистрация еще не завершена."
+
+#: includes/class-ur-ajax.php:186 includes/class-ur-form-handler.php:364
+#: includes/functions-ur-core.php:3488
+msgid "Error on google reCaptcha. Contact your site administrator."
+msgstr "Ошибка на Google reCaptcha. Обратитесь к администратору сайта."
+
+#: includes/admin/class-ur-admin-welcome.php:64
+#: includes/class-ur-form-block.php:66
+msgid "Form"
+msgstr "Форма"
+
+#: templates/form-registration.php:191
+msgid "Form not found, form id :"
+msgstr "Форма не найдена, идентификатор формы :"
+
+#: includes/admin/class-ur-admin-welcome.php:61
+#: includes/class-ur-form-block.php:63
+msgid "Select &#38; display one of your form."
+msgstr "Выберите &#38; отобразить одну из ваших форм."
+
+#: includes/admin/class-ur-admin-welcome.php:62
+#: includes/class-ur-form-block.php:64
+msgid "Select a Form"
+msgstr "Выберите форму"
+
+#: includes/admin/class-ur-admin-assets.php:490
+msgctxt "user registration admin"
+msgid "field is required."
+msgstr "является обязательным полем."
+
+#: includes/admin/class-ur-admin-assets.php:469
+msgctxt "user-registration admin"
+msgid "User Email"
+msgstr "Электронная почта пользователя"
+
+#: includes/admin/class-ur-admin-assets.php:470
+msgctxt "user-registration admin"
+msgid "User Password"
+msgstr "Пароль пользователя"
+
+#: includes/class-ur-privacy.php:89
+msgid "In this subsection you should list which third party modules you’re using to increase functionality on your site since these may handle customer data. We’ve included MailChimp as an example, but you should remove this if you’re not using MailChimp."
+msgstr "В этом подразделе Вы должны указать, какие сторонние модули вы используете для повышения функциональности вашего сайта, так как они могут обрабатывать данные клиентов. Мы включили MailChimp в качестве примера, но вы должны удалить его, если вы не используете MailChimp."
+
+#: includes/functions-ur-core.php:996
+#: includes/RestApi/class-ur-rest-api.php:230
+msgid "Minimum Password Strength"
+msgstr "Минимальная сложность пароля"
+
+#: includes/class-ur-privacy.php:92
+msgid "Please see the <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp Privacy Policy</a> for more details."
+msgstr "Пожалуйста, смотрите <a href=\"https://mailchimp.com/legal/privacy/\"> Политика конфиденциальности MailChimp</a> для получения более подробной информации."
+
+#: includes/class-ur-privacy.php:91
+msgid "We send beautiful email through MailChimp. When processing emails, some of your data will be passed to MailChimp, including information required to process or support the email marketing services, such as the name, email address and any other information that you intend to pass or collect including all collected information through subscription."
+msgstr "Мы отправляем красивую электронную почту через MailChimp. При обработке электронных писем некоторые из ваших данных будут переданы MailChimp, включая информацию, необходимую для обработки или поддержки служб маркетинга электронной почты, такую как имя, адрес электронной почты и любую другую информацию, которую вы намерены передать или собрать, включая всю собранную информацию по подписке."
+
+#: includes/class-ur-privacy.php:87
+msgid "Available Modules"
+msgstr "Доступные модули"
+
+#: includes/class-ur-privacy.php:83
+msgid "In this subsection you should list which third party payment processors you’re using to take payments on your site since these may handle customer data. We’ve included PayPal as an example, but you should remove this if you’re not using PayPal."
+msgstr "В этом подразделе Вы должны указать, какие сторонние платежные системы вы используете для приема платежей на вашем сайте, поскольку они могут обрабатывать данные клиентов. Мы включили PayPal в качестве примера, но вы должны удалить это, если вы не используете PayPal."
+
+#: includes/class-ur-privacy.php:86
+msgid "Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Privacy Policy</a> for more details."
+msgstr "Дополнительную информацию см. в <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">Политике конфиденциальности PayPal</a>."
+
+#: includes/class-ur-privacy.php:85
+msgid "We accept payments through PayPal. When processing payments, some of your data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information."
+msgstr "Мы принимаем платежи через PayPal. При обработке платежей часть ваших данных будет передана в PayPal, включая информацию, необходимую для обработки или поддержки платежа, такую как общая сумма покупки и платежная информация."
+
+#: includes/class-ur-privacy.php:73
+msgid "Customer information like your name, email and address information."
+msgstr "Информация о клиенте, как ваше имя, адрес электронной почты и адресную информацию."
+
+#: includes/class-ur-privacy.php:72
+msgid "Form submission information and other details related to it"
+msgstr "Форма подачи информации и другие детали, связанные с ней"
+
+#: includes/class-ur-privacy.php:78
+msgid "In this section you should list who you’re sharing data with, and for what purpose. This could include, but may not be limited to, analytics, marketing, payment gateways, shipping providers, and third party embeds."
+msgstr "В этом разделе необходимо перечислить третьи стороны, которым вы передаёте информацию, и указать, с какой целью вы это делаете. К таким целям может относиться, например, анализ данных, маркетинг, обеспечение работы платёжных шлюзов и встроенных объектов сторонних разработчиков."
+
+#: includes/class-ur-privacy.php:70
+msgid "Members of our team have access to the information you provide us. For example, both Administrators and Editors can access:"
+msgstr "Члены нашей команды имеют доступ к информации, которую вы предоставляете нам. Например, как администраторы, так и редакторы могут получить доступ:"
+
+#: includes/class-ur-privacy.php:75
+msgid "Our team members have access to this information to help fulfill entries and support you."
+msgstr "Члены нашей команды имеют доступ к этой информации, чтобы помочь выполнить записи и поддержать вас."
+
+#: includes/class-ur-privacy.php:81
+msgid "Payments"
+msgstr "Платежи"
+
+#: includes/class-ur-privacy.php:80
+msgid "We share information with third parties who help us provide our orders and store services to you; for example --"
+msgstr "Мы делимся информацией с третьими лицами, которые помогают нам предоставлять вам наши заказы и услуги магазина; например --"
+
+#: includes/class-ur-privacy.php:68
+msgid "We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store form submission information for XXX years for geolocating and marketting purposes. This includes your name, address, email, phone number."
+msgstr "Как правило, мы храним информацию о вас до тех пор, пока она нам необходима для целей, для которых мы ее собираем и используем, и мы не обязаны по закону продолжать ее хранить. Например, мы будем хранить информацию о подаче формы в течение XXX лет для целей геолокации и маркетинга. Это включает в себя ваше имя, адрес, адрес электронной почты, номер телефона."
+
+#: includes/class-ur-privacy.php:76
+msgid "What we share with others"
+msgstr "Какую информацию мы передаём третьим сторонам"
+
+#: includes/class-ur-privacy.php:69
+msgid "Who on our team has access"
+msgstr "У каких членов нашей команды есть доступ"
+
+#: includes/class-ur-privacy.php:62
+msgid "Comply with any legal obligations we have, such as calculating taxes"
+msgstr "Соблюдайте все наши юридические обязательства, такие как расчет налогов"
+
+#: includes/class-ur-privacy.php:67
+msgid "If you create an account, we will store your name, address, email and phone number, which will be used to populate the form fields for future submissions."
+msgstr "Если вы создадите учетную запись, мы сохраним Ваше имя, адрес, адрес электронной почты и номер телефона, которые будут использоваться для заполнения полей формы для будущих взаимодействий с сайтом."
+
+#: includes/class-ur-privacy.php:63
+msgid "Improve our form offerings"
+msgstr "Улучшите наши предложения формы"
+
+#: includes/class-ur-privacy.php:65
+msgid "Or any other service the built form was created to comply with and it’s necessary information"
+msgstr "Или любой другой сервис построенная форма была создана для соблюдения и это необходимая информация"
+
+#: includes/class-ur-privacy.php:60
+msgid "Process payments and prevent fraud"
+msgstr "Обработка платежей и предотвращение мошенничества"
+
+#: includes/class-ur-privacy.php:59
+msgid "Respond to your requests, including transaction details and complaints"
+msgstr "Отвечайте на ваши запросы, включая детали транзакций и жалобы"
+
+#: includes/class-ur-privacy.php:58
+msgid "Send you information about your account and order"
+msgstr "Отправить вам информацию о вашем счете и заказе"
+
+#: includes/class-ur-privacy.php:64
+msgid "Send you marketing messages, if you choose to receive them"
+msgstr "Отправлять вам маркетинговые сообщения, если вы решите их получать"
+
+#: includes/class-ur-privacy.php:61
+msgid "Set up your account for our site"
+msgstr "Настройка учетной записи для нашего сайта"
+
+#: includes/class-ur-privacy.php:56
+msgid "When you fill up a form, we’ll ask you to provide information including your name, address, email, phone number, payment details and optional account information like username and password and any other form fields available in the registration form. We’ll use this information for purposes, such as, to:"
+msgstr "Когда вы заполняете форму, мы просим Вас предоставить информацию, включая ваше имя, адрес, адрес электронной почты, номер телефона, платежные реквизиты и дополнительную информацию об учетной записи, такую как имя пользователя и пароль, а также любые другие поля формы, доступные в регистрационной форме. Мы будем использовать эту информацию для таких целей, как:"
+
+#: includes/class-ur-privacy.php:52
+msgid "Form Fields Data: Forms Fields data includes the available field types when creating a form. We’ll use this to, for example, collect informations like Name, Email and other available fields."
+msgstr "Данные полей форм: данные полей форм включают доступные типы полей при создании формы. Мы будем использовать это, например, для сбора информации, такой как имя, адрес электронной почты и другие доступные поля."
+
+#: includes/class-ur-privacy.php:53
+msgid "Location, IP address and browser type: we’ll use this for purposes like geolocating users and reducing fraudulent activities."
+msgstr "Местоположение, IP-адрес и тип браузера: мы будем использовать это для таких целей, как геолокация пользователей и сокращение мошеннических действий."
+
+#: includes/class-ur-privacy.php:45
+msgid "This sample policy includes the basics around what personal data you may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your form will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Этот пример политики содержит основные сведения о том, какие личные данные вы можете собирать, хранить и передавать, а также Кто может иметь доступ к этим данным. В зависимости от того, какие настройки включены и какие дополнительные плагины используются, конкретная информация, предоставляемая вашей формой, будет отличаться. Мы рекомендуем проконсультироваться с юристом при принятии решения о том, какую информацию раскрывать в вашей политике конфиденциальности."
+
+#: includes/class-ur-privacy.php:54
+msgid "Transaction Details: we’ll ask you to enter this so we can, for instance, provide subscription packs, and keep track of your payment details for subscription packs!"
+msgstr "Детали транзакции: мы попросим вас ввести это, чтобы мы могли, например, предоставлять пакеты подписки и отслеживать Ваши платежные реквизиты для пакетов подписки!"
+
+#: includes/class-ur-privacy.php:48
+msgid "We collect information about the user during the user registration form submission process on our site."
+msgstr "Мы собираем информацию о пользователе в процессе подачи формы регистрации пользователя на нашем сайте."
+
+#: includes/class-ur-privacy.php:49
+msgid "What we collect and store"
+msgstr "Какие данные мы собираем и храним"
+
+#: includes/class-ur-privacy.php:50
+msgid "While you visit our site, we’ll track:"
+msgstr "Когда вы посещаете наш сайт, мы сохраняем следующие сведения о вас:"
+
+#: includes/admin/settings/class-ur-settings-import-export.php:49
+#: includes/admin/views/html-admin-page-export-users.php:36
+msgid "Export Users"
+msgstr "Экспорт пользователей"
+
+#: includes/admin/views/html-admin-page-export-users.php:21
+msgid "Export your users along with their extra information registered with a user registration form as a <strong>CSV</strong> file."
+msgstr "Экспортируйте пользователей вместе с их дополнительной информацией, зарегистрированной в форме регистрации Пользователя, в виде файла <strong>CSV</strong>."
+
+#: includes/class-ur-frontend-scripts.php:406
+msgid "Hint: To make password stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."
+msgstr "Подсказка: чтобы сделать пароль сильнее, используйте буквы верхнего и нижнего регистра, цифры и символы, такие как ! \"? $ % ^ & )."
+
+#: includes/class-ur-frontend-scripts.php:401
+#: includes/functions-ur-core.php:1005
+#: includes/RestApi/class-ur-rest-api.php:238
+msgid "Medium"
+msgstr "Средний"
+
+#: includes/admin/class-ur-admin-export-users.php:87
+msgid "No users found with this form id."
+msgstr "Пользователи с этим идентификатором ID не найдены."
+
+#: includes/class-ur-frontend-scripts.php:397
+msgid "Please enter a stronger password."
+msgstr "Пожалуйста, введите более надёжный пароль."
+
+#: includes/class-ur-frontend-scripts.php:402
+#: includes/functions-ur-core.php:1006
+#: includes/RestApi/class-ur-rest-api.php:239
+msgid "Strong"
+msgstr "Сильный"
+
+#: includes/admin/class-ur-admin-export-users.php:156
+#: includes/class-ur-smart-tags.php:40
+msgid "User ID"
+msgstr "Пользовательский ID"
+
+#: includes/admin/class-ur-admin-export-users.php:163
+msgid "User Registered"
+msgstr "Зарегистрированный пользователь"
+
+#: includes/admin/class-ur-admin-export-users.php:165
+msgid "User Registered GMT"
+msgstr "Пользователь, зарегистрированный по Гринвичу"
+
+#: includes/admin/class-ur-admin-export-users.php:159
+msgid "User Role"
+msgstr "Роль пользователя"
+
+#: includes/class-ur-frontend-scripts.php:399
+#: includes/functions-ur-core.php:1003
+#: includes/RestApi/class-ur-rest-api.php:236
+msgid "Very Weak"
+msgstr "Очень слабый"
+
+#: includes/class-ur-frontend-scripts.php:400
+#: includes/functions-ur-core.php:1004
+#: includes/RestApi/class-ur-rest-api.php:237
+msgid "Weak"
+msgstr "Слабый"
+
+#: includes/admin/settings/class-ur-settings-general.php:434
+msgid "Check to enable/disable lost password."
+msgstr "Установите флажок, чтобы включить / отключить \"Восстановить пароль\"."
+
+#: includes/admin/settings/class-ur-settings-general.php:376
+msgid "Choose the login form template."
+msgstr "Выберите шаблон формы входа."
+
+#: includes/admin/settings/class-ur-settings-general.php:375
+#: includes/functions-ur-core.php:1068
+msgid "Form Template"
+msgstr "Шаблон формы"
+
+#: includes/admin/settings/class-ur-settings-general.php:50
+msgid "Login Options"
+msgstr "Настройки Формы входа"
+
+#: includes/admin/views/html-admin-page-forms.php:42
+msgid "Copied!"
+msgstr "Скопировано!"
+
+#: includes/admin/views/html-admin-page-forms.php:42
+msgid "Copy Shortcode!"
+msgstr "Копировать шорткод!"
+
+#: templates/myaccount/form-edit-password.php:38
+msgid "Current password"
+msgstr "Текущий пароль"
+
+#. translators: %s - Lost password URL
+#: includes/functions-ur-account.php:58
+msgid "Invalid username. %1s"
+msgstr "Неверное имя пользователя. %1s"
+
+#: includes/admin/settings/class-ur-settings-general.php:177
+#: includes/class-ur-query.php:72 includes/functions-ur-account.php:122
+#: templates/myaccount/form-edit-password.php:34
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+#: includes/admin/settings/class-ur-settings-general.php:118
+msgid "Layout"
+msgstr "Макет"
+
+#: includes/admin/settings/class-ur-settings-general.php:126
+#: includes/RestApi/class-ur-rest-api.php:262
+msgid "Horizontal"
+msgstr "Горизонтальный"
+
+#: includes/admin/settings/class-ur-settings-general.php:127
+#: includes/RestApi/class-ur-rest-api.php:263
+msgid "Vertical"
+msgstr "Вертикальный"
+
+#: includes/admin/settings/class-ur-settings-general.php:178
+msgid "Endpoint for the \"My account &rarr; Change Password\" page."
+msgstr "Конечные точки для страницы \"Мой аккаунт &rarr; Изменить пароль\"."
+
+#: includes/admin/settings/class-ur-settings-general.php:166
+msgid "Endpoints: "
+msgstr "Конечные точки учётной записи: "
+
+#. translators: 1 profile details url, 2: change password url
+#: templates/myaccount/dashboard.php:75
+msgid "From your account dashboard you can edit your <a href=\"%1$s\"> profile details</a> and <a href=\"%2$s\">edit your password</a>."
+msgstr "На панели управления учетной записи вы можете изменить <a href=\"%1$s\"> сведения о профиле </a> и <a href=\"%2$s\">изменить пароль </a>."
+
+#: templates/myaccount/form-edit-profile.php:108
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: includes/admin/settings/class-ur-settings-general.php:103
+msgid "My account Section"
+msgstr "Страница Моя учетная запись"
+
+#: includes/class-ur-form-handler.php:301
+msgid "Password changed successfully."
+msgstr "Пароль успешно изменён."
+
+#: includes/RestApi/class-ur-rest-api.php:257
+msgid "This option lets you choose layout for user registration my account tab."
+msgstr "Эта опция позволяет выбрать макет для вкладки регистрация пользователя Моя учетная запись."
+
+#. translators: %s - Link to logout.
+#. translators: 1: Link and username of user 2: Logout url
+#: includes/class-ur-ajax.php:232 includes/class-ur-shortcodes.php:222
+msgid "You are currently logged in as %1$1s. %2$2s"
+msgstr "Вы вошли в систему как %1$1s. %2$2s"
+
+#: includes/admin/class-ur-admin-assets.php:478
+msgctxt "user registration admin"
+msgid "Could not clone this field."
+msgstr "Не удалось задублировать это поле."
+
+#: includes/admin/class-ur-admin-assets.php:477
+msgctxt "user registration admin"
+msgid "This field is one time draggable."
+msgstr "Это поле однократно перетаскивается."
+
+#. translators: %s - Username
+#. translators: %s - Lost password URL
+#: includes/admin/settings/class-ur-settings-general.php:547
+#: includes/functions-ur-account.php:55 includes/functions-ur-account.php:58
+msgid "Lost Your Password?"
+msgstr "Забыли свой пароль?"
+
+#. translators: %s - Resend Verification Link.
+#: includes/class-ur-email-confirmation.php:402
+#: includes/class-ur-user-approval.php:231
+#: includes/class-ur-user-approval.php:257
+msgid "Resend Verification Link"
+msgstr "Повторно отправить ссылку подтверждения"
+
+#. translators: %s - Username
+#: includes/functions-ur-account.php:55
+msgid "The password you entered for username %1$1s is incorrect. %2$2s"
+msgstr "Неверный пароль, введенный для имени пользователя %1$1s %2$2s"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have successfully completed user registration on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Please visit '<b>My Account</b>' page to edit your account details and create your user profile on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"Привет {{username}}, <br/>\n"
+"\n"
+"Вы успешно завершили регистрацию пользователя на <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Пожалуйста, посетите страницу '<b>My Account</b>' чтобы изменить данные учетной записи и создать свой профиль пользователя на <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Спасибо!"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:92
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"Your registration on <a href=\"{{home_url}}\">{{blog_info}}</a> has been changed to pending. <br/>\n"
+"\n"
+"Sorry for the inconvenience. <br/>\n"
+"\n"
+"You will be notified after it is approved. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"Здравствуйте {{username}}, <br/>\n"
+"\n"
+"Ваша регистрация на <a href=\"{{home_url}}\">{{blog_info}}</a> была переведена в статус \"В ожидании\". <br/>\n"
+"\n"
+"Извините за доставленные неудобства.<br/>\n"
+"\n"
+"Вы будете уведомлены после его утверждения.<br/>\n"
+"\n"
+"Спасибо!"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have registered on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Unfortunately your registration is denied. Sorry for the inconvenience. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"Здравствуйте {{username}}, <br/>\n"
+"\n"
+"Вы зарегестрировались на <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"К сожалению, в вашей регистрации отказано. Извините за доставленные неудобства. <br/>\n"
+"\n"
+"Спасибо!"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"Your registration on <a href=\"{{home_url}}\">{{blog_info}}</a>  has been approved. <br/>\n"
+"\n"
+"Please visit '<b>My Account</b>' page to edit your account details and create your user profile on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"Здравствуйте {{username}}, <br/>\n"
+"\n"
+"Ваша заявка на регистрацию<a href=\"{{home_url}}\">{{blog_info}}</a>  была одобрена. <br/>\n"
+"\n"
+"Пожалуйста посетите  страницу '<b>Кабинет</b>', чтобы дополнить или изменить данные вашего аккаунта по ссылке <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Спасибо!"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have registered on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Please wait until the site admin approves your registration. You will be notified after it is approved. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"Здравствуйте {{username}}, <br/>\n"
+"\n"
+"Вы зарегестрировались на <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Пожалуйста, подождите, пока администратор сайта не одобрит вашу регистрацию. Вы будете уведомлены после его утверждения.<br/>\n"
+"\n"
+"Спасибо!"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:55
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:56
+msgid "Email Receipents"
+msgstr "Получатели Email"
+
+#: includes/admin/settings/class-ur-settings-general.php:332
+msgid "Enter the error message in form submission on Confim Password."
+msgstr "Введите сообщение об ошибке в форме  для поля \"Потверждения пароля\"."
+
+#: includes/admin/settings/class-ur-settings-general.php:292
+msgid "Enter the error message in form submission on Email."
+msgstr "Введите сообщение об ошибке в форме отправки по электронной почте."
+
+#: includes/admin/settings/class-ur-settings-general.php:312
+msgid "Enter the error message in form submission on Number."
+msgstr "Введите сообщение об ошибке в форме для поля \"Число\"."
+
+#: includes/admin/settings/class-ur-settings-general.php:274
+msgid "Enter the error message in form submission on required fields."
+msgstr "Введите сообщение об ошибке в поле отправка формы в обязательных полях."
+
+#: includes/admin/settings/class-ur-settings-general.php:302
+msgid "Enter the error message in form submission on website/URL."
+msgstr "Введите сообщение об ошибке в форме отправки на веб-сайте / URL."
+
+#: includes/admin/settings/class-ur-settings-general.php:268
+msgid "Error Messages"
+msgstr "Cообщения об ошибке"
+
+#: includes/admin/settings/class-ur-settings-general.php:337
+#: includes/class-ur-frontend-scripts.php:375
+msgid "Password and confirm password not matched."
+msgstr "Пароль и подтверждение пароля не совпадают."
+
+#: includes/admin/settings/class-ur-settings-general.php:307
+#: includes/class-ur-frontend-scripts.php:373
+msgid "Please enter a valid URL."
+msgstr "Пожалуйста, введите действительный URL-адрес."
+
+#: includes/admin/settings/class-ur-settings-general.php:297
+#: includes/class-ur-frontend-scripts.php:372
+msgid "Please enter a valid email address."
+msgstr "Пожалуйста, введите действительный адрес электронной почты."
+
+#: includes/admin/settings/class-ur-settings-general.php:317
+#: includes/class-ur-frontend-scripts.php:374
+msgid "Please enter a valid number."
+msgstr "Пожалуйста, введите допустимую цифру."
+
+#: includes/frontend/class-ur-frontend-form-handler.php:172
+msgid "Something went wrong! please try again"
+msgstr "Что - то пошло не так! пожалуйста, попробуйте еще раз"
+
+#: includes/admin/settings/class-ur-settings-general.php:222
+msgid "Success Messages"
+msgstr "Сообщения об успехе"
+
+#: includes/admin/settings/class-ur-settings-general.php:279
+#: includes/class-ur-frontend-scripts.php:371
+msgid "This field is required."
+msgstr "Является обязательным полем."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:57
+msgid "Use comma to send emails to multiple receipents."
+msgstr "Используйте запятую для отправки писем нескольким получателям."
+
+#: includes/admin/settings/class-ur-settings-general.php:301
+msgid "Website URL"
+msgstr "Ссылка Веб-сайта"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:89
+msgid ""
+"Someone has requested a password reset for the following account: <br/>\n"
+"\n"
+"SiteName: {{blog_info}} <br/>\n"
+"Username: {{username}} <br/>\n"
+"\n"
+"If this was a mistake, just ignore this email and nothing will happen. <br/>\n"
+"\n"
+"To reset your password, visit the following address: <br/>\n"
+"<a href=\"{{home_url}}/{{ur_login}}?action=rp&key={{key}}&login={{username}} \" rel=\"noreferrer noopener\" target=\"_blank\">Click Here</a><br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"Некто запросил восстановление пароля для следующего аккаунта: <br/>\n"
+"\n"
+"Имя сайта: {{blog_info}} <br/>\n"
+"Логин: {{username}} <br/>\n"
+"\n"
+"Если это ошибка, просто проигнорируйте это сообщение, ничего не произойдет. <br/>\n"
+"\n"
+"Чтобы восстановить пароль пройдите по ссылке ниже: <br/>\n"
+"{{home_url}}/{{ur_login}}?action=rp&key={{key}}&login={{username}} <br/>\n"
+"\n"
+"Спасибо!"
+
+#: includes/admin/class-ur-admin-profile.php:60
+#: includes/admin/functions-ur-admin.php:150
+#: includes/admin/functions-ur-admin.php:213
+msgid "User Extra Information"
+msgstr "Дополнительная Информация о Пользователе"
+
+#: includes/admin/functions-ur-admin.php:233
+msgid "WordPress User Extra Information"
+msgstr "WordPress Дополнительная Информация о Пользователе"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:25
+msgid "Email sent to the user when a user requests for reset password"
+msgstr "Электронная почта отправляется пользователю, когда пользователь запрашивает восстановить пароля"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:59
+#: includes/class-ur-emailer.php:483
+msgid "Password Reset Email: {{blog_info}}"
+msgstr "Письмо для восстановления пароля по электронной почте: {{blog_info}}"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:24
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:41
+msgid "Reset Password Email"
+msgstr "Сообщение о восстановлении пароля"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:420
+msgid "The email could not be sent. Contact your site administrator. "
+msgstr "Письмо не может быть отправлено. Обратитесь к администратору сайта. "
+
+#: includes/class-ur-email-confirmation.php:167
+msgid "User does not exist!"
+msgstr "Пользователь не существует!"
+
+#: includes/class-ur-email-confirmation.php:160
+msgid "Verification Email Sent!"
+msgstr "Письмо С Подтверждением Отправлено!"
+
+#: includes/functions-ur-core.php:713 includes/functions-ur-core.php:751
+#: includes/functions-ur-core.php:753
+msgid "Description"
+msgstr "Описание"
+
+#: includes/admin/settings/class-ur-settings-general.php:51
+msgid "Frontend Messages"
+msgstr "Сообщения на сайте"
+
+#: includes/functions-ur-core.php:789
+msgid "Hide Label"
+msgstr "Скрыть Метку"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:214
+msgid "Users"
+msgstr "Пользователи"
+
+#: includes/class-ur-smart-tags.php:106 includes/functions-ur-core.php:2182
+msgid "Chosen Password"
+msgstr "Выбранный пароль"
+
+#. translators: 1: Newly registered user count 2: User
+#: includes/admin/class-ur-admin-user-list-manager.php:214
+#: includes/admin/class-ur-admin.php:358
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Пользователь"
+msgstr[1] "Пользователя"
+msgstr[2] "Пользователей"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:214
+msgid "User Registration:"
+msgstr "Регистрация пользователей:"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:214
+msgid "pending approval."
+msgstr "в ожидании одобрения."
+
+#: user-registration.php:363
+msgid "Visit free customer support"
+msgstr "Посетите бесплатную службу поддержки клиентов"
+
+#. translators: %s - Link to logout.
+#: includes/shortcodes/class-ur-shortcode-login.php:69
+msgid "You are already logged in. <a href=\"%s\">Log out?</a>"
+msgstr "Вы уже вошли в систему. <a href=\"%s\">Выйти из системы?</a>"
+
+#: includes/admin/settings/class-ur-settings-email.php:194
+#: includes/admin/settings/class-ur-settings-general.php:291
+#: includes/class-ur-smart-tags.php:42 includes/functions-ur-core.php:1178
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/settings/class-ur-settings-email.php:115
+msgid "\"From\" address"
+msgstr "Адрес отправителя"
+
+#: includes/admin/settings/class-ur-settings-email.php:104
+msgid "\"From\" name"
+msgstr "\"От кого\" Имя"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:24
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:41
+msgid "Admin Email"
+msgstr "Email Администратора"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:25
+msgid "Awaiting Admin Approval"
+msgstr "Ожидает одобрения Администратора"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:42
+msgid "Awaiting Admin Approval Email"
+msgstr "Ожидание Одобрения Администратора По Электронной Почте"
+
+#: includes/admin/settings/class-ur-settings-email.php:196
+#: includes/admin/settings/class-ur-settings-email.php:223
+msgid "Configure"
+msgstr "Настройка"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:60
+#: includes/class-ur-emailer.php:323
+msgid "Congratulations! Registration Complete on {{blog_info}}"
+msgstr "Поздравляем! Регистрация завершена на {{blog_info}}"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:60
+#: includes/class-ur-emailer.php:449
+msgid "Congratulations! Registration approved on {{blog_info}}"
+msgstr "Поздравляю! Регистрация одобрена на {{blog_info}}"
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:24
+msgid "Email Confirmation"
+msgstr "Подтверждение По Электронной Почте"
+
+#: includes/admin/settings/class-ur-settings-email.php:99
+msgid "Email Sender Options"
+msgstr "Параметры отправителя Email"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:74
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:57
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:75
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:67
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:64
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:65
+msgid "Email Content"
+msgstr "Содержание письма"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:47
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:55
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:56
+msgid "Email Subject"
+msgstr "Тема Письма"
+
+#: includes/admin/settings/class-ur-settings-email.php:80
+msgid "Email notifications"
+msgstr "Уведомления по Электронной почте"
+
+#: includes/admin/settings/class-ur-settings-email.php:82
+msgid "Email notifications sent from user registration are listed below. Click on an email to configure it."
+msgstr "Уведомления по электронной почте, отправленные с момента регистрации пользователя, перечислены ниже. Нажмите на сообщение электронной почты, чтобы настроить его."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:25
+msgid "Email sent to the admin when a new user registers"
+msgstr "Электронное сообщение отправляемое администратору при регистрации нового пользователя"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:26
+msgid "Email sent to the user after successful registration"
+msgstr "Электроное сообщение, отправляемое пользователю после успешной регистрации"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:26
+msgid "Email sent to the user notifying the registration is approved by site admin"
+msgstr "Электронное письмо, отправленное пользователю с уведомлением о регистрации, утверждается администратором сайта"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:26
+msgid "Email sent to the user notifying the registration is awaiting admin approval"
+msgstr "Электронное письмо, отправленное пользователю с уведомлением о регистрации, ожидает одобрения администратора"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:26
+msgid "Email sent to the user notifying the registration is denied by the admin"
+msgstr "Письмо отправленное пользователю с уведомлением об отклонении регистрации администратором"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:26
+msgid "Email sent to the user notifying the registration is pending"
+msgstr "Электронное письмо, отправленное пользователю с уведомлением о том, что регистрация еще не завершена"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:48
+msgid "Enable this email sent to admin after successful user registration."
+msgstr "Включите это сообщение электронной почты, отправленное администратору после успешной регистрации пользователя."
+
+#: includes/admin/settings/class-ur-settings-email.php:41
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:38
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:38
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:38
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:39
+msgid "Emails"
+msgstr "Email'ы"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:47
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:47
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:48
+msgid "Enable this email"
+msgstr "Включите это сообщение электронной почты"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:49
+msgid "Enable this email sent to the user after successful user registration."
+msgstr "Включите это сообщение электронной почты, отправленное пользователю после успешной регистрации пользователя."
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:49
+msgid "Enable this email sent to user notifying the registration is awaiting admin approval."
+msgstr "Включите это сообщение электронной почты, отправленное пользователю с уведомлением о том, что регистрация ожидает одобрения администратора."
+
+#: includes/admin/settings/class-ur-settings-email.php:116
+msgid "How the sender email appears in outgoing user registration emails."
+msgstr "Как сообщение электронной почты отправителя отображается в исходящих сообщениях регистрации пользователей."
+
+#: includes/admin/settings/class-ur-settings-email.php:105
+msgid "How the sender name appears in outgoing user registration emails."
+msgstr "Как имя отправителя отображается в исходящих сообщениях регистрации пользователей."
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:51
+#: includes/class-ur-emailer.php:284
+msgid "Please confirm your registration on {{blog_info}}"
+msgstr "Пожалуйста, подтвердите свою регистрацию на {{blog_info}}"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:42
+msgid "Registration Approved Email"
+msgstr "Электронное сообщение об одобрении регистрации"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:42
+msgid "Registration Denied Email"
+msgstr "Электронное сообщение об отказе в регистрации"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:42
+msgid "Registration Pending Email"
+msgstr "Регистрация В Ожидании Электронной Почты"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:44
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:44
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:44
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:45
+msgid "Return to emails"
+msgstr "Вернуться к Email'ам"
+
+#: includes/admin/settings/class-ur-settings-email.php:276
+msgid "Smart Tags Used"
+msgstr "Используемые Смарт-Теги"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:61
+#: includes/class-ur-emailer.php:423
+msgid "Sorry! Registration changed to pending on {{blog_info}}"
+msgstr "Извините! Регистрация переведена в статус \"в ожидании\" на {{blog_info}}"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:60
+#: includes/class-ur-emailer.php:310 includes/class-ur-emailer.php:436
+msgid "Sorry! Registration denied on {{blog_info}}"
+msgstr "Прости! Отказано в регистрации на {{blog_info}}"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:42
+msgid "Successfully Registered Email"
+msgstr "Письмо Успешно Зарегистрирован"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:60
+#: includes/class-ur-emailer.php:297
+msgid "Thank you for registration on {{blog_info}}"
+msgstr "Спасибо за регистрацию на {{blog_info}}"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:75
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:58
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:76
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:68
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:66
+msgid "The email content you want to customize."
+msgstr "Содержимое электронной почты, которое вы хотите настроить."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:48
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:67
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:58
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:57
+msgid "The email subject you want to customize."
+msgstr "Тема электронной почты, которую вы хотите настроить."
+
+#: includes/form/class-ur-form-field-privacy-policy.php:44
+#: includes/form/class-ur-form-field-privacy-policy.php:49
+#: includes/functions-ur-core.php:723
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: includes/form/class-ur-form-field-radio.php:44
+#: includes/form/class-ur-form-field-radio.php:49
+#: includes/functions-ur-core.php:724
+msgid "Radio"
+msgstr "Радиокнопка"
+
+#: includes/admin/class-ur-admin.php:157
+msgid "Thank You!"
+msgstr "Спасибо!"
+
+#: includes/form/class-ur-form-field-checkbox.php:44
+#: includes/form/class-ur-form-field-checkbox.php:49
+#: includes/functions-ur-core.php:722
+msgid "Checkbox"
+msgstr "Чекбокс"
+
+#: includes/admin/settings/class-ur-settings-email.php:86
+#: includes/functions-ur-core.php:1490
+msgid "Disable all emails sent after registration."
+msgstr "Отключить все письма, отправляемые после регистрации."
+
+#: includes/admin/settings/class-ur-settings-email.php:85
+#: includes/functions-ur-core.php:1489
+msgid "Disable emails"
+msgstr "Отключить электронные письма"
+
+#: includes/class-ur-email-confirmation.php:146
+msgid "Token Mismatch!"
+msgstr "Токен несоотвествует!"
+
+#: includes/admin/settings/class-ur-settings-general.php:243
+#: includes/class-ur-frontend-scripts.php:385
+msgid "User registered. Verify your email by clicking on the link sent to your email."
+msgstr "Пользователь зарегистрирован. Подтвердите свой адрес электронной почты, нажав на ссылку, отправленную на ваш адрес электронной почты."
+
+#: includes/admin/settings/class-ur-settings-general.php:263
+#: includes/class-ur-frontend-scripts.php:384
+msgid "User registered. Wait until admin approves your registration."
+msgstr "Пользователь зарегистрирован. Подождите, пока администратор одобрит вашу регистрацию."
+
+#: includes/admin/settings/class-ur-settings-general.php:253
+#: includes/class-ur-email-confirmation.php:128
+msgid "User successfully registered. Login to continue."
+msgstr "Пользователь успешно зарегистрирован. Войдите, чтобы продолжить."
+
+#. translators: %s - Resend Verification Link.
+#: includes/class-ur-email-confirmation.php:402
+#: includes/class-ur-user-approval.php:231
+#: includes/class-ur-user-approval.php:257
+msgid "Your account is still pending approval. Verify your email by clicking on the link sent to your email. %s"
+msgstr "Ваша учетная запись все еще ожидает утверждения. Подтвердите свой адрес электронной почты, нажав на ссылку, отправленную на ваш адрес электронной почты. %s"
+
+#: includes/admin/class-ur-admin-form-modal.php:74
+msgid "Insert Form"
+msgstr "Вставить форму"
+
+#: includes/admin/class-ur-admin-form-modal.php:75
+msgid "Close"
+msgstr "Закрыть"
+
+#: includes/admin/class-ur-admin-assets.php:468
+#: includes/admin/class-ur-admin-form-modal.php:100
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/admin/class-ur-admin-form-modal.php:56
+msgid "Add User Registration Form"
+msgstr "Добавить Форму Регистрации Пользователя"
+
+#: includes/admin/class-ur-admin-form-modal.php:58
+msgid "Add Registration Form"
+msgstr "Добавить Регистрационную Форму"
+
+#: includes/admin/class-ur-admin-form-modal.php:104
+msgid "Add Form"
+msgstr "Добавить Форму"
+
+#. translators: 1: User Registration 2:: five stars
+#: includes/admin/class-ur-admin.php:155
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "Если вам нравится %1$s, поставьте нам оценку %2$s. Заранее спасибо!"
+
+#: includes/admin/settings/class-ur-settings-general.php:475
+#: templates/myaccount/form-login.php:177
+msgid "Not a member yet? Register now."
+msgstr "Еще не с нами? Зарегистрироваться сейчас."
+
+#: includes/admin/settings/class-ur-settings-general.php:460
+msgid "Registration URL"
+msgstr "URL-адрес регистрации"
+
+#: includes/admin/settings/class-ur-settings-general.php:386
+#: includes/functions-ur-core.php:1078
+msgid "Rounded"
+msgstr "С закруглениями"
+
+#: includes/admin/settings/class-ur-settings-general.php:387
+#: includes/functions-ur-core.php:1079
+msgid "Rounded Edge"
+msgstr "Закругленные края"
+
+#: includes/admin/class-ur-admin-form-modal.php:83
+msgid "Select a form below to insert"
+msgstr "Выберите форму ниже для вставки"
+
+#: includes/admin/class-ur-admin.php:169
+msgid "Thank you for using User Registration."
+msgstr "Благодарим Вас за использование \"User Registration\"."
+
+#: includes/admin/settings/class-ur-settings-general.php:470
+msgid "This option lets you enter the label to registration url in login form."
+msgstr "Этот параметр позволяет ввести метку для URL-адреса регистрации в форме входа."
+
+#: includes/functions-ur-core.php:1138
+msgid "This option lets you enter redirect path after successful user registration."
+msgstr "Этот параметр позволяет ввести путь перенаправления после успешной регистрации пользователя."
+
+#. translators: %1$s: Activation error message
+#: includes/functions-ur-core.php:2464 includes/functions-ur-core.php:2483
+#: includes/functions-ur-core.php:2506 includes/functions-ur-core.php:2525
+#: includes/functions-ur-core.php:2531 includes/functions-ur-core.php:2536
+#: includes/functions-ur-core.php:2549
+msgid "<strong>Activation error:</strong> %1$s"
+msgstr "<strong> ошибка активации: </strong> %1$s"
+
+#: includes/admin/settings/class-ur-settings-general.php:384
+#: includes/functions-ur-core.php:1076
+msgid "Bordered"
+msgstr "С границами"
+
+#: includes/admin/settings/class-ur-settings-license.php:89
+#: includes/admin/settings/class-ur-settings-license.php:97
+#: includes/class-ur-plugin-updater.php:305
+msgid "Deactivate License"
+msgstr "Деактивация Лицензии"
+
+#: includes/class-ur-plugin-updater.php:305
+msgid "Deactivate License Key"
+msgstr "Деактивация Лицензионного Ключа"
+
+#: includes/admin/settings/class-ur-settings-general.php:383
+#: includes/functions-ur-core.php:1075
+#: assets/js/wp-color-picker/wp-color-picker-alpha.js:149
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/admin/views/html-admin-page-status-logs.php:23
+msgid "Delete log"
+msgstr "Удалить журнал"
+
+#: includes/admin/views/html-license-form.php:22
+msgid "Enter your license key and hit return. A valid key is required for updates."
+msgstr "Введите лицензионный ключ и нажмите return. Для обновления требуется действительный ключ."
+
+#: includes/admin/updater/class-ur-addon-updater.php:575
+msgid "Error"
+msgstr "Ошибка"
+
+#: includes/admin/class-ur-admin-menus.php:575
+msgid "Extensions"
+msgstr "Расширения"
+
+#: includes/admin/settings/class-ur-settings-general.php:385
+#: includes/functions-ur-core.php:1077
+msgid "Flat"
+msgstr "Плоский"
+
+#: includes/admin/views/html-license-form.php:20
+msgid "License:"
+msgstr "Лицензия:"
+
+#: includes/admin/views/html-admin-page-status.php:14
+msgid "Logs"
+msgstr "Журналы логов"
+
+#: includes/admin/settings/class-ur-settings-general.php:311
+#: includes/form/class-ur-form-field-number.php:46
+#: includes/form/class-ur-form-field-number.php:51
+#: includes/functions-ur-core.php:720
+msgid "Number"
+msgstr "Число"
+
+#: includes/functions-ur-core.php:1132
+msgid "Redirect URL"
+msgstr "URL адрес перенаправления"
+
+#. translators: %s: Class
+#: includes/functions-ur-core.php:1388
+msgid "The class <code>%s</code> provided by user_registration_logging_class filter must implement <code>UR_Logger_Interface</code>."
+msgstr "Класс <code>%s</code>, предоставленной фильтр user_registration_logging_class должен реализовать <code>UR_Logger_Interface</code>.."
+
+#: includes/class-ur-plugin-updater.php:373
+msgid "The key you entered belongs to a bundle, please use the product specific license key."
+msgstr "Ключ, который вы ввели, принадлежит к пакету, пожалуйста, используйте лицензионный ключ для конкретного продукта."
+
+#: includes/class-ur-logger.php:58
+msgid "The provided handler <code>%s</code> does not implement UR_Log_Handler_Interface."
+msgstr "Предоставленный обработчик <code>%s</code> не реализует UR_Log_Handler_Interface."
+
+#. translators: %s: Account Page URL
+#: includes/class-ur-plugin-updater.php:358
+msgid "The provided license is not active for this URL. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> to manage your license key URLs."
+msgstr "Предоставленная лицензия не активна для этого URL-адреса. Пожалуйста, <a href=\"%s\" target=\"_blank\">посетите свой аккаунт страницу</a> для управления лицензионным ключем url-адреса."
+
+#. translators: %s: Contact Support URL
+#: includes/class-ur-plugin-updater.php:378
+msgid "The provided license key could not be found. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr "Не удалось найти предоставленный лицензионный ключ. Пожалуйста, <a href=\"%s\" target=\"_blank\">обратитесь в службу поддержки</a> для получения дополнительной информации."
+
+#: includes/class-ur-plugin-updater.php:342
+msgid "The provided license key expired on %1$s. Please <a href=\"%2$s\" target=\"_blank\">renew your license key</a>."
+msgstr "Срок действия предоставленного лицензионного ключа истек на %1$s. пожалуйста, <a href=\"%2$s\" target=\"_blank\">обновите лицензионный ключ</a>."
+
+#. translators: %s: Contact Support URL
+#: includes/class-ur-plugin-updater.php:347
+msgid "The provided license key has been disabled. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr "Предоставленный лицензионный ключ был отключен. Пожалуйста, <a href=\"%s\" target=\"_blank\">обратитесь в службу поддержки</a> для получения дополнительной информации."
+
+#: includes/admin/views/html-admin-page-status-logs.php:51
+msgid "There are currently no logs to view."
+msgstr "Сейчас журнал логов пуст для просмотра."
+
+#: includes/log-handlers/class-ur-log-handler-file.php:353
+msgid "This method should not be called before plugins_loaded."
+msgstr "Этот метод не должен вызываться до plugins_loaded."
+
+#. translators: 1 General Settings, 2: Link to anyone can register settings
+#: includes/admin/views/html-notice-registration.php:21
+msgid "To allow users to register for your website via User registration, you must first enable user registration. Go to %1$sSettings > General%2$s tab, and under Membership make sure to check <strong>Anyone can register</strong>."
+msgstr "Чтобы разрешить пользователям регистрироваться на вашем сайте через регистрацию пользователей, необходимо сначала включить регистрацию пользователей. Перейдите на вкладку %1$sНастройки > общие%2$s и в разделе членство убедитесь, что установлен флажок <strong>любой пользователь может зарегистрироваться</strong>."
+
+#: includes/class-ur-logger.php:137
+msgid "UR_Logger::log was called with an invalid level \"%s\"."
+msgstr "UR_Logger::log был вызван с недопустимым уровнем \"%s\"."
+
+#: includes/admin/views/html-admin-page-addons.php:16
+msgid "User Registration Extensions"
+msgstr "Расширения плагина Регистрация пользователей"
+
+#: includes/admin/class-ur-admin-menus.php:524
+msgid "User Registration Status"
+msgstr "Статус Регистрации Пользователя"
+
+#: includes/admin/class-ur-admin-menus.php:574
+msgid "User Registration extensions"
+msgstr "Расширения плагина Регистрация пользователей"
+
+#: includes/admin/views/html-admin-page-status-logs.php:38
+msgid "View"
+msgstr "Просмотр"
+
+#: includes/admin/updater/class-ur-addon-updater.php:575
+msgid "You do not have permission to install plugin updates"
+msgstr "У вас нет разрешения на установку обновлений плагинов"
+
+#. translators: %s - Link to logout.
+#: includes/admin/views/html-notice-key-activated.php:17
+msgid "Your licence for <strong>%s</strong> has been activated. Thanks!"
+msgstr "Ваша лицензия на <strong>%s</strong> была активирована. Спасибо!"
+
+#. translators: %s - Plugin Name.
+#: includes/admin/views/html-notice-key-deactivated.php:18
+msgid "Your licence for <strong>%s</strong> has been deactivated."
+msgstr "Ваша лицензия на <strong>%s</strong> была деактивирована."
+
+#. translators: 1: Plugin Name, 2: Changelog Link, 3: New Version, 4: Link
+#. Close
+#: includes/admin/updater/class-ur-addon-updater.php:304
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Доступна новая версия %1$s. %2$sПосмотреть %3$s детали версии%4$s."
+
+#. translators: %s: Account Page URL
+#: includes/class-ur-plugin-updater.php:352
+msgid "The provided license is invalid. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> and verify it."
+msgstr "Предоставленная лицензия недействительна. Пожалуйста, <a href=\"%s\" target=\"_blank\">зайдите на страницу вашей учетной записи</a> и проверьте ее."
+
+#. translators: 1: Plugin Name, 2: Changelog Link, 3: New Version, 4: Link
+#. Close, 5: Upgrade Plugin Link, 6: Link Close
+#: includes/admin/updater/class-ur-addon-updater.php:313
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "Доступна новая версия %1$s. %2$s Просмотреть подробности версии %3$s %4$s или %5$s Обновить сейчас %6$s."
+
+#. translators: %s - User Registration Extensions Catalog
+#: includes/admin/views/html-admin-page-addons.php:74
+msgid "Our catalog of User Registration Extensions can be found on WPUserRegistration.com here: <a href=\"%s\">User Registration Extensions Catalog</a>"
+msgstr "Наш каталог расширений регистрации пользователей можно найти на WPUserRegistration.com здесь: <a href=\"%s\">Каталог расширений регистрации пользователей</a>"
+
+#: includes/admin/class-ur-admin-menus.php:525
+#: includes/admin/settings/class-ur-settings-email.php:195
+#: includes/class-ur-email-confirmation.php:105
+msgid "Status"
+msgstr "Статус"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:375
+msgid "All statuses"
+msgstr "Все статусы"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:377
+msgid "All approval statuses"
+msgstr "Все статусы утверждения"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:607
+msgid "Approval Status"
+msgstr "Статуса Утверждения"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:527
+#: includes/admin/class-ur-admin-user-list-manager.php:528
+msgid "Approve"
+msgstr "Подтвердить"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:530
+#: includes/admin/class-ur-admin-user-list-manager.php:531
+msgid "Deny"
+msgstr "Отклонить"
+
+#. translators: %s - Resend Verification Link.
+#. translators: %s - Redirect URL.
+#. translators: %s - Username
+#. translators: %s - Lost password URL
+#: includes/class-ur-email-confirmation.php:402
+#: includes/class-ur-user-approval.php:197
+#: includes/class-ur-user-approval.php:202
+#: includes/class-ur-user-approval.php:218
+#: includes/class-ur-user-approval.php:231
+#: includes/class-ur-user-approval.php:236
+#: includes/class-ur-user-approval.php:257
+#: includes/class-ur-user-approval.php:273 includes/functions-ur-account.php:55
+#: includes/functions-ur-account.php:58 includes/functions-ur-core.php:3482
+#: includes/functions-ur-core.php:3488 includes/functions-ur-core.php:3492
+#: includes/functions-ur-core.php:3502 includes/functions-ur-core.php:3506
+msgid "ERROR:"
+msgstr "Ошибка:"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:401
+msgid "Filter"
+msgstr "Фильтровать"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:622
+msgid "If user has access to sign in or not."
+msgstr "У каких членов нашей команды есть доступ."
+
+#: includes/admin/class-ur-admin-user-manager.php:62
+msgid "Impossible to create an UR_Admin_User_Manager object. Unkwon data type."
+msgstr "Невозможно создать объект UR_Admin_User_Manager. Тип данных Unkwon."
+
+#. translators: %s - Link to logout.
+#. translators: 1: Link and username of user 2: Logout url
+#: includes/class-ur-ajax.php:232 includes/class-ur-shortcodes.php:222
+msgid "Log out of this account."
+msgstr "Выйдите из этой учетной записи."
+
+#: includes/class-ur-ajax.php:214 includes/class-ur-shortcodes.php:207
+msgid "Only administrators can add new users."
+msgstr "Только администраторы могут добавлять новых пользователей."
+
+#: includes/admin/class-ur-admin-user-list-manager.php:93
+msgctxt "The action on users list page"
+msgid "Approve"
+msgstr "Подтвердить"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:94
+msgctxt "The action on users list page"
+msgid "Deny"
+msgstr "Отвергнуть"
+
+#: includes/class-ur-user-approval.php:202
+#: includes/class-ur-user-approval.php:236
+msgid "Your account has been denied."
+msgstr "Ваша учетная запись была отклонена."
+
+#: includes/class-ur-user-approval.php:197
+#: includes/class-ur-user-approval.php:218
+msgid "Your account is still pending approval."
+msgstr "Ваша учетная запись все еще ожидает утверждения."
+
+#: includes/admin/class-ur-admin-user-manager.php:388
+msgid "approved"
+msgstr "утвержденный"
+
+#: includes/admin/class-ur-admin-user-manager.php:396
+msgid "denied"
+msgstr "отклонен"
+
+#: includes/admin/class-ur-admin-user-manager.php:392
+msgid "pending"
+msgstr "ожидает"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:130
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: includes/abstracts/abstract-ur-list-table.php:342
+msgid "Copy of "
+msgstr "Копия "
+
+#: includes/functions-ur-core.php:949
+#: includes/RestApi/class-ur-rest-api.php:203
+msgid "This option lets you choose login option after user registration."
+msgstr "Эта опция позволяет выбрать когда аккаунт для входа в систему будет активирован для нового зарегистрированного пользователя."
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:69
+#: includes/class-ur-emailer.php:361
+msgid "A New User Registered"
+msgstr "Новый пользователь зарегистрировался"
+
+#: includes/admin/class-ur-admin-assets.php:284
+msgid "Could not install."
+msgstr "Не удалось установить."
+
+#. Description of the plugin
+msgid "Drag and Drop user registration form and login form builder."
+msgstr "Drag and Drop форма регистрации пользователя и конструктор форм входа."
+
+#: includes/admin/settings/class-ur-settings-general.php:233
+#: includes/class-ur-frontend-scripts.php:383
+msgid "User successfully registered."
+msgstr "Пользователь успешно зарегестрирован."
+
+#: includes/admin/settings/class-ur-settings-general.php:347
+#: includes/class-ur-ajax.php:194 includes/class-ur-form-handler.php:369
+#: includes/class-ur-frontend-scripts.php:386
+#: includes/functions-ur-core.php:3492
+msgid "Captcha code error, please try again."
+msgstr "Ошибка кода reCaptcha, повторите попытку."
+
+#: includes/abstracts/abstract-ur-form-field.php:698
+msgid "Advanced Settings"
+msgstr "Расширенные настройки"
+
+#: includes/admin/class-ur-admin-menus.php:508 user-registration.php:346
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin/class-ur-admin-assets.php:322
+#: includes/admin/class-ur-admin-menus.php:541
+#: includes/admin/class-ur-admin-menus.php:542
+#: includes/admin/class-ur-admin-menus.php:936
+#: includes/admin/class-ur-admin-registrations-table-list.php:162
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: includes/admin/settings/class-ur-settings-general.php:49
+msgid "General Options"
+msgstr "Основные настройки"
+
+#: includes/admin/settings/class-ur-settings-general.php:273
+#: includes/functions-ur-core.php:779
+msgid "Required"
+msgstr "Обязательно"
+
+#: includes/admin/views/html-notice-update.php:14
+#: includes/admin/views/html-notice-updating.php:14
+msgid "User Registration Data Update"
+msgstr "Обновление Регистрационных Данных Пользователей"
+
+#: includes/admin/class-ur-admin-menus.php:615
+msgid "Create Form"
+msgstr "Создать форму"
+
+#: includes/admin/class-ur-admin-menus.php:617
+msgid "Update form"
+msgstr "Обновить форму"
+
+#: includes/admin/class-ur-admin-menus.php:768
+msgid "Add to menu"
+msgstr "Добавить в меню"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:53
+msgid "Author"
+msgstr "Автор"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:54
+#: includes/form/class-ur-form-field-date.php:46
+#: includes/form/class-ur-form-field-date.php:51
+#: includes/functions-ur-core.php:721
+msgid "Date"
+msgstr "Дата"
+
+#: includes/abstracts/abstract-ur-list-table.php:475
+msgid "Empty trash"
+msgstr "Очистить корзину"
+
+#: includes/admin/class-ur-admin-settings.php:88
+msgid "Your settings have been saved."
+msgstr "Ваши настройки сохранены."
+
+#: includes/admin/settings/class-ur-settings-general.php:169
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+#: includes/functions-ur-core.php:770 includes/functions-ur-core.php:772
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: templates/myaccount/form-edit-password.php:50
+#: templates/myaccount/form-reset-password.php:31
+msgid "New password"
+msgstr "Новый пароль"
+
+#: templates/myaccount/form-edit-password.php:61
+msgid "Confirm new password"
+msgstr "Подтвердите новый пароль"
+
+#: templates/myaccount/form-edit-password.php:81
+#: templates/myaccount/form-edit-profile.php:410
+#: templates/myaccount/form-edit-profile.php:415
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: includes/admin/settings/class-ur-settings-general.php:517
+#: includes/admin/settings/class-ur-settings-general.php:523
+#: includes/functions-ur-core.php:715 templates/myaccount/form-login.php:40
+msgid "Password"
+msgstr "Пароль"
+
+#: templates/myaccount/form-lost-password.php:31
+msgid "Username or email"
+msgstr "Имя пользователя или электронная почта"
+
+#: templates/myaccount/form-lost-password.php:47
+msgid "Reset password"
+msgstr "Сбросить пароль"
+
+#: templates/myaccount/form-reset-password.php:62
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/admin/functions-ur-admin.php:427
+#: includes/admin/settings/class-ur-settings-general.php:34
+#: includes/admin/settings/class-ur-settings-general.php:76
+#: includes/admin/settings/class-ur-settings-general.php:370
+#: includes/RestApi/class-ur-rest-api.php:192 chunks/main.js:50363
+msgid "General"
+msgstr "Основные"
+
+#. translators: %s - Human readable time
+#: includes/abstracts/abstract-ur-list-table.php:565
+msgid "%s ago"
+msgstr "%s назад"
+
+#: includes/form/class-ur-form-field-country.php:45
+msgid "&#197;land Islands"
+msgstr "Аландские острова"
+
+#: includes/functions-ur-core.php:3435 includes/functions-ur-core.php:3516
+msgid "A user could not be found with this email address."
+msgstr "Пользователь с таким email-адресом не найден."
+
+#: templates/myaccount/lost-password-confirmation.php:27
+msgid "A password reset email has been sent to the email address on file for your account, but may take several minutes to show up in your inbox. Please wait at least 10 minutes before attempting another reset."
+msgstr "Письмо со ссылкой для сброса пароля было направлено на адрес электронной почты, привязанный к вашей учетной записи, доставка сообщения может занять несколько минут. Пожалуйста, подождите не менее 10 минут, прежде чем инициировать ещё один запрос."
+
+#: includes/abstracts/abstract-ur-list-table.php:260
+#: includes/abstracts/abstract-ur-list-table.php:300
+#: includes/admin/class-ur-admin-export-users.php:51
+#: includes/admin/class-ur-admin-import-export-forms.php:51
+#: includes/admin/class-ur-admin-notices.php:119
+#: includes/admin/class-ur-admin-settings.php:77
+#: includes/admin/class-ur-admin-status.php:167
+#: includes/class-ur-email-confirmation.php:184
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Действие не удалось. Пожалуйста обновите страницу и попробуйте снова."
+
+#: includes/class-ur-post-types.php:50
+msgid "Add new registration"
+msgstr "Добавить новую форму регистрации"
+
+#: includes/class-ur-post-types.php:49
+msgid "Add registration"
+msgstr "Добавить форму регистрации"
+
+#: includes/class-ur-post-types.php:48
+msgctxt "Admin menu name"
+msgid "Registrations"
+msgstr "Формы регистрации пользователей"
+
+#: includes/form/class-ur-form-field-country.php:44
+msgid "Afghanistan"
+msgstr "Афганистан"
+
+#: includes/form/class-ur-form-field-country.php:46
+msgid "Albania"
+msgstr "Албания"
+
+#: includes/form/class-ur-form-field-country.php:47
+msgid "Algeria"
+msgstr "Алжир"
+
+#: includes/form/class-ur-form-field-country.php:48
+msgid "American Samoa"
+msgstr "Американское Самоа"
+
+#: includes/form/class-ur-form-field-country.php:49
+msgid "Andorra"
+msgstr "Андорра"
+
+#: includes/form/class-ur-form-field-country.php:50
+msgid "Angola"
+msgstr "Ангола"
+
+#: includes/form/class-ur-form-field-country.php:51
+msgid "Anguilla"
+msgstr "Ангилья"
+
+#: includes/form/class-ur-form-field-country.php:52
+msgid "Antarctica"
+msgstr "Антарктика"
+
+#: includes/form/class-ur-form-field-country.php:53
+msgid "Antigua and Barbuda"
+msgstr "Антигуа и Барбуда"
+
+#. translators: %s - Link to logout
+#: includes/shortcodes/class-ur-shortcode-my-account.php:144
+msgid "Are you sure you want to log out?&nbsp;<a href=\"%s\">Confirm and log out</a>"
+msgstr "Вы уверены, что хотите выйти из системы? <a href=\"%s\">Подтвердить и выйти</a>"
+
+#: includes/form/class-ur-form-field-country.php:54
+msgid "Argentina"
+msgstr "Аргентина"
+
+#: includes/form/class-ur-form-field-country.php:55
+msgid "Armenia"
+msgstr "Армения"
+
+#: includes/form/class-ur-form-field-country.php:56
+msgid "Aruba"
+msgstr "Аруба"
+
+#: includes/form/class-ur-form-field-country.php:57
+msgid "Australia"
+msgstr "Австралия"
+
+#: includes/form/class-ur-form-field-country.php:58
+msgid "Austria"
+msgstr "Австрия"
+
+#: includes/form/class-ur-form-field-country.php:59
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+#: includes/form/class-ur-form-field-country.php:60
+msgid "Bahamas"
+msgstr "Багамы"
+
+#: includes/form/class-ur-form-field-country.php:61
+msgid "Bahrain"
+msgstr "Бахрейн"
+
+#: includes/form/class-ur-form-field-country.php:62
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+#: includes/form/class-ur-form-field-country.php:63
+msgid "Barbados"
+msgstr "Барбадос"
+
+#: includes/form/class-ur-form-field-country.php:64
+msgid "Belarus"
+msgstr "Беларусь"
+
+#: includes/form/class-ur-form-field-country.php:66
+msgid "Belau"
+msgstr "Палау"
+
+#: includes/form/class-ur-form-field-country.php:65
+msgid "Belgium"
+msgstr "Бельгия"
+
+#: includes/form/class-ur-form-field-country.php:67
+msgid "Belize"
+msgstr "Белиз"
+
+#: includes/form/class-ur-form-field-country.php:68
+msgid "Benin"
+msgstr "Бенин"
+
+#: includes/form/class-ur-form-field-country.php:69
+msgid "Bermuda"
+msgstr "Бермуды"
+
+#: includes/form/class-ur-form-field-country.php:70
+msgid "Bhutan"
+msgstr "Бутан"
+
+#: includes/form/class-ur-form-field-country.php:71
+msgid "Bolivia"
+msgstr "Боливия"
+
+#: includes/form/class-ur-form-field-country.php:72
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Бонэйр, Синт-Эстатиус и Саба"
+
+#: includes/form/class-ur-form-field-country.php:73
+msgid "Bosnia and Herzegovina"
+msgstr "Босния и Герцеговина"
+
+#: includes/form/class-ur-form-field-country.php:74
+msgid "Botswana"
+msgstr "Ботсвана"
+
+#: includes/form/class-ur-form-field-country.php:75
+msgid "Bouvet Island"
+msgstr "Остров Буве"
+
+#: includes/form/class-ur-form-field-country.php:76
+msgid "Brazil"
+msgstr "Бразилия"
+
+#: includes/form/class-ur-form-field-country.php:77
+msgid "British Indian Ocean Territory"
+msgstr "Британская территория Индийского океана"
+
+#: includes/form/class-ur-form-field-country.php:78
+msgid "British Virgin Islands"
+msgstr "Британские Виргинские острова"
+
+#: includes/form/class-ur-form-field-country.php:79
+msgid "Brunei"
+msgstr "Бруней"
+
+#: includes/form/class-ur-form-field-country.php:80
+msgid "Bulgaria"
+msgstr "Болгария"
+
+#: includes/form/class-ur-form-field-country.php:81
+msgid "Burkina Faso"
+msgstr "Буркина-Фасо"
+
+#: includes/form/class-ur-form-field-country.php:82
+msgid "Burundi"
+msgstr "Бурунди"
+
+#: includes/form/class-ur-form-field-country.php:83
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+#: includes/form/class-ur-form-field-country.php:84
+msgid "Cameroon"
+msgstr "Камерун"
+
+#: includes/form/class-ur-form-field-country.php:85
+msgid "Canada"
+msgstr "Канада"
+
+#: includes/form/class-ur-form-field-country.php:86
+msgid "Cape Verde"
+msgstr "Кабо-Верде"
+
+#: includes/form/class-ur-form-field-country.php:87
+msgid "Cayman Islands"
+msgstr "Кайманские острова"
+
+#: includes/form/class-ur-form-field-country.php:88
+msgid "Central African Republic"
+msgstr "Центральная Африканская Республика"
+
+#: includes/form/class-ur-form-field-country.php:89
+msgid "Chad"
+msgstr "Чад"
+
+#: includes/admin/class-ur-admin-notices.php:123 user-registration.php:77
+#: user-registration.php:86
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер&#8217, что ли?"
+
+#: includes/form/class-ur-form-field-country.php:90
+msgid "Chile"
+msgstr "Чили"
+
+#: includes/form/class-ur-form-field-country.php:91
+msgid "China"
+msgstr "Китай"
+
+#: includes/functions-ur-template.php:672
+msgid "Choose an option"
+msgstr "Выбрать опцию"
+
+#: includes/form/class-ur-form-field-country.php:92
+msgid "Christmas Island"
+msgstr "Остров Рождества"
+
+#: includes/admin/class-ur-admin-assets.php:445
+msgid "Clone"
+msgstr "Клонировать"
+
+#: includes/form/class-ur-form-field-country.php:93
+msgid "Cocos (Keeling) Islands"
+msgstr "Кокосовые (Килинг) острова"
+
+#: includes/form/class-ur-form-field-country.php:94
+msgid "Colombia"
+msgstr "Колумбия"
+
+#: includes/form/class-ur-form-field-country.php:95
+msgid "Comoros"
+msgstr "Коморы"
+
+#: includes/admin/settings/class-ur-settings-general.php:331
+#: includes/form/class-ur-form-field-user-confirm-password.php:49
+msgid "Confirm Password"
+msgstr "Подтвердите пароль"
+
+#: includes/form/class-ur-form-field-user-confirm-password.php:44
+msgid "Confirm Password "
+msgstr "Подтвердите пароль "
+
+#: includes/form/class-ur-form-field-country.php:96
+msgid "Congo (Brazzaville)"
+msgstr "Конго (Браззавиль)"
+
+#: includes/form/class-ur-form-field-country.php:97
+msgid "Congo (Kinshasa)"
+msgstr "Конго (Киншаса)"
+
+#: includes/form/class-ur-form-field-country.php:98
+msgid "Cook Islands"
+msgstr "Острова Кука"
+
+#: includes/form/class-ur-form-field-country.php:99
+msgid "Costa Rica"
+msgstr "Коста-Рика"
+
+#: includes/class-ur-ajax.php:728
+msgid "Could not save form. Invalid field name. Please check all field name"
+msgstr "Не удалось сохранить форму. Недопустимое имя поля. Пожалуйста, проверьте полностью имя поля"
+
+#: includes/form/class-ur-form-field-country.php:362
+#: includes/form/class-ur-form-field-country.php:367
+#: includes/functions-ur-core.php:718
+msgid "Country"
+msgstr "Страна"
+
+#: includes/form/class-ur-form-field-country.php:100
+msgid "Croatia"
+msgstr "Хорватия"
+
+#: includes/form/class-ur-form-field-country.php:101
+msgid "Cuba"
+msgstr "Куба"
+
+#: includes/form/class-ur-form-field-country.php:102
+msgid "Cura&ccedil;ao"
+msgstr "Кюрасао"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:42
+#: includes/form/settings/class-ur-setting-checkbox.php:49
+#: includes/form/settings/class-ur-setting-country.php:48
+#: includes/form/settings/class-ur-setting-country.php:55
+#: includes/form/settings/class-ur-setting-date.php:42
+#: includes/form/settings/class-ur-setting-date.php:49
+#: includes/form/settings/class-ur-setting-description.php:34
+#: includes/form/settings/class-ur-setting-description.php:41
+#: includes/form/settings/class-ur-setting-display_name.php:34
+#: includes/form/settings/class-ur-setting-display_name.php:41
+#: includes/form/settings/class-ur-setting-email.php:31
+#: includes/form/settings/class-ur-setting-email.php:38
+#: includes/form/settings/class-ur-setting-first_name.php:34
+#: includes/form/settings/class-ur-setting-first_name.php:41
+#: includes/form/settings/class-ur-setting-last_name.php:34
+#: includes/form/settings/class-ur-setting-last_name.php:41
+#: includes/form/settings/class-ur-setting-nickname.php:34
+#: includes/form/settings/class-ur-setting-nickname.php:41
+#: includes/form/settings/class-ur-setting-number.php:64
+#: includes/form/settings/class-ur-setting-number.php:71
+#: includes/form/settings/class-ur-setting-radio.php:29
+#: includes/form/settings/class-ur-setting-radio.php:36
+#: includes/form/settings/class-ur-setting-select.php:32
+#: includes/form/settings/class-ur-setting-select.php:39
+#: includes/form/settings/class-ur-setting-text.php:67
+#: includes/form/settings/class-ur-setting-text.php:74
+#: includes/form/settings/class-ur-setting-textarea.php:45
+#: includes/form/settings/class-ur-setting-textarea.php:52
+#: includes/form/settings/class-ur-setting-user_confirm_email.php:35
+#: includes/form/settings/class-ur-setting-user_confirm_email.php:42
+#: includes/form/settings/class-ur-setting-user_confirm_password.php:34
+#: includes/form/settings/class-ur-setting-user_confirm_password.php:41
+#: includes/form/settings/class-ur-setting-user_email.php:34
+#: includes/form/settings/class-ur-setting-user_email.php:41
+#: includes/form/settings/class-ur-setting-user_login.php:47
+#: includes/form/settings/class-ur-setting-user_login.php:54
+#: includes/form/settings/class-ur-setting-user_pass.php:34
+#: includes/form/settings/class-ur-setting-user_pass.php:41
+#: includes/form/settings/class-ur-setting-user_url.php:34
+#: includes/form/settings/class-ur-setting-user_url.php:41
+msgid "Custom Class"
+msgstr "Свой Class"
+
+#: includes/form/class-ur-form-field-country.php:103
+msgid "Cyprus"
+msgstr "Кипр"
+
+#: includes/form/class-ur-form-field-country.php:104
+msgid "Czech Republic"
+msgstr "Чешская Республика"
+
+#: includes/functions-ur-account.php:120
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: includes/admin/views/html-admin-page-forms.php:93
+msgid "Default User Fields"
+msgstr "Поля Пользователя По Умолчанию"
+
+#: includes/functions-ur-core.php:971
+#: includes/RestApi/class-ur-rest-api.php:243
+msgid "Default User Role"
+msgstr "Роль Пользователя По Умолчанию"
+
+#: includes/form/settings/class-ur-setting-country.php:71
+#: includes/form/settings/class-ur-setting-text.php:56
+#: includes/form/settings/class-ur-setting-text.php:63
+#: includes/form/settings/class-ur-setting-textarea.php:33
+#: includes/form/settings/class-ur-setting-textarea.php:40
+msgid "Default Value"
+msgstr "Значение настройки по умолчанию"
+
+#: includes/class-ur-install.php:436
+msgid "Default form"
+msgstr "Форма по умолчанию"
+
+#: includes/abstracts/abstract-ur-list-table.php:132
+#: includes/admin/class-ur-admin-registrations-table-list.php:110
+msgid "Delete permanently"
+msgstr "Удалить навсегда"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:110
+msgid "Delete this item permanently"
+msgstr "Удалить эту позицию навсегда"
+
+#: includes/form/class-ur-form-field-country.php:105
+msgid "Denmark"
+msgstr "Дания"
+
+#: includes/admin/views/html-notice-custom.php:17
+#: includes/admin/views/html-notice-registration.php:14
+#: includes/admin/views/html-notice-updated.php:14
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: includes/form/class-ur-form-field-display-name.php:44
+#: includes/form/class-ur-form-field-display-name.php:49
+#: includes/functions-ur-core.php:712
+msgid "Display Name"
+msgstr "Отобразить имя"
+
+#: includes/form/class-ur-form-field-country.php:106
+msgid "Djibouti"
+msgstr "Джибути"
+
+#: user-registration.php:362
+msgid "Docs"
+msgstr "Документация"
+
+#: includes/form/class-ur-form-field-country.php:107
+msgid "Dominica"
+msgstr "Доминика"
+
+#: includes/form/class-ur-form-field-country.php:108
+msgid "Dominican Republic"
+msgstr "Доминиканская Республика"
+
+#: includes/validation/class-ur-form-validation.php:118
+msgid "Duplicate field key in form, please contact site administrator."
+msgstr "Дубликат ключа поля в форме, пожалуйста, свяжитесь с администратором сайта."
+
+#: includes/form/class-ur-form-field-country.php:109
+msgid "Ecuador"
+msgstr "Эквадор"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:100
+#: includes/class-ur-post-types.php:51
+msgid "Edit"
+msgstr "Изменить"
+
+#: includes/class-ur-post-types.php:52
+msgid "Edit registration"
+msgstr "Изменить регистрацию"
+
+#: includes/form/class-ur-form-field-country.php:110
+msgid "Egypt"
+msgstr "Египет"
+
+#: includes/form/class-ur-form-field-country.php:111
+msgid "El Salvador"
+msgstr "Сальвадор"
+
+#: includes/form/class-ur-form-field-user-email.php:44
+msgid "Email "
+msgstr "Email "
+
+#: includes/class-ur-ajax.php:335
+#: includes/form/class-ur-form-field-user-email.php:77
+msgid "Email already exists."
+msgstr "Адрес электронной почты уже существует."
+
+#: includes/admin/class-ur-admin-menus.php:951
+msgid "Empty form data"
+msgstr "Очистить данные формы"
+
+#: includes/functions-ur-core.php:984
+#: includes/RestApi/class-ur-rest-api.php:223
+msgid "Enable Strong Password"
+msgstr "Включите Надежный Пароль"
+
+#: includes/admin/settings/class-ur-settings-general.php:170
+msgid "Endpoint for the \"My account &rarr; Edit profile\" page."
+msgstr "Конечная точка для страницы \"Мой аккаунт &rarr; Изменить профиль\"."
+
+#: includes/admin/settings/class-ur-settings-general.php:186
+msgid "Endpoint for the \"My account &rarr; Lost password\" page."
+msgstr "Конечная точка для страницы \"Мой аккаунт &rarr; Забыл пароль\"."
+
+#: includes/admin/settings/class-ur-settings-general.php:166
+msgid "Endpoints are appended to your page URLs to handle specific actions on the accounts pages. They should be unique and can be left blank to disable the endpoint."
+msgstr "Конечные точки добавляются к URL-адресам страниц для обработки определенных действий на страницах учетных записей. Они должны быть уникальными и могут быть оставлены пустыми, чтобы отключить конечную точку."
+
+#: templates/myaccount/form-reset-password.php:28
+msgid "Enter a new password below."
+msgstr "Введите новый пароль ниже."
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:371
+msgid "Enter a username or email address."
+msgstr "Введите имя пользователя или email."
+
+#: includes/form/class-ur-form-field-country.php:112
+msgid "Equatorial Guinea"
+msgstr "Экваториальная Гвинея"
+
+#: includes/form/class-ur-form-field-country.php:113
+msgid "Eritrea"
+msgstr "Эритрея"
+
+#: includes/form/class-ur-form-field-country.php:114
+msgid "Estonia"
+msgstr "Эстония"
+
+#: includes/form/class-ur-form-field-country.php:115
+msgid "Ethiopia"
+msgstr "Эфиопия"
+
+#: includes/libraries/wp-background-process.php:430
+msgid "Every %d minutes"
+msgstr "Каждые %d минут"
+
+#: includes/admin/views/html-admin-page-forms.php:96
+msgid "Extra Fields"
+msgstr "Дополнительные поля"
+
+#: includes/form/class-ur-form-field-country.php:116
+msgid "Falkland Islands"
+msgstr "Фолклендские острова"
+
+#: includes/form/class-ur-form-field-country.php:117
+msgid "Faroe Islands"
+msgstr "Фарерские острова"
+
+#: includes/functions-ur-core.php:760 includes/functions-ur-core.php:762
+msgid "Field Name"
+msgstr "Имя поля"
+
+#: includes/admin/views/html-admin-page-forms.php:69
+msgid "Field Options"
+msgstr "Параметры Поля"
+
+#: includes/admin/views/html-admin-page-forms.php:67
+msgid "Fields"
+msgstr "Поля"
+
+#: includes/form/class-ur-form-field-country.php:118
+msgid "Fiji"
+msgstr "Фиджи"
+
+#: includes/form/class-ur-form-field-country.php:119
+msgid "Finland"
+msgstr "Финляндия"
+
+#: includes/class-ur-smart-tags.php:47
+#: includes/form/class-ur-form-field-first-name.php:44
+#: includes/form/class-ur-form-field-first-name.php:49
+#: includes/functions-ur-core.php:709
+msgid "First Name"
+msgstr "Имя"
+
+#: includes/form/class-ur-form-field-country.php:120
+msgid "France"
+msgstr "Франция"
+
+#: user-registration.php:363
+msgid "Free support"
+msgstr "Бесплатная поддержка"
+
+#: includes/form/class-ur-form-field-country.php:121
+msgid "French Guiana"
+msgstr "Французская Гвиана"
+
+#: includes/form/class-ur-form-field-country.php:122
+msgid "French Polynesia"
+msgstr "Французская Полинезия"
+
+#: includes/form/class-ur-form-field-country.php:123
+msgid "French Southern Territories"
+msgstr "Французские южные территории"
+
+#: includes/form/class-ur-form-field-country.php:124
+msgid "Gabon"
+msgstr "Габон"
+
+#: includes/form/class-ur-form-field-country.php:125
+msgid "Gambia"
+msgstr "Гамбия"
+
+#: includes/abstracts/abstract-ur-form-field.php:688 chunks/main.js:50364
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: includes/form/class-ur-form-field-country.php:126
+msgid "Georgia"
+msgstr "Джорджия"
+
+#: includes/form/class-ur-form-field-country.php:127
+msgid "Germany"
+msgstr "Германия"
+
+#: includes/form/class-ur-form-field-country.php:128
+msgid "Ghana"
+msgstr "Гана"
+
+#: includes/form/class-ur-form-field-country.php:129
+msgid "Gibraltar"
+msgstr "Гибралтар"
+
+#: includes/form/class-ur-form-field-country.php:130
+msgid "Greece"
+msgstr "Греция"
+
+#: includes/form/class-ur-form-field-country.php:131
+msgid "Greenland"
+msgstr "Гренландия"
+
+#: includes/form/class-ur-form-field-country.php:132
+msgid "Grenada"
+msgstr "Гренада"
+
+#: includes/form/class-ur-form-field-country.php:133
+msgid "Guadeloupe"
+msgstr "Гваделупа"
+
+#: includes/form/class-ur-form-field-country.php:134
+msgid "Guam"
+msgstr "Гуам"
+
+#: includes/form/class-ur-form-field-country.php:135
+msgid "Guatemala"
+msgstr "Гватемала"
+
+#: includes/form/class-ur-form-field-country.php:136
+msgid "Guernsey"
+msgstr "Гернси"
+
+#: includes/form/class-ur-form-field-country.php:137
+msgid "Guinea"
+msgstr "Гвинея"
+
+#: includes/form/class-ur-form-field-country.php:138
+msgid "Guinea-Bissau"
+msgstr "Гвинея-Бисау"
+
+#: includes/form/class-ur-form-field-country.php:139
+msgid "Guyana"
+msgstr "Гайана"
+
+#: includes/form/class-ur-form-field-country.php:140
+msgid "Haiti"
+msgstr "Гаити"
+
+#: includes/form/class-ur-form-field-country.php:141
+msgid "Heard Island and McDonald Islands"
+msgstr "Остров Херд и острова Макдональд"
+
+#: includes/form/class-ur-form-field-country.php:142
+msgid "Honduras"
+msgstr "Гондурас"
+
+#: includes/form/class-ur-form-field-country.php:143
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+#: includes/form/class-ur-form-field-country.php:144
+msgid "Hungary"
+msgstr "Венгрия"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:96
+msgid "ID: %d"
+msgstr "ID: %d"
+
+#: includes/form/class-ur-form-field-country.php:145
+msgid "Iceland"
+msgstr "Исландия"
+
+#: includes/form/class-ur-form-field-country.php:146
+msgid "India"
+msgstr "Индия"
+
+#: includes/form/class-ur-form-field-country.php:147
+msgid "Indonesia"
+msgstr "Индонезия"
+
+#: includes/form/class-ur-form-field-text.php:44
+#: includes/form/class-ur-form-field-text.php:49
+msgid "Input Field"
+msgstr "Текстовое поле"
+
+#: includes/admin/views/html-notice-install.php:15
+msgid "Install User Registration Pages"
+msgstr "Создать страницы плагина для регистрации пользователей"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:392
+#: includes/shortcodes/class-ur-shortcode-my-account.php:397
+msgid "Invalid username or email."
+msgstr "Неверное имя пользователя или email."
+
+#: includes/form/class-ur-form-field-country.php:148
+msgid "Iran"
+msgstr "Иран"
+
+#: includes/form/class-ur-form-field-country.php:149
+msgid "Iraq"
+msgstr "Ирак"
+
+#: includes/form/class-ur-form-field-country.php:150
+msgid "Ireland"
+msgstr "Ирландия"
+
+#: includes/form/class-ur-form-field-country.php:151
+msgid "Isle of Man"
+msgstr "Остров Мэн"
+
+#: includes/form/class-ur-form-field-country.php:152
+msgid "Israel"
+msgstr "Израиль"
+
+#: includes/admin/views/html-notice-update.php:19
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "Настоятельно рекомендуем сделать резервную копию базы данных перед продолжением. Вы все ещё уверены что хотите запустить процедуру обновления сейчас?"
+
+#: includes/form/class-ur-form-field-country.php:153
+msgid "Italy"
+msgstr "Италия"
+
+#: includes/form/class-ur-form-field-country.php:154
+msgid "Ivory Coast"
+msgstr "Кот-д'Ивуар"
+
+#: includes/form/class-ur-form-field-country.php:155
+msgid "Jamaica"
+msgstr "Ямайка"
+
+#: includes/form/class-ur-form-field-country.php:156
+msgid "Japan"
+msgstr "Япония"
+
+#: includes/form/class-ur-form-field-country.php:157
+msgid "Jersey"
+msgstr "Джерси"
+
+#: includes/form/class-ur-form-field-country.php:158
+msgid "Jordan"
+msgstr "Иордания"
+
+#: includes/form/class-ur-form-field-country.php:159
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+#: includes/form/class-ur-form-field-country.php:160
+msgid "Kenya"
+msgstr "Кения"
+
+#: includes/form/class-ur-form-field-country.php:161
+msgid "Kiribati"
+msgstr "Кирибати"
+
+#: includes/form/class-ur-form-field-country.php:162
+msgid "Kuwait"
+msgstr "Кувейт"
+
+#: includes/form/class-ur-form-field-country.php:163
+msgid "Kyrgyzstan"
+msgstr "Кыргызстан"
+
+#: includes/form/class-ur-form-field-country.php:164
+msgid "Laos"
+msgstr "Лаос"
+
+#: includes/class-ur-smart-tags.php:48
+#: includes/form/class-ur-form-field-last-name.php:49
+#: includes/functions-ur-core.php:710
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: includes/form/class-ur-form-field-last-name.php:44
+msgid "Last Name "
+msgstr "Фамилия "
+
+#: includes/form/class-ur-form-field-country.php:165
+msgid "Latvia"
+msgstr "Латвия"
+
+#: includes/form/class-ur-form-field-country.php:166
+msgid "Lebanon"
+msgstr "Ливан"
+
+#: includes/form/class-ur-form-field-country.php:167
+msgid "Lesotho"
+msgstr "Лесото"
+
+#: includes/form/class-ur-form-field-country.php:168
+msgid "Liberia"
+msgstr "Либерия"
+
+#: includes/form/class-ur-form-field-country.php:169
+msgid "Libya"
+msgstr "Ливия"
+
+#: includes/form/class-ur-form-field-country.php:170
+msgid "Liechtenstein"
+msgstr "Лихтенштейн"
+
+#: includes/form/class-ur-form-field-country.php:171
+msgid "Lithuania"
+msgstr "Литва"
+
+#: includes/admin/settings/class-ur-settings-general.php:537
+#: includes/admin/settings/class-ur-settings-general.php:543
+#: templates/form-login-registration.php:31
+#: templates/myaccount/form-login.php:42
+msgid "Login"
+msgstr "Авторизация"
+
+#. translators: %s - Link to logout.
+#. translators: 1: Link and username of user 2: Logout url
+#: includes/class-ur-ajax.php:232 includes/class-ur-shortcodes.php:222
+#: includes/functions-ur-account.php:123
+msgid "Logout"
+msgstr "Выйти"
+
+#: includes/admin/class-ur-admin-menus.php:726 includes/class-ur-query.php:78
+msgid "Lost password"
+msgstr "Забыли пароль"
+
+#: includes/admin/settings/class-ur-settings-general.php:553
+#: templates/myaccount/form-login.php:43
+msgid "Lost your password?"
+msgstr "Забыли свой пароль?"
+
+#: templates/myaccount/form-lost-password.php:28
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Забыли свой пароль? Укажите свой Email или имя пользователя. Ссылку на создание нового пароля вы получите по электронной почте."
+
+#: includes/form/class-ur-form-field-country.php:172
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+#: includes/form/class-ur-form-field-country.php:173
+msgid "Macao S.A.R., China"
+msgstr "Макао (САР), Китай"
+
+#: includes/form/class-ur-form-field-country.php:174
+msgid "Macedonia"
+msgstr "Македония"
+
+#: includes/form/class-ur-form-field-country.php:175
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+#: includes/form/class-ur-form-field-country.php:176
+msgid "Malawi"
+msgstr "Малави"
+
+#: includes/form/class-ur-form-field-country.php:177
+msgid "Malaysia"
+msgstr "Малайзия"
+
+#: includes/form/class-ur-form-field-country.php:178
+msgid "Maldives"
+msgstr "Мальдивы"
+
+#: includes/form/class-ur-form-field-country.php:179
+msgid "Mali"
+msgstr "Мали"
+
+#: includes/form/class-ur-form-field-country.php:180
+msgid "Malta"
+msgstr "Мальта"
+
+#: includes/form/class-ur-form-field-country.php:181
+msgid "Marshall Islands"
+msgstr "Маршалловы острова"
+
+#: includes/form/class-ur-form-field-country.php:182
+msgid "Martinique"
+msgstr "Мартиника"
+
+#: includes/form/class-ur-form-field-country.php:183
+msgid "Mauritania"
+msgstr "Мавритания"
+
+#: includes/form/class-ur-form-field-country.php:184
+msgid "Mauritius"
+msgstr "Маврикий"
+
+#: includes/form/class-ur-form-field-country.php:185
+msgid "Mayotte"
+msgstr "Майотта"
+
+#: includes/form/class-ur-form-field-country.php:186
+msgid "Mexico"
+msgstr "Мексика"
+
+#: includes/form/class-ur-form-field-country.php:187
+msgid "Micronesia"
+msgstr "Микронезия"
+
+#: includes/form/class-ur-form-field-country.php:188
+msgid "Moldova"
+msgstr "Молдова"
+
+#: includes/form/class-ur-form-field-country.php:189
+msgid "Monaco"
+msgstr "Монако"
+
+#: includes/form/class-ur-form-field-country.php:190
+msgid "Mongolia"
+msgstr "Монголия"
+
+#: includes/form/class-ur-form-field-country.php:191
+msgid "Montenegro"
+msgstr "Черногория"
+
+#: includes/form/class-ur-form-field-country.php:192
+msgid "Montserrat"
+msgstr "Монсеррат"
+
+#: includes/form/class-ur-form-field-country.php:193
+msgid "Morocco"
+msgstr "Марокко"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:107
+msgid "Move this item to the Trash"
+msgstr "Переместите этот элемент в корзину"
+
+#: includes/abstracts/abstract-ur-list-table.php:136
+msgid "Move to trash"
+msgstr "Отправить в корзину"
+
+#: includes/form/class-ur-form-field-country.php:194
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+#: includes/form/class-ur-form-field-country.php:195
+msgid "Myanmar"
+msgstr "Мьянма"
+
+#: includes/form/class-ur-form-field-country.php:196
+msgid "Namibia"
+msgstr "Намибия"
+
+#: includes/form/class-ur-form-field-country.php:197
+msgid "Nauru"
+msgstr "Науру"
+
+#: includes/form/class-ur-form-field-country.php:198
+msgid "Nepal"
+msgstr "Непал"
+
+#: includes/form/class-ur-form-field-country.php:199
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+#: includes/form/class-ur-form-field-country.php:200
+msgid "New Caledonia"
+msgstr "Новая Каледония"
+
+#: includes/form/class-ur-form-field-country.php:201
+msgid "New Zealand"
+msgstr "Новая Зеландия"
+
+#: includes/class-ur-form-handler.php:274
+msgid "New passwords do not match."
+msgstr "Новые пароли не совпадают."
+
+#: includes/class-ur-post-types.php:53
+msgid "New registration"
+msgstr "Новая регистрация"
+
+#: includes/form/class-ur-form-field-country.php:202
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+#: includes/form/class-ur-form-field-nickname.php:44
+#: includes/form/class-ur-form-field-nickname.php:49
+#: includes/functions-ur-core.php:708
+msgid "Nickname"
+msgstr "Никнейм"
+
+#: includes/form/class-ur-form-field-country.php:203
+msgid "Niger"
+msgstr "Нигер"
+
+#: includes/form/class-ur-form-field-country.php:204
+msgid "Nigeria"
+msgstr "Нигерия"
+
+#: includes/form/class-ur-form-field-country.php:205
+msgid "Niue"
+msgstr "Ниуэ"
+
+#: includes/class-ur-post-types.php:57
+msgid "No registrations found"
+msgstr "Регистраций не найдено"
+
+#: includes/class-ur-post-types.php:58
+msgid "No registrations found in trash"
+msgstr "Регистраций в корзине не найдено"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:40
+msgid "No user registration found."
+msgstr "Регистрация пользователя не найдена."
+
+#: includes/class-ur-ajax.php:140 includes/class-ur-ajax.php:203
+#: includes/class-ur-ajax.php:258 includes/class-ur-ajax.php:476
+#: includes/class-ur-ajax.php:599 includes/class-ur-ajax.php:1043
+msgid "Nonce error, please reload."
+msgstr "Ошибка Nonce, пожалуйста, перезагрузите."
+
+#: includes/form/class-ur-form-field-country.php:206
+msgid "Norfolk Island"
+msgstr "Остров Норфолк"
+
+#: includes/form/class-ur-form-field-country.php:208
+msgid "North Korea"
+msgstr "Северная Корея"
+
+#: includes/form/class-ur-form-field-country.php:207
+msgid "Northern Mariana Islands"
+msgstr "Северные Марианские острова"
+
+#: includes/form/class-ur-form-field-country.php:209
+msgid "Norway"
+msgstr "Норвегия"
+
+#: includes/form/class-ur-form-field-country.php:210
+msgid "Oman"
+msgstr "Оман"
+
+#: includes/functions-ur-core.php:822
+msgid "Options"
+msgstr "Параметры"
+
+#: includes/class-ur-install.php:370 includes/RestApi/class-ur-rest-api.php:153
+msgctxt "Page slug"
+msgid "my-account"
+msgstr "my-account"
+
+#: includes/class-ur-install.php:381 includes/RestApi/class-ur-rest-api.php:146
+msgctxt "Page slug"
+msgid "registration"
+msgstr "registration"
+
+#: includes/class-ur-install.php:371 includes/RestApi/class-ur-rest-api.php:154
+msgctxt "Page title"
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: includes/class-ur-install.php:382 includes/RestApi/class-ur-rest-api.php:147
+msgctxt "Page title"
+msgid "Registration"
+msgstr "Страница регистрации"
+
+#: includes/form/class-ur-form-field-country.php:211
+msgid "Pakistan"
+msgstr "Пакистан"
+
+#: includes/form/class-ur-form-field-country.php:212
+msgid "Palestinian Territory"
+msgstr "Палестинские территории"
+
+#: includes/form/class-ur-form-field-country.php:213
+msgid "Panama"
+msgstr "Панама"
+
+#: includes/form/class-ur-form-field-country.php:214
+msgid "Papua New Guinea"
+msgstr "Папуа — Новая Гвинея"
+
+#: includes/form/class-ur-form-field-country.php:215
+msgid "Paraguay"
+msgstr "Парагвай"
+
+#: includes/class-ur-post-types.php:59
+msgid "Parent registration"
+msgstr "Родительская регистрация"
+
+#: includes/form/class-ur-form-field-user-pass.php:44
+msgid "Password "
+msgstr "Пароль "
+
+#: includes/admin/settings/class-ur-settings-general.php:573
+#: includes/form/class-ur-form-field-password.php:44
+#: includes/form/class-ur-form-field-password.php:49
+msgid "Password Field"
+msgstr "Поле пароля"
+
+#: includes/form/settings/class-ur-setting-password.php:31
+#: includes/form/settings/class-ur-setting-password.php:38
+msgid "Password Size"
+msgstr "Размер пароля"
+
+#: includes/validation/class-ur-form-validation.php:390
+msgid "Password and confirm password not matched"
+msgstr "Пароль и подтверждение пароля не совпадают"
+
+#: templates/myaccount/lost-password-confirmation.php:24
+msgid "Password reset email has been sent."
+msgstr "Письмо для восстановления пароля отправлено."
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:407
+msgid "Password reset is not allowed for this user"
+msgstr "Сброс пароль не разрешен для этого пользователя"
+
+#: includes/class-ur-frontend-scripts.php:403
+msgid "Password with confirm password not matched."
+msgstr "Пароль с подтверждением пароля не совпадают."
+
+#: includes/class-ur-form-handler.php:428
+msgid "Passwords do not match."
+msgstr "Пароли не совпадают."
+
+#: includes/form/class-ur-form-field-country.php:216
+msgid "Peru"
+msgstr "Перу"
+
+#: includes/form/class-ur-form-field-country.php:217
+msgid "Philippines"
+msgstr "Филиппины"
+
+#: includes/form/class-ur-form-field-country.php:218
+msgid "Pitcairn"
+msgstr "Питкэрн"
+
+#: includes/class-ur-form-handler.php:265
+msgid "Please enter your current password."
+msgstr "Пожалуйста, укажите ваш текущий пароль."
+
+#: includes/class-ur-form-handler.php:424
+msgid "Please enter your password."
+msgstr "Пожалуйста, введите свой пароль."
+
+#: includes/class-ur-form-handler.php:262
+msgid "Please fill out all password fields."
+msgstr "Пожалуйста, заполните все поля паролей."
+
+#: includes/class-ur-form-handler.php:271
+msgid "Please re-enter your password."
+msgstr "Пожалуйста, подтвердите пароль."
+
+#: includes/form/class-ur-form-field-country.php:219
+msgid "Poland"
+msgstr "Польша"
+
+#: includes/form/class-ur-form-field-country.php:220
+msgid "Portugal"
+msgstr "Португалия"
+
+#: includes/class-ur-query.php:75 includes/functions-ur-account.php:121
+msgid "Profile Details"
+msgstr "Детали профиля"
+
+#: includes/form/class-ur-form-field-country.php:221
+msgid "Puerto Rico"
+msgstr "Пуэрто-Рико"
+
+#: includes/form/class-ur-form-field-country.php:222
+msgid "Qatar"
+msgstr "Катар"
+
+#: templates/myaccount/form-reset-password.php:42
+msgid "Re-enter new password"
+msgstr "Повторите новый пароль"
+
+#: includes/class-ur-post-types.php:47
+#: includes/RestApi/class-ur-rest-api.php:220 chunks/main.js:50374
+msgid "Registration"
+msgstr "Регистрация"
+
+#: includes/class-ur-post-types.php:46
+msgid "Registrations"
+msgstr "Регистрации"
+
+#: includes/validation/class-ur-form-validation.php:124
+msgid "Required form field not found."
+msgstr "Обязательное поле формы не найдено."
+
+#: includes/abstracts/abstract-ur-list-table.php:131
+#: includes/admin/class-ur-admin-registrations-table-list.php:105
+msgid "Restore"
+msgstr "Восстановить"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:105
+msgid "Restore this item from the Trash"
+msgstr "Восстановите этот элемент из корзины"
+
+#: includes/form/class-ur-form-field-country.php:223
+msgid "Reunion"
+msgstr "Реюньон"
+
+#: includes/form/class-ur-form-field-country.php:224
+msgid "Romania"
+msgstr "Румыния"
+
+#: includes/admin/views/html-notice-update.php:15
+msgid "Run the updater"
+msgstr "Запустить обновление"
+
+#: includes/form/class-ur-form-field-country.php:225
+msgid "Russia"
+msgstr "Россия"
+
+#: includes/form/class-ur-form-field-country.php:226
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: includes/form/class-ur-form-field-country.php:236
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "Сан-Томе и Принсипи"
+
+#: includes/form/class-ur-form-field-country.php:227
+msgid "Saint Barth&eacute;lemy"
+msgstr "Сен-Бартелеми"
+
+#: includes/form/class-ur-form-field-country.php:228
+msgid "Saint Helena"
+msgstr "Остров Святой Елены"
+
+#: includes/form/class-ur-form-field-country.php:229
+msgid "Saint Kitts and Nevis"
+msgstr "Сент-Китс и Невис"
+
+#: includes/form/class-ur-form-field-country.php:230
+msgid "Saint Lucia"
+msgstr "Сент-Люсия"
+
+#: includes/form/class-ur-form-field-country.php:232
+msgid "Saint Martin (Dutch part)"
+msgstr "Сен-Мартен (голландская часть)"
+
+#: includes/form/class-ur-form-field-country.php:231
+msgid "Saint Martin (French part)"
+msgstr "Сен-Мартен (французская часть)"
+
+#: includes/form/class-ur-form-field-country.php:233
+msgid "Saint Pierre and Miquelon"
+msgstr "Сен-Пьер и Микелон"
+
+#: includes/form/class-ur-form-field-country.php:234
+msgid "Saint Vincent and the Grenadines"
+msgstr "Сент-Винсент и Гренадины"
+
+#: includes/form/class-ur-form-field-country.php:289
+msgid "Samoa"
+msgstr "Самоа"
+
+#: includes/form/class-ur-form-field-country.php:235
+msgid "San Marino"
+msgstr "Сан-Марино"
+
+#: includes/form/class-ur-form-field-country.php:237
+msgid "Saudi Arabia"
+msgstr "Саудовская Аравия"
+
+#: includes/admin/views/html-admin-settings.php:90
+#: includes/admin/views/html-admin-settings.php:120
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:168
+msgid "Search Registration"
+msgstr "Искать Регистрацию"
+
+#: includes/class-ur-post-types.php:56
+msgid "Search registrations"
+msgstr "Искать форму регистрации"
+
+#: includes/form/class-ur-form-field-email.php:49
+#: includes/functions-ur-core.php:716
+msgid "Secondary Email"
+msgstr "Второй Email"
+
+#: includes/form/class-ur-form-field-email.php:44
+msgid "Secondary Email "
+msgstr "Второй Email "
+
+#: includes/admin/class-ur-admin-profile.php:158
+#: includes/admin/class-ur-admin-profile.php:170
+#: includes/form/class-ur-form-field-select.php:44
+#: includes/form/class-ur-form-field-select.php:49
+#: includes/functions-ur-core.php:717
+msgid "Select"
+msgstr "Выбор"
+
+#: includes/admin/class-ur-admin-settings.php:591
+msgid "Select a page&hellip;"
+msgstr "Выберите страницу&hellip;"
+
+#: includes/admin/class-ur-admin-menus.php:764
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: includes/form/class-ur-form-field-country.php:238
+msgid "Senegal"
+msgstr "Сенегал"
+
+#: includes/form/class-ur-form-field-country.php:239
+msgid "Serbia"
+msgstr "Сербия"
+
+#: includes/form/class-ur-form-field-country.php:240
+msgid "Seychelles"
+msgstr "Сейшельские Острова"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:52
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: includes/form/class-ur-form-field-country.php:241
+msgid "Sierra Leone"
+msgstr "Сьерра-Леоне"
+
+#: includes/form/class-ur-form-field-country.php:242
+msgid "Singapore"
+msgstr "Сингапур"
+
+#: includes/form/settings/class-ur-setting-text.php:45
+#: includes/form/settings/class-ur-setting-text.php:52
+msgid "Size"
+msgstr "Размер"
+
+#: includes/admin/views/html-notice-install.php:15
+msgid "Skip setup"
+msgstr "Пропустить установку"
+
+#: includes/form/class-ur-form-field-country.php:243
+msgid "Slovakia"
+msgstr "Словакия"
+
+#: includes/form/class-ur-form-field-country.php:244
+msgid "Slovenia"
+msgstr "Словения"
+
+#: includes/form/class-ur-form-field-country.php:245
+msgid "Solomon Islands"
+msgstr "Соломоновы Острова"
+
+#: includes/form/class-ur-form-field-country.php:246
+msgid "Somalia"
+msgstr "Сомали"
+
+#: includes/form/class-ur-form-field-country.php:247
+msgid "South Africa"
+msgstr "Южная Африка"
+
+#: includes/form/class-ur-form-field-country.php:248
+msgid "South Georgia/Sandwich Islands"
+msgstr "Южная Георгия/Сандвичевы острова"
+
+#: includes/form/class-ur-form-field-country.php:249
+msgid "South Korea"
+msgstr "Южная Корея"
+
+#: includes/form/class-ur-form-field-country.php:250
+msgid "South Sudan"
+msgstr "Южный Судан"
+
+#: includes/form/class-ur-form-field-country.php:251
+msgid "Spain"
+msgstr "Испания"
+
+#: includes/form/class-ur-form-field-country.php:252
+msgid "Sri Lanka"
+msgstr "Шри-Ланка"
+
+#: includes/form/class-ur-form-field-country.php:253
+msgid "Sudan"
+msgstr "Судан"
+
+#: includes/form/class-ur-form-field-country.php:254
+msgid "Suriname"
+msgstr "Суринам"
+
+#: includes/form/class-ur-form-field-country.php:255
+msgid "Svalbard and Jan Mayen"
+msgstr "Шпицберген и Ян-Майен"
+
+#: includes/form/class-ur-form-field-country.php:256
+msgid "Swaziland"
+msgstr "Свазиленд"
+
+#: includes/form/class-ur-form-field-country.php:257
+msgid "Sweden"
+msgstr "Швеция"
+
+#: includes/form/class-ur-form-field-country.php:258
+msgid "Switzerland"
+msgstr "Швейцария"
+
+#: includes/form/class-ur-form-field-country.php:259
+msgid "Syria"
+msgstr "Сирия"
+
+#: includes/form/class-ur-form-field-country.php:260
+msgid "Taiwan"
+msgstr "Тайвань"
+
+#: includes/form/class-ur-form-field-country.php:261
+msgid "Tajikistan"
+msgstr "Таджикистан"
+
+#: includes/admin/views/html-notice-updating.php:14
+msgid "Taking a while? Click here to run it now."
+msgstr "Хотите ускориться? Нажмите сюда, чтобы инициировать запуск."
+
+#: includes/form/class-ur-form-field-country.php:262
+msgid "Tanzania"
+msgstr "Танзания"
+
+#: includes/form/class-ur-form-field-textarea.php:44
+#: includes/form/class-ur-form-field-textarea.php:49
+#: includes/functions-ur-core.php:719
+msgid "Textarea"
+msgstr "Текстовая область"
+
+#: includes/form/class-ur-form-field-country.php:263
+msgid "Thailand"
+msgstr "Тайланд"
+
+#: includes/admin/class-ur-admin-settings.php:152
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Изменения которые вы сделали будут потеряны если вы уйдете с этой страницы."
+
+#: includes/functions-ur-notice.php:27 includes/functions-ur-notice.php:59
+#: includes/functions-ur-notice.php:79 includes/functions-ur-notice.php:105
+#: includes/functions-ur-notice.php:119 includes/functions-ur-notice.php:133
+#: includes/functions-ur-notice.php:188
+msgid "This function should not be called before user_registration_init."
+msgstr "Эта функция не должна вызываться до user_registration_init."
+
+#: includes/form/class-ur-form-field-country.php:264
+msgid "Timor-Leste"
+msgstr "Восточный Тимор"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:51
+msgid "Title"
+msgstr "Наименование"
+
+#: includes/form/class-ur-form-field-country.php:265
+msgid "Togo"
+msgstr "Того"
+
+#: includes/form/class-ur-form-field-country.php:266
+msgid "Tokelau"
+msgstr "Токелау"
+
+#: includes/form/class-ur-form-field-country.php:267
+msgid "Tonga"
+msgstr "Тонга"
+
+#: includes/admin/class-ur-admin-assets.php:445
+#: includes/admin/class-ur-admin-registrations-table-list.php:107
+msgid "Trash"
+msgstr "Удалить"
+
+#: includes/form/class-ur-form-field-country.php:268
+msgid "Trinidad and Tobago"
+msgstr "Тринидад и Тобаго"
+
+#: includes/form/class-ur-form-field-country.php:269
+msgid "Tunisia"
+msgstr "Тунис"
+
+#: includes/form/class-ur-form-field-country.php:270
+msgid "Turkey"
+msgstr "Турция"
+
+#: includes/form/class-ur-form-field-country.php:271
+msgid "Turkmenistan"
+msgstr "Туркменистан"
+
+#: includes/form/class-ur-form-field-country.php:272
+msgid "Turks and Caicos Islands"
+msgstr "Теркс и Кайкос"
+
+#: includes/form/class-ur-form-field-country.php:273
+msgid "Tuvalu"
+msgstr "Тувалу"
+
+#: includes/form/class-ur-form-field-country.php:274
+msgid "Uganda"
+msgstr "Уганда"
+
+#: includes/form/class-ur-form-field-country.php:275
+msgid "Ukraine"
+msgstr "Украина"
+
+#: includes/form/class-ur-form-field-country.php:276
+msgid "United Arab Emirates"
+msgstr "Объединённые Арабские Эмираты"
+
+#: includes/form/class-ur-form-field-country.php:277
+msgid "United Kingdom (UK)"
+msgstr "Великобритания"
+
+#: includes/form/class-ur-form-field-country.php:278
+msgid "United States (US)"
+msgstr "Соединённые Штаты Америки"
+
+#: includes/form/class-ur-form-field-country.php:279
+msgid "United States (US) Minor Outlying Islands"
+msgstr "Внешние малые острова США"
+
+#: includes/form/class-ur-form-field-country.php:280
+msgid "United States (US) Virgin Islands"
+msgstr "Виргинские острова США"
+
+#: includes/form/class-ur-form-field-country.php:281
+msgid "Uruguay"
+msgstr "Уругвай"
+
+#: includes/form/class-ur-form-field-description.php:44
+#: includes/form/class-ur-form-field-description.php:49
+msgid "User Bio"
+msgstr "Биография Пользователя"
+
+#: includes/form/class-ur-form-field-user-email.php:49
+#: includes/functions-ur-core.php:703
+msgid "User Email"
+msgstr "Адрес электронной почты пользователя"
+
+#: includes/form/class-ur-form-field-user-pass.php:49
+msgid "User Password"
+msgstr "Пароль пользователя"
+
+#: includes/admin/views/html-notice-updated.php:16
+msgid "User Registration data update complete. Thank you for updating to the latest version!"
+msgstr "Обновление регистрационных данных пользователя завершено. Спасибо за обновление до последней версии!"
+
+#: includes/admin/class-ur-admin-menus.php:702
+msgid "User Registration endpoints"
+msgstr "Конечные точки регистрации пользователей"
+
+#: includes/admin/class-ur-admin-menus.php:507
+msgid "User Registration settings"
+msgstr "Настройки Регистрации Пользователей"
+
+#: includes/class-ur-ajax.php:406 includes/class-ur-form-handler.php:144
+msgid "User profile updated successfully."
+msgstr "Профиль пользователя успешно обновлен."
+
+#: includes/form/class-ur-form-field-user-login.php:44
+#: includes/form/class-ur-form-field-user-login.php:49
+#: includes/functions-ur-core.php:1177
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: includes/form/class-ur-form-field-user-login.php:76
+msgid "Username already exists."
+msgstr "Такой логин уже существует."
+
+#: includes/functions-ur-core.php:3432
+msgid "Username is required."
+msgstr "Необходимо ввести имя пользователя."
+
+#: includes/form/class-ur-form-field-country.php:282
+msgid "Uzbekistan"
+msgstr "Узбекистан"
+
+#: includes/form/class-ur-form-field-country.php:283
+msgid "Vanuatu"
+msgstr "Вануату"
+
+#: includes/form/class-ur-form-field-country.php:284
+msgid "Vatican"
+msgstr "Ватикан"
+
+#: includes/form/class-ur-form-field-country.php:285
+msgid "Venezuela"
+msgstr "Венесуэла"
+
+#: includes/form/class-ur-form-field-country.php:286
+msgid "Vietnam"
+msgstr "Вьетнам"
+
+#: user-registration.php:362
+msgid "View User Registration documentation"
+msgstr "Просмотреть документацию плагина Регистрация пользователей"
+
+#: user-registration.php:346
+msgid "View User Registration settings"
+msgstr "Просмотр параметров плагина Регистрация пользователей"
+
+#: includes/class-ur-post-types.php:55
+msgid "View registration"
+msgstr "Посмотреть регистрацию"
+
+#: includes/class-ur-post-types.php:54
+msgid "View registrations"
+msgstr "Посмотреть регистрации"
+
+#: includes/form/class-ur-form-field-country.php:287
+msgid "Wallis and Futuna"
+msgstr "Уоллис и Футуна"
+
+#: includes/admin/views/html-notice-update.php:14
+msgid "We need to update your site's database to the latest version."
+msgstr "Нам нужно обновить базу данных вашего сайта до последней версии."
+
+#: includes/form/class-ur-form-field-user-url.php:44
+#: includes/form/class-ur-form-field-user-url.php:49
+msgid "Website"
+msgstr "Вебсайт"
+
+#: includes/form/class-ur-form-field-country.php:288
+msgid "Western Sahara"
+msgstr "Западная Сахара"
+
+#: includes/abstracts/abstract-ur-list-table.php:569
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/abstracts/abstract-ur-list-table.php:552
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: includes/form/class-ur-form-field-country.php:290
+msgid "Yemen"
+msgstr "Йемен"
+
+#: includes/abstracts/abstract-ur-list-table.php:289
+#: includes/abstracts/abstract-ur-list-table.php:298
+msgid "You do not have permission to delete posts!"
+msgstr "У вас недостаточно прав для удаления форм!"
+
+#: includes/abstracts/abstract-ur-list-table.php:269
+msgid "You do not have permission to trash posts!"
+msgstr "У вас нет прав на редактирование этих форм!"
+
+#: includes/class-ur-form-handler.php:277
+msgid "Your current password is incorrect."
+msgstr "Ваш текущий пароль неверен."
+
+#: includes/admin/views/html-notice-updating.php:14
+msgid "Your database is being updated in the background."
+msgstr "Ваша база данных обновляется в фоновом режиме."
+
+#: includes/shortcodes/class-ur-shortcode-login.php:45
+#: includes/shortcodes/class-ur-shortcode-my-account.php:78
+msgid "Your password has been reset successfully."
+msgstr "Ваш пароль успешно сброшен."
+
+#: includes/form/class-ur-form-field-country.php:291
+msgid "Zambia"
+msgstr "Замбия"
+
+#: includes/form/class-ur-form-field-country.php:292
+msgid "Zimbabwe"
+msgstr "Зимбабве"
+
+#: includes/admin/class-ur-admin-assets.php:264
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Ошибка загрузки"
+
+#: includes/admin/class-ur-admin-assets.php:271
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Загрузить ещё&hellip;"
+
+#: includes/admin/class-ur-admin-assets.php:263
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "Соответствий не найдено"
+
+#: includes/admin/class-ur-admin-assets.php:268
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Пожалуйста удалить лишние символы %qty%, пока что их слишком много"
+
+#: includes/admin/class-ur-admin-assets.php:267
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Пожалуйста, удалите 1 символ"
+
+#: includes/admin/class-ur-admin-assets.php:266
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Пожалуйста введите ещё как минимум %qty%, пока что недостаточно символов"
+
+#: includes/admin/class-ur-admin-assets.php:265
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Пожалуйста, введите 1 или более символов"
+
+#: includes/admin/class-ur-admin-assets.php:272
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Поиск&hellip;"
+
+#: includes/admin/class-ur-admin-assets.php:270
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Вы можете выбрать не более %qty% элементов"
+
+#: includes/admin/class-ur-admin-assets.php:269
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Вы можете выбрать лишь 1 вариант"
+
+#: includes/class-ur-ajax.php:707 includes/class-ur-ajax.php:712
+msgid "post data not set"
+msgstr "данные post не установлены"
+
+#: includes/functions-ur-template.php:273
+msgid "required"
+msgstr "обязательно"
+
+#: includes/admin/class-ur-admin-assets.php:474
+msgctxt "user registration admin"
+msgid "Are you sure want to delete this field?"
+msgstr "Действительно удалить?"
+
+#: includes/admin/class-ur-admin-assets.php:483
+msgctxt "user registration admin"
+msgid "At least one field needs to be selected."
+msgstr "Необходимо выбрать хотя бы одно поле."
+
+#: includes/admin/class-ur-admin-assets.php:491
+msgctxt "user registration admin"
+msgid "Drag your first form item here."
+msgstr "Перетащите ваш первый элемент сюда."
+
+#: includes/admin/class-ur-admin-assets.php:486
+msgctxt "user registration admin"
+msgid "Duplicate field name."
+msgstr "Дублировать имя поля."
+
+#: includes/admin/class-ur-admin-assets.php:487
+msgctxt "user registration admin"
+msgid "Empty field label."
+msgstr "Метка пустого поля."
+
+#: includes/admin/class-ur-admin-assets.php:484
+msgctxt "user registration admin"
+msgid "Empty form name."
+msgstr "Пустое имя формы."
+
+#: includes/admin/class-ur-admin-assets.php:481
+msgctxt "user registration admin"
+msgid "Error"
+msgstr "Ошибка"
+
+#: includes/admin/class-ur-admin-assets.php:479
+msgctxt "user registration admin"
+msgid "Form successfully saved."
+msgstr "Форма успешно сохранена."
+
+#: includes/admin/class-ur-admin-assets.php:488
+msgctxt "user registration admin"
+msgid "Invalid field name. Please do not use space, empty or special character, you can use underscore."
+msgstr "Неверное имя поля. Пожалуйста, не используйте пробел, пустой или специальный символ, вы можете использовать подчеркивание."
+
+#: includes/admin/class-ur-admin-assets.php:489
+msgctxt "user registration admin"
+msgid "Multiple field key "
+msgstr "Ключ с несколькими полями "
+
+#: includes/admin/class-ur-admin-assets.php:485
+msgctxt "user registration admin"
+msgid "Previous save action on going."
+msgstr "Предыдущее действие пока выполняется."
+
+#: includes/admin/class-ur-admin-assets.php:480
+msgctxt "user registration admin"
+msgid "Success"
+msgstr "Готово"
+
+#. Author of the plugin
+msgid "WPEverest"
+msgstr "WPEverest"
+
+#. Author URI of the plugin
+msgid "https://wpeverest.com"
+msgstr "https://wpeverest.com"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-ur-admin-registrations-table-list.php:161
+msgid "User Registration"
+msgstr "User Registration"
+
+#: includes/functions-ur-core.php:742 includes/functions-ur-core.php:744
+msgid "Label"
+msgstr "Этикетка"

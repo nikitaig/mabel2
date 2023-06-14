@@ -1,0 +1,32 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 172.41 181.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="6.84" y1="1.97" x2="151.12" y2="187.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff5845"/>
+      <stop offset="0.29" stop-color="#ff5e45"/>
+      <stop offset="1" stop-color="#ff6845"/>
+    </linearGradient>
+  </defs>
+  <title>Productx-icon svg-2</title>
+  <g>
+    <path class="cls-1" d="M147.11,43.77H128.05V41.84a41.85,41.85,0,0,0-83.69,0v1.93H25.3A25.3,25.3,0,0,0,.31,73L14,160a25.3,25.3,0,0,0,25,21.36h94.37a25.29,25.29,0,0,0,25-21.36l13.72-87A25.3,25.3,0,0,0,147.11,43.77ZM53.55,41.84a32.66,32.66,0,0,1,65.31,0v1.93H53.55Z" transform="translate(0 0)"/>
+    <g>
+      <g>
+        <path class="cls-2" d="M93.8,83.93H78.6a3.22,3.22,0,0,0-2.8,4.82l9.51,16.77a1,1,0,0,0,1.79,0l4-7,5.55-9.79h0A3.23,3.23,0,0,0,93.8,83.93Z" transform="translate(0 0)"/>
+        <path class="cls-2" d="M96.61,137.3,87.1,120.53a1,1,0,0,0-1.79,0l-4,7L75.8,137.3h0a3.23,3.23,0,0,0,2.81,4.82H93.8A3.23,3.23,0,0,0,96.61,137.3Z" transform="translate(0 0)"/>
+      </g>
+      <g>
+        <path class="cls-2" d="M126.92,84.25A8.29,8.29,0,0,0,122.54,83h-7.79a11,11,0,0,0-9.55,5.56L104.4,90,96,104.79l-3.17,5.59a5.38,5.38,0,0,0,0,5.3l7.24,12.75,2.71,4.79a3.23,3.23,0,0,0,5.62,0l21.43-37.63A8.41,8.41,0,0,0,126.92,84.25Z" transform="translate(0 0)"/>
+        <path class="cls-2" d="M79.57,110.38l-3.17-5.59L68,90l-.8-1.41A11,11,0,0,0,57.66,83H49.87a8.28,8.28,0,0,0-1.23.09,8.14,8.14,0,0,0-3.15,1.13,8.4,8.4,0,0,0-2.92,11.34l19,33.43,2.39,4.2a3.23,3.23,0,0,0,5.62,0l2.71-4.79,7.24-12.75A5.38,5.38,0,0,0,79.57,110.38Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

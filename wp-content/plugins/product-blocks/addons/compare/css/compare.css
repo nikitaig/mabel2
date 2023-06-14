@@ -1,0 +1,202 @@
+.wopb-compare-btn {
+    display: block;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.wopb-compare-btn strong {
+    margin-right: 5px;
+    font-size: 16px;
+}
+.wopb-compare-btn span {
+    display: flex;
+    align-items: center;
+    line-height: 1;
+}
+.wopb-compare-btn span:last-child {
+    display: none;
+}
+.wopb-compare-btn.wopb-compare-active span:first-child {
+    display: none;
+}
+.wopb-compare-btn.wopb-compare-active span:last-child {
+    display: flex;
+}
+.wopb-compare-btn.wopb-compare-active span:last-child strong{
+    font-size: 20px;
+    line-height: 16px;
+}
+.wopb-table-responsive {
+    display: block;
+    width: 100%;
+    /* min-height: .01%; */
+}
+/* .wopb-table-responsive table .wopb-compare-remove {
+    color: white;
+    width: 24px;
+    height: 24px;
+    background: #fb1919;
+    display: inline-block;
+    text-align: center;
+    border-radius: 100%;
+    line-height: 21px;
+    font-size: 18px;
+    transition: 400ms;
+}
+.wopb-table-responsive table .wopb-compare-remove:hover {
+    background: #d21010;
+} */
+.wopb-table-responsive table .wopb-compare-remove {
+    color: #8f8f8f;
+}
+.wopb-table-responsive table .wopb-compare-remove span {
+    color: #fb1919;
+    font-size: 18px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    line-height: 18px;
+    transition: 400ms;
+    display: inline-block;
+    text-align: center;
+}
+.wopb-table-responsive table .wopb-compare-remove:hover span {
+    background: #d21010;
+    color: #fff;
+}
+.wopb-modal-wrap .wopb-compare-modal {
+    box-shadow: unset;
+    background: #fff;
+    padding: 0;
+    border-radius: 4px;
+}
+.wopb-compare-modal table {
+    /* min-height: 80px; */
+    margin: 0;
+    border: 1px solid #ededed;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: -webkit-fill-available;
+}
+.wopb-compare-modal table thead {
+    background: #ededed;
+    z-index: 99;
+}
+.wopb-compare-modal table thead tr th {
+    padding: 10px 25px;
+    border: none;
+    background-color: #f1f1f1;
+}
+.wopb-compare-modal table thead tr td {
+    padding: 10px 10px;
+}
+.wopb-compare-modal table tbody {
+    vertical-align: top;
+}
+.wopb-compare-modal table tbody tr {
+    text-align: center;
+}
+.wopb-compare-modal table tbody tr th {
+    width: auto;
+    min-width: 200px;
+    max-width: 280px;
+    vertical-align: middle;
+}
+.wopb-compare-modal table tbody tr td {
+    padding: 12px 12px;
+    border-width: 0 1px 1px 0;
+    border-color: rgba(0, 0, 0, .08);
+    width: auto;
+    min-width: 200px;
+    max-width: 280px;
+}
+.wopb-compare-modal table tbody tr td .wopb-compare-thumbnail {
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 14px;
+    line-height: 1.4;
+}
+.wopb-compare-modal table tbody tr td .wopb-compare-thumbnail img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto 12px;
+    height: auto;
+}
+.wopb-compare-modal table tbody tr td .wopb-compare-thumbnail .star-rating{
+    margin: 0 auto;
+    margin-top: 5px;   
+}
+
+.wopb-compare-modal table tbody tr table.woocommerce-product-attributes {
+    overflow: hidden;
+}
+
+.wopb-compare-modal table tbody tr table.woocommerce-product-attributes td {
+    width: auto;
+    min-width: 120px;
+    max-width: 150px;
+    padding: 8px 10px;
+    font-size: 13px;
+}
+.wopb-compare-modal table tbody tr table.woocommerce-product-attributes th {
+    width: auto;
+    min-width: 80px;
+    max-width: 100px;
+    padding: 8px 10px;
+    font-size: 14px;
+}
+.wopb-compare-modal-content {
+    width: 100%;
+    overflow-y: scroll;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: 0 auto;
+    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 4px;
+    background: #fff;
+}
+
+.product-gallery-summary .botiga-single-addtocart-wrapper {
+    flex-wrap: wrap;
+}
+
+.product-gallery-summary .botiga-single-addtocart-wrapper .button {
+    width: fit-content;
+}
+
+ /* Compare in woocommerce default shop page  */
+.woocommerce-shop:not(:has(.wopb-builder-container)):not(:has(.wopb-block-wrapper)) .wopb-compare-btn {
+    display: block;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.woocommerce-shop:not(:has(.wopb-builder-container)):has(.wopb-block-wrapper) .wopb-cart-action .wopb-compare-btn {
+    display:none;
+}
+.woocommerce-shop:not(:has(.wopb-builder-container)) .wopb-compare-btn strong {
+    margin-right: 5px;
+    font-size: 16px;
+}
+.woocommerce-shop:not(:has(.wopb-builder-container)) .wopb-compare-btn span {
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
+}
+.woocommerce-shop:not(:has(.wopb-builder-container)) .wopb-compare-btn span:not(:only-child):last-child {
+    display: none;
+}
+.woocommerce-shop:not(:has(.wopb-builder-container)) .wopb-compare-btn.wopb-compare-active span:first-child {
+    display: none;
+}
+.woocommerce-shop:not(:has(.wopb-builder-container)) .wopb-compare-btn.wopb-compare-active span:last-child {
+    display: inline-flex;
+}
+.woocommerce-shop:not(:has(.wopb-builder-container)) .wopb-compare-btn.wopb-compare-active span:last-child strong {
+    font-size: 20px;
+    line-height: 16px;
+}
+.woocommerce-shop .wopb-modal-wrap.active .wopb-compare-modal .wopb-compare-btn , .woocommerce-shop .wopb-modal-wrap.active .wopb-compare-modal .wopb-wishlist-add , .woocommerce-shop .wopb-modal-wrap.active .wopb-compare-modal .wopb-quickview-btn{
+    display: none;
+}

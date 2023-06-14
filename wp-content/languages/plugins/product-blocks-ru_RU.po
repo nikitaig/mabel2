@@ -1,0 +1,1138 @@
+# Translation of Plugins - ProductX – Gutenberg WooCommerce Blocks - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - ProductX – Gutenberg WooCommerce Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-31 10:42:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - ProductX – Gutenberg WooCommerce Blocks - Stable (latest release)\n"
+
+#: classes/Functions.php:3094
+msgid "Product Search"
+msgstr "Поиск товаров"
+
+#: blocks/Product_Search.php:1037 blocks/Product_Search.php:1042
+msgid "All Categories"
+msgstr "Все рубрики"
+
+#: classes/Notice.php:689
+msgid "Installed"
+msgstr "Установлено"
+
+#: addons/builder/blocks/my_account/Template.php:19
+msgid " wopb-guest-account-container"
+msgstr " wopb-guest-account-container"
+
+#: blocks/Filter.php:89
+msgid "Sort by price: high to low"
+msgstr "Цены: по убыванию"
+
+#: blocks/Filter.php:85
+msgid "Sort by price: low to high"
+msgstr "Цены: по возрастанию"
+
+#: blocks/Filter.php:81
+msgid "Sort by average rating"
+msgstr "По рейтингу"
+
+#: blocks/Filter.php:77
+msgid "Sort by latest"
+msgstr "По новизне"
+
+#: blocks/Filter.php:73
+msgid "Sort by popularity"
+msgstr "По популярности"
+
+#: blocks/Filter.php:750
+msgid " wopb-d-none"
+msgstr " wopb-d-none"
+
+#: addons/builder/Builder.php:96
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: blocks/Filter.php:585 blocks/Filter.php:740
+msgid "("
+msgstr "("
+
+#: addons/builder/blocks/thank_you/order_details/Template.php:142
+msgid "Note:"
+msgstr "Примечание:"
+
+#: addons/builder/blocks/thank_you/order_details/Template.php:63
+msgid "Never"
+msgstr "Никогда"
+
+#: addons/builder/blocks/thank_you/order_details/Template.php:57
+msgid "&infin;"
+msgstr "&infin;"
+
+#: addons/builder/blocks/thank_you/order_conformation/Template.php:41
+msgid "Thank you. Your order has been received."
+msgstr "Ваш заказ принят. Благодарим вас."
+
+#: addons/builder/blocks/thank_you/order_conformation/Template.php:22
+msgid "My account"
+msgstr "Мой аккаунт"
+
+#: addons/builder/blocks/thank_you/order_conformation/Template.php:20
+msgid "Pay"
+msgstr "Оплатить"
+
+#: addons/builder/blocks/thank_you/order_conformation/Template.php:17
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr "К сожалению, ваш заказ не может быть выполнен, так как система обработки платежей не подтвердила вашу транзакцию. Пожалуйста, попробуйте снова произвести оплату."
+
+#: addons/builder/blocks/thank_you/address/Template.php:23
+#: addons/builder/blocks/thank_you/address/Template.php:42
+msgid "N/A"
+msgstr "Н/Д"
+
+#: addons/builder/blocks/my_account/My_Account.php:1036
+#: addons/builder/Condition.php:75 assets/js/blocks-placeholder.js:169
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: classes/Functions.php:2832
+msgid "Product Category"
+msgstr "Категория товара"
+
+#: classes/Options.php:150 classes/Options.php:274
+msgid "Blocks"
+msgstr "Блоки"
+
+#: addons/builder/Condition.php:73
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: blocks/Filter.php:500
+msgid "Clear All"
+msgstr "Очистить все"
+
+#: blocks/Filter.php:376
+msgid "Filter by Price"
+msgstr "Фильтрация по цене"
+
+#: addons/builder/blocks/checkout/shipping/Checkout_Shipping.php:393
+#: classes/Functions.php:3005 assets/js/blocks-placeholder.js:149
+msgid "Shipping Address"
+msgstr "Адрес доставки"
+
+#: addons/builder/blocks/checkout/payment_method/Template.php:31
+msgid "Update totals"
+msgstr "Обновить итог"
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: addons/builder/blocks/checkout/payment_method/Template.php:29
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Поскольку ваш браузер не поддерживает JavaScript или в нем он отключен, просим убедиться в том, что вы нажали кнопку %1$sОбновить итог%2$s перед регистрацией заказа. Иначе, есть риск неправильного подсчета стоимости."
+
+#: addons/builder/blocks/checkout/payment_method/Template.php:20
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Пожалуйста, введите детали выше, чтобы увидеть доступные методы оплаты."
+
+#: addons/builder/blocks/checkout/payment_method/Template.php:20
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "К сожалению, у нас не предусмотрены методы оплаты, подходящие для вашего региона. Пожалуйста, свяжитесь с нами если вам необходима консультация или специальные условия."
+
+#: addons/builder/blocks/checkout/payment_method/Checkout_Payment_Method.php:440
+#: classes/Functions.php:3026 assets/js/blocks-placeholder.js:145
+msgid "Payment Method"
+msgstr "Способы оплаты"
+
+#: addons/builder/blocks/cart_total/Template.php:22
+#: addons/builder/blocks/checkout/order_review/Template.php:19
+#: addons/builder/blocks/checkout/order_review/Template.php:51
+msgid "Subtotal"
+msgstr "Подытог"
+
+#: addons/builder/blocks/checkout/login/Template.php:59
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: addons/builder/blocks/checkout/login/Template.php:56
+msgid "Login"
+msgstr "Вход"
+
+#: addons/builder/blocks/checkout/login/Template.php:52
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: addons/builder/blocks/checkout/login/Template.php:43
+msgid "Password"
+msgstr "Пароль"
+
+#: addons/builder/blocks/checkout/login/Template.php:29
+msgid "Click here to login"
+msgstr "Нажмите для входа"
+
+#: addons/builder/blocks/checkout/login/Template.php:29
+msgid "Returning customer?"
+msgstr "Уже покупали?"
+
+#: addons/builder/blocks/checkout/billing/Template.php:48
+msgid "Create an account?"
+msgstr "Зарегистрировать вас?"
+
+#: addons/builder/blocks/checkout/billing/Checkout_Billing.php:376
+#: classes/Functions.php:2998 assets/js/blocks-placeholder.js:127
+msgid "Billing Address"
+msgstr "Платёжный адрес"
+
+#: addons/builder/blocks/checkout/additional_information/Checkout_Additional_Information.php:346
+#: classes/Functions.php:3012 assets/js/blocks-placeholder.js:122
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+#: addons/builder/Archive_Template.php:47
+msgid "You must be logged in to checkout."
+msgstr "Вам необходимо авторизоваться для оформления заказа."
+
+#: addons/quickview/init.php:153
+msgid "Meta"
+msgstr "Мета"
+
+#: addons/builder/blocks/cart_total/Template.php:84
+#: addons/builder/blocks/cart_total/Template.php:85
+#: addons/builder/blocks/checkout/order_review/Template.php:98
+msgid "Total"
+msgstr "Итого"
+
+#: addons/builder/blocks/cart_total/Template.php:60
+msgid "(estimated for %s)"
+msgstr "(ожидается %s)"
+
+#: addons/builder/blocks/cart_total/Template.php:43
+msgid "Shipping"
+msgstr "Доставка"
+
+#: addons/builder/blocks/cart_table/Template.php:190
+msgid "Apply coupon"
+msgstr "Применить купон"
+
+#: addons/builder/blocks/cart_table/Template.php:18
+msgid "Remove this item"
+msgstr "Удалить эту позицию"
+
+#: addons/variation_swatches/VariationSwatches.php:684
+msgid "Clear"
+msgstr "Сброс"
+
+#: addons/variation_swatches/VariationSwatches.php:396
+msgid "Add new"
+msgstr "Добавить"
+
+#: addons/variation_swatches/VariationSwatches.php:394
+msgid "Select none"
+msgstr "Отменить выбор"
+
+#: addons/variation_swatches/VariationSwatches.php:393
+msgid "Select all"
+msgstr "Выделить всё"
+
+#: addons/variation_swatches/VariationSwatches.php:372
+msgid "Select terms"
+msgstr "Выберите значения"
+
+#: addons/variation_swatches/init.php:89 addons/variation_swatches/init.php:94
+msgid "25"
+msgstr "25"
+
+#: addons/variation_swatches/init.php:69
+msgid "Square"
+msgstr "Квадрат"
+
+#: classes/options/Contact.php:8
+msgid "Contact"
+msgstr "Контакты"
+
+#: classes/Options.php:146 classes/Options.php:273
+msgid "Addons"
+msgstr "Дополнения"
+
+#: addons/compare/Compare.php:107
+msgid "Additional"
+msgstr "Дополнительно"
+
+#: addons/compare/Compare.php:106
+msgid "Weight"
+msgstr "Вес"
+
+#: addons/compare/Compare.php:105
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: addons/compare/Compare.php:86
+#: addons/variation_swatches/VariationSwatches.php:341
+msgid "Remove"
+msgstr "Удалить"
+
+#: addons/builder/Condition.php:106
+msgid "All %s Pages"
+msgstr "Все %s страницы"
+
+#: addons/builder/Condition.php:71
+msgid "Shop"
+msgstr "Магазин"
+
+#: addons/builder/Condition.php:69
+msgid "Single Product"
+msgstr "Отдельный товар"
+
+#: addons/builder/Condition.php:68
+msgid "--Select--"
+msgstr "--Выбрать--"
+
+#: addons/builder/Builder.php:216 addons/builder/Builder.php:217
+msgid "Add New"
+msgstr "Добавить"
+
+#: addons/builder/Builder.php:212 addons/builder/Builder.php:214
+msgid "Builder"
+msgstr "Конструктор"
+
+#: addons/builder/Builder.php:210 addons/builder/Builder.php:211
+msgctxt "Builder"
+msgid "Builder"
+msgstr "Конструктор"
+
+#: addons/builder/Builder.php:194
+msgid "Builder Type"
+msgstr "Тип конструктора"
+
+#: addons/builder/blocks/Product_Title.php:228 classes/Functions.php:2862
+#: assets/js/blocks-placeholder.js:50
+msgid "Product Title"
+msgstr "Заголовок товара"
+
+#: addons/builder/blocks/cart_table/Template.php:129
+#: addons/builder/blocks/Product_Stock.php:88
+msgid "Available on backorder"
+msgstr "Доступно для предзаказа"
+
+#: addons/builder/blocks/Product_Rating.php:387 classes/Functions.php:2897
+#: assets/js/blocks-placeholder.js:70
+msgid "Product Rating"
+msgstr "Рейтинг товара"
+
+#: addons/builder/blocks/Product_Price.php:394 classes/Functions.php:2890
+#: assets/js/blocks-placeholder.js:66
+msgid "Product Price"
+msgstr "Цена товара"
+
+#: addons/builder/blocks/Product_Price.php:140
+msgid "OFF"
+msgstr "ОТКЛ"
+
+#: addons/builder/blocks/Product_Price.php:108
+msgid "Price: "
+msgstr "Цена: "
+
+#: addons/builder/blocks/Product_Image.php:876 classes/Functions.php:2918
+#: assets/js/blocks-placeholder.js:82
+msgid "Product Image"
+msgstr "Изображение товара"
+
+#: addons/builder/blocks/Product_Cart.php:516
+msgid "Add To Cart"
+msgstr "Добавить в корзину"
+
+#: addons/builder/blocks/Archive_Title.php:567 classes/Functions.php:3073
+#: assets/js/blocks-placeholder.js:114
+msgid "Archive Title"
+msgstr "Название архива"
+
+#: addons/builder/Condition.php:72
+msgid "Cart"
+msgstr "Корзина"
+
+#: classes/Functions.php:3066 assets/js/blocks-placeholder.js:18
+msgid "Wrapper"
+msgstr "Обёртка"
+
+#: addons/variation_swatches/VariationSwatches.php:337
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: classes/Caches.php:136
+msgid "Data Fetched!!!"
+msgstr "Данные получены!"
+
+#: blocks/Product_Grid_1.php:3258 classes/Functions.php:2789
+#: assets/js/blocks-placeholder.js:22
+msgid "Product Grid #1"
+msgstr "Сетка товаров №1"
+
+#: blocks/Product_Category_2.php:1428 classes/Functions.php:2842
+#: assets/js/blocks-placeholder.js:46
+msgid "Product Category #2"
+msgstr "Категория товаров №2"
+
+#: blocks/Currency_Switcher.php:321 blocks/Heading.php:716
+#: blocks/Product_Search.php:959 classes/Functions.php:3045
+#: assets/js/blocks-placeholder.js:10
+msgid "Heading"
+msgstr "Заголовок"
+
+#: blocks/Product_Grid_2.php:3234 classes/Functions.php:2796
+#: assets/js/blocks-placeholder.js:26
+msgid "Product Grid #2"
+msgstr "Сетка товаров №2"
+
+#: blocks/Product_Category_1.php:1984 blocks/Product_Category_2.php:1485
+#: blocks/Product_Category_3.php:2211
+msgid "Read More"
+msgstr "Подробнее"
+
+#: blocks/Product_Category_1.php:1910 classes/Functions.php:2835
+#: assets/js/blocks-placeholder.js:42
+msgid "Product Category #1"
+msgstr "Категория товаров №1"
+
+#: blocks/Product_List_1.php:2696 classes/Functions.php:2822
+#: assets/js/blocks-placeholder.js:38
+msgid "Product List #1"
+msgstr "Список товаров №1"
+
+#: blocks/Product_Grid_4.php:3319 classes/Functions.php:2810
+#: assets/js/blocks-placeholder.js:34
+msgid "Product Grid #4"
+msgstr "Сетка товаров №4"
+
+#: blocks/Product_Grid_1.php:3363 blocks/Product_Grid_2.php:3342
+#: blocks/Product_Grid_3.php:3301 blocks/Product_Grid_4.php:3426
+msgid "Hot"
+msgstr "Горячий"
+
+#: blocks/Product_Grid_3.php:3194 classes/Functions.php:2803
+#: assets/js/blocks-placeholder.js:30
+msgid "Product Grid #3"
+msgstr "Сетка товаров №3"
+
+#: addons/flipimage/init.php:62
+msgid "First Image From Gallery"
+msgstr "Первое изображение галереи"
+
+#: addons/flipimage/init.php:60
+msgid "Flip Image Source"
+msgstr "Источник переворота изображения"
+
+#: addons/flipimage/init.php:56
+msgid "Flip Image Settings"
+msgstr "Настройки переворота изображения"
+
+#: addons/flipimage/FlipImage.php:56
+msgid "Choose an image"
+msgstr "Выберите изображение"
+
+#: addons/flipimage/FlipImage.php:56
+msgid "Set listing image"
+msgstr "Установить изображение листинга"
+
+#: addons/flipimage/FlipImage.php:50
+msgid "Remove Flip Image"
+msgstr "Удалить переворот изображения"
+
+#: addons/flipimage/FlipImage.php:28 addons/flipimage/init.php:52
+msgid "Flip Image"
+msgstr "Переворот изображения"
+
+#: classes/Functions.php:3137
+msgid "Add Quickview to Your Blocks."
+msgstr "Добавить быстрый просмотр в свои блоки."
+
+#: addons/compare/Compare.php:103 addons/quickview/init.php:147
+msgid "Add to Cart"
+msgstr "Добавить в корзину"
+
+#: addons/quickview/init.php:141
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: addons/quickview/init.php:123
+msgid "Title"
+msgstr "Заголовок"
+
+#: addons/quickview/init.php:117
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: addons/quickview/init.php:111
+msgid "Sales"
+msgstr "Продажи"
+
+#: addons/quickview/init.php:103
+msgid "Disable Element in QuickView"
+msgstr "Отключение элемента быстрого просмотра"
+
+#: addons/quickview/init.php:98
+msgid "Quick View Text"
+msgstr "Текст быстрого просмотра"
+
+#: addons/quickview/init.php:81
+msgid "Enable Product Link."
+msgstr "Включить ссылку товара."
+
+#: addons/quickview/init.php:69
+msgid "Enable Product Navigation."
+msgstr "Включить навигацию по товару."
+
+#: addons/quickview/init.php:63
+msgid "Disable Quickview on Mobile."
+msgstr "Отключать быстрый просмотр на мобильных."
+
+#: addons/quickview/init.php:57
+msgid "Quick View Settings"
+msgstr "Настройки быстрого просмотра"
+
+#: addons/quickview/init.php:53
+msgid "QuickView"
+msgstr "Быстрый просмотр"
+
+#: addons/wishlist/Wishlist.php:279
+msgid "Wishlist Not Added."
+msgstr "Список желаний не добавлен."
+
+#: addons/wishlist/Wishlist.php:276
+msgid "Wishlist Already Removed."
+msgstr "Список желаний уже удалён."
+
+#: addons/wishlist/init.php:120
+msgid "Popup Wishlist"
+msgstr "Список желаний во всплывающем блоке "
+
+#: addons/wishlist/init.php:99
+msgid "Enable Wishlist in Single Page."
+msgstr "Включить список желаний на отдельной странице."
+
+#: addons/wishlist/init.php:83
+msgid "Redirect to Cart."
+msgstr "Переадресация в корзину."
+
+#: addons/wishlist/init.php:76
+msgid "Empty Wishlist After Click."
+msgstr "Опустошение списка желаний после нажатия."
+
+#: addons/wishlist/init.php:69
+msgid "Require Login for Wishlist."
+msgstr "Требовать авторизации для доступа к списку желаний."
+
+#: addons/wishlist/init.php:62
+msgid "Use shortcode inside wishlist page."
+msgstr "Вставьте шорткод в страницу списка желаний."
+
+#: addons/wishlist/init.php:60
+msgid "Wishlist Page"
+msgstr "Страница списка желаний"
+
+#: addons/wishlist/init.php:56
+msgid "Wishlist Settings"
+msgstr "Настройки списка желаний"
+
+#: addons/wishlist/init.php:52 classes/options/Banner.php:29
+#: classes/options/Overview.php:143
+msgid "Wishlist"
+msgstr "Список желаний"
+
+#: addons/wishlist/Wishlist.php:153 addons/wishlist/Wishlist.php:161
+msgid "Continue Shopping"
+msgstr "Продолжить покупки"
+
+#: addons/wishlist/Wishlist.php:152
+msgid "Add All To Cart"
+msgstr "Добавить все в корзину"
+
+#: addons/wishlist/Wishlist.php:151
+msgid "Open Wishlist Page"
+msgstr "Открыть страницу списка желаний"
+
+#: addons/quickview/init.php:135 addons/wishlist/Wishlist.php:139
+#: addons/wishlist/Wishlist.php:141
+msgid "Stock"
+msgstr "Запасы"
+
+#: addons/wishlist/Wishlist.php:116
+msgid "Name"
+msgstr "Имя"
+
+#: addons/quickview/init.php:105 addons/wishlist/Wishlist.php:115
+#: blocks/Filter.php:531 blocks/Image.php:584 classes/Functions.php:3052
+#: assets/js/blocks-placeholder.js:14
+msgid "Image"
+msgstr "Изображение"
+
+#: addons/wishlist/init.php:93 addons/wishlist/Wishlist.php:79
+#: addons/wishlist/Wishlist.php:182
+msgid "Browse Wishlist"
+msgstr "Просмотр списка желаний"
+
+#: addons/wishlist/init.php:88 addons/wishlist/Wishlist.php:76
+#: addons/wishlist/Wishlist.php:181
+msgid "Add to Wishlist"
+msgstr "Добавить в список желаний"
+
+#: addons/templates/Saved_Templates.php:96
+msgid "Not Template found in Trash"
+msgstr "Шаблоны в корзине не найдены"
+
+#: addons/templates/Saved_Templates.php:95
+msgid "No Template Found"
+msgstr "Шаблоны не найдены"
+
+#: addons/templates/Saved_Templates.php:94
+msgid "Search Template"
+msgstr "Поиск шаблона"
+
+#: addons/templates/Saved_Templates.php:93
+msgid "Update Template"
+msgstr "Обновить шаблон"
+
+#: addons/templates/Saved_Templates.php:92
+msgid "Edit Template"
+msgstr "Изменить шаблон"
+
+#: addons/templates/Saved_Templates.php:90
+#: addons/templates/Saved_Templates.php:91
+msgid "Add New Template"
+msgstr "Добавить новый шаблон"
+
+#: addons/templates/Saved_Templates.php:89
+msgid "View Template"
+msgstr "Просмотреть шаблон"
+
+#: addons/templates/Saved_Templates.php:87
+msgid "Parent Template"
+msgstr "Родительский шаблон"
+
+#: addons/templates/init.php:11 addons/templates/Saved_Templates.php:86
+#: addons/templates/Saved_Templates.php:88 classes/Functions.php:3144
+#: classes/Options.php:121 classes/Options.php:122
+msgid "Saved Templates"
+msgstr "Сохранённые шаблоны"
+
+#: addons/templates/Saved_Templates.php:85
+msgctxt "Templates"
+msgid "Saved Template"
+msgstr "Сохранённый шаблон"
+
+#: addons/templates/Saved_Templates.php:84
+msgctxt "Templates"
+msgid "Saved Templates"
+msgstr "Сохранённые шаблоны"
+
+#: addons/templates/Saved_Templates.php:61
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: addons/compare/Compare.php:244
+msgid "Compare Removed."
+msgstr "Сравнение удалено"
+
+#: addons/compare/Compare.php:239
+msgid "Compare Added."
+msgstr "Сравнение создано"
+
+#: addons/compare/init.php:102 addons/wishlist/init.php:130
+msgid "Redirect to Page"
+msgstr "Переадресация на страницу"
+
+#: addons/compare/init.php:101 addons/wishlist/init.php:129
+msgid "Popup"
+msgstr "Всплывающий блок"
+
+#: addons/compare/init.php:99 addons/wishlist/init.php:127
+msgid "Action after Added"
+msgstr "Действие после добавления"
+
+#: addons/compare/init.php:93 addons/wishlist/init.php:112
+msgid "After Cart"
+msgstr "После корзины"
+
+#: addons/compare/init.php:92 addons/wishlist/init.php:111
+msgid "Before Cart"
+msgstr "Перед корзиной"
+
+#: addons/compare/init.php:90 addons/wishlist/init.php:109
+msgid "Position on Single Page"
+msgstr "Положение на отдельной странице"
+
+#: addons/compare/init.php:80
+msgid "Enable Compare in Single Page."
+msgstr "Включить сравнение на отдельной странице."
+
+#: addons/compare/init.php:78 addons/compare/init.php:84
+#: addons/quickview/init.php:61 addons/quickview/init.php:67
+#: addons/quickview/init.php:73 addons/quickview/init.php:79
+#: addons/variation_swatches/init.php:98 addons/wishlist/init.php:66
+#: addons/wishlist/init.php:73 addons/wishlist/init.php:80
+#: addons/wishlist/init.php:97 addons/wishlist/init.php:103
+msgid "Enable / Disable"
+msgstr "Включить/выключить"
+
+#: addons/compare/init.php:72
+msgid "Browse Text"
+msgstr "Просмотр текста"
+
+#: addons/compare/init.php:67 addons/wishlist/init.php:87
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: addons/compare/init.php:63
+msgid "Use shortcode inside compare page."
+msgstr "Вставьте шорткод в страницу сравнения."
+
+#: addons/compare/init.php:61
+msgid "Compare Page"
+msgstr "Страница сравнения"
+
+#: addons/compare/init.php:57
+msgid "Compare Settings"
+msgstr "Настройки сравнения"
+
+#: addons/compare/Compare.php:141 addons/compare/Compare.php:190
+#: addons/compare/init.php:73
+msgid "Added"
+msgstr "Добавлен"
+
+#: addons/compare/Compare.php:138 addons/compare/Compare.php:189
+#: addons/compare/init.php:53 addons/compare/init.php:68
+msgid "Compare"
+msgstr "Сравнение"
+
+#: addons/compare/Compare.php:93 addons/wishlist/init.php:118
+#: addons/wishlist/Wishlist.php:118
+msgid "Action"
+msgstr "Действие"
+
+#: addons/compare/Compare.php:104
+msgid "SKU"
+msgstr "Артикул"
+
+#: addons/compare/Compare.php:102
+msgid "Availability"
+msgstr "Доступность"
+
+#: addons/compare/Compare.php:100 addons/quickview/init.php:129
+#: addons/wishlist/Wishlist.php:117
+msgid "Price"
+msgstr "Цена"
+
+#: addons/builder/blocks/checkout/order_review/Template.php:18
+#: addons/compare/Compare.php:99
+msgid "Product"
+msgstr "Товар"
+
+#: addons/compare/Compare.php:82
+msgid "in stock"
+msgstr "в наличии"
+
+#: classes/Styles.php:274
+msgid "Product Blocks CSS Deleted."
+msgstr "CSS блоков товаров удалён."
+
+#: classes/Functions.php:2068
+msgid "- Select -"
+msgstr "- Выберите -"
+
+#: classes/Functions.php:651 classes/Functions.php:653
+msgid "View Cart"
+msgstr "Просмотр корзины"
+
+#: classes/Functions.php:136
+msgid "Seconds"
+msgstr "Секунды"
+
+#: classes/Functions.php:132
+msgid "Minutes"
+msgstr "Минуты"
+
+#: classes/Functions.php:128
+msgid "Hours"
+msgstr "Часы"
+
+#: classes/Functions.php:124
+msgid "Days"
+msgstr "Дни"
+
+#: classes/Options.php:87 classes/Options.php:154 classes/Options.php:275
+#: classes/options/Settings.php:8
+msgid "Settings"
+msgstr "Настройки"
+
+#: classes/Options.php:64
+msgid "Support"
+msgstr "Поддержка"
+
+#: classes/Options.php:63 classes/Options.php:158 classes/Options.php:276
+msgid "Tutorials"
+msgstr "Руководства"
+
+#: classes/Options.php:62
+msgid "Docs"
+msgstr "Документация"
+
+#: classes/options/Settings.php:203 classes/options/Settings.php:270
+#: classes/options/Settings.php:346 classes/options/Settings.php:414
+msgid "PRO"
+msgstr "ПРО"
+
+#: classes/options/Settings.php:88
+msgid "Select Editor Container Width."
+msgstr "Выберите ширину контейнера редактора."
+
+#: classes/options/Settings.php:84
+msgid "Theme Default"
+msgstr "Стандарт темы"
+
+#: classes/options/Settings.php:85
+msgid "Full Width"
+msgstr "На всю ширину"
+
+#: classes/options/Settings.php:82
+msgid "Editor Container"
+msgstr "Контейнер редактора"
+
+#: classes/options/Settings.php:78
+msgid "Change Container Width of the Page Template(Gutenberg Post Blocks Template)."
+msgstr "Изменить ширину контейнера шаблона страницы (шаблон блоков записей Гутенберга)."
+
+#: classes/options/Settings.php:69
+msgid "File System - (External)"
+msgstr "Отдельный файл (внешний)"
+
+#: classes/options/Settings.php:68
+msgid "Header - (Internal)"
+msgstr "Header (встроенный)"
+
+#: classes/options/Settings.php:66
+msgid "CSS Add Via"
+msgstr "CSS добавить через"
+
+#: classes/options/Getting_Started.php:83 classes/options/Overview.php:90
+msgid "Design Library"
+msgstr "Библиотека дизайна"
+
+#: classes/options/Getting_Started.php:131 classes/options/Overview.php:134
+msgid "Upgrade to Pro  ➤"
+msgstr "Перейти на Про ➤"
+
+#: addons/builder/Builder.php:45 classes/options/Getting_Started.php:129
+#: classes/options/Overview.php:132
+msgid "Fast & Priority Support"
+msgstr "Быстрая приоритетная поддержка"
+
+#: addons/builder/Builder.php:44
+msgid "Flip Image Addon"
+msgstr "Расширение переворота изображения"
+
+#: addons/builder/Builder.php:42
+msgid "Whishlist Addon"
+msgstr "Расширение списка желаний"
+
+#: addons/builder/Builder.php:39
+msgid "Pro Sections, Layout & Design"
+msgstr "Профессиональные разделы, макеты и дизайн"
+
+#: classes/options/Getting_Started.php:25 classes/options/Overview.php:33
+msgid "Plugin Details"
+msgstr "Сведения о плагине"
+
+#: classes/options/Heading.php:7
+msgid "Most Powerful & Advanced Gutenberg WooCommerce Blocks"
+msgstr "Самые мощные и продвинутые WooCommerce-блоки для Gutenberg"
+
+#: classes/Options.php:102 classes/Options.php:103 classes/Options.php:261
+#: classes/options/Heading.php:3
+msgid "ProductX"
+msgstr "ProductX"
+
+#: classes/options/Footer.php:16
+msgid "Submit a Ticket »"
+msgstr "Создать тикет »"
+
+#: classes/options/Footer.php:15
+msgid "Have you any questions? Our super fast support ninja is waiting for your problems."
+msgstr "Есть вопросы? Наши супербыстрые ниндзя поддержки ждут ваших проблем."
+
+#: classes/options/Footer.php:14
+msgid "Need any Helps"
+msgstr "Нужна помощь"
+
+#: classes/options/Footer.php:11
+msgid "Leave a Review"
+msgstr "Оставить отзыв"
+
+#: classes/options/Footer.php:10
+msgid "Are you satisfied with this plugin? Submit your valuable review in Wordpress directory."
+msgstr "Довольны ли вы данным плагином? Разместите свой ценный отзыв в каталоге WordPress."
+
+#: classes/options/Footer.php:9
+msgid "Submit Your Review"
+msgstr "Оставьте свой отзыв"
+
+#: classes/options/Addons.php:81 classes/options/Blocks.php:32
+#: classes/options/Footer.php:6 classes/options/Getting_Started.php:108
+#: classes/options/Overview.php:110 classes/options/Tutorials.php:11
+#: classes/options/Tutorials.php:22 classes/options/Tutorials.php:36
+#: classes/options/Tutorials.php:50 classes/options/Tutorials.php:64
+#: classes/options/Tutorials.php:78 classes/options/Tutorials.php:92
+#: classes/options/Tutorials.php:103 classes/options/Tutorials.php:114
+msgid "Documentation"
+msgstr "Документация"
+
+#: classes/options/Footer.php:5
+msgid "Got a question? Read our super rich documentation and solve your problem ASAP."
+msgstr "Есть вопрос? Ознакомьтесь с нашей обширной документацией и решите свою проблему как можно скорее."
+
+#: classes/options/Footer.php:4
+msgid "Documentations"
+msgstr "Документация"
+
+#: classes/options/Addons.php:49
+msgid "All Addons"
+msgstr "Все расширения"
+
+#: classes/options/Overview.php:32
+msgid "Live Demo"
+msgstr "Демонстрация"
+
+#: addons/builder/Builder.php:41
+msgid "Saved Template Addon"
+msgstr "Добавление сохраненного шаблона"
+
+#: addons/builder/Builder.php:40
+msgid "Quickview Addon"
+msgstr "Расширение быстрого просмотра"
+
+#: classes/options/Getting_Started.php:128 classes/options/Overview.php:131
+msgid "Product Deals"
+msgstr "Предложения товаров"
+
+#: addons/builder/Builder.php:43
+msgid "Compare Addon"
+msgstr "Расширение сравнения товаров"
+
+#: classes/Deactive.php:215
+msgid "Skip & Deactivate"
+msgstr "Пропустить и деактивировать"
+
+#: classes/Deactive.php:214
+msgid "Submit & Deactivate"
+msgstr "Отправить и деактивировать"
+
+#: classes/Deactive.php:197
+msgid "If you have a moment, please let us know why you are deactivating ProductX:"
+msgstr "Пожалуйста, сообщите нам, почему вы деактивируете ProductX:"
+
+#: classes/Deactive.php:192
+msgid "Quick Feedback"
+msgstr "Быстрая обратная связь"
+
+#: classes/Deactive.php:166
+msgid "Please share the reason."
+msgstr "Пожалуйста, поделитесь причиной."
+
+#: classes/Deactive.php:165
+msgid "Other."
+msgstr "Другое"
+
+#: classes/Deactive.php:160
+msgid "It's a temporary deactivation."
+msgstr "Это временная деактивация"
+
+#: classes/Deactive.php:155
+msgid "I could not get the plugin to work."
+msgstr "Я не мог заставить плагин работать"
+
+#: classes/Deactive.php:150
+msgid "Please share more details."
+msgstr "Поделитесь, пожалуйста, подробностями."
+
+#: classes/Deactive.php:149
+msgid "The plugin suddenly stopped working."
+msgstr "Плагин внезапно перестал работать"
+
+#: classes/Deactive.php:144
+msgid "Please share which plugin."
+msgstr "Поделитесь, пожалуйста, какой плагин"
+
+#: classes/Deactive.php:143
+msgid "I found a better plugin."
+msgstr "Я нашёл плагин получше"
+
+#: classes/Deactive.php:138
+msgid "I no longer need the plugin."
+msgstr "Мне больше не нужен такой плагин"
+
+#: classes/Deactive.php:82
+msgid "No Thanks"
+msgstr "Нет, спасибо"
+
+#: classes/Deactive.php:81
+msgid "Allow"
+msgstr "Разрешить"
+
+#: classes/Deactive.php:80
+msgid "Want to help make <strong style=\"padding:0 5px;\"> %1$s </strong> even more awesome? Allow %1$s to collect <a style=\"padding:0 5px;\" href=\""
+msgstr "Хотите помочь сделать <strong style=\"padding:0 5px;\"> %1$s </strong> еще более потрясающим? Позвольте %1$s собирать <a style=\"padding:0 5px;\" href=\""
+
+#. Plugin Name of the plugin
+msgid "ProductX – Gutenberg WooCommerce Blocks"
+msgstr "ProductX - WooCommerce-блоки для Gutenberg"
+
+#: classes/Options.php:237 classes/options/Settings.php:94
+msgid "Hide Import Layout Button from the Gutenberg Editor."
+msgstr "Скрыть кнопку импорта макета из редактора Гутенберга."
+
+#: classes/Options.php:235 classes/options/Settings.php:92
+msgid "Hide Import Button"
+msgstr "Скрыть кнопку импорта"
+
+#: classes/Notice.php:148 classes/Notice.php:165 classes/Notice.php:195
+#: classes/Notice.php:221
+msgid "Dismiss"
+msgstr "Закрыть"
+
+#: addons/compare/Compare.php:172 addons/quickview/init.php:99
+#: addons/quickview/Quickview.php:74
+msgid "Quick View"
+msgstr "Быстрый просмотр"
+
+#: blocks/Product_Grid_1.php:3406 blocks/Product_Grid_2.php:3384
+#: blocks/Product_Grid_3.php:3371 blocks/Product_Grid_4.php:3482
+msgid "Out of stock"
+msgstr "Нет в наличии"
+
+#: blocks/Product_Grid_1.php:3358 blocks/Product_Grid_2.php:3337
+#: blocks/Product_Grid_3.php:3296 blocks/Product_Grid_4.php:3421
+msgid " Off"
+msgstr " Откл"
+
+#: blocks/Product_Category_1.php:1978 blocks/Product_Category_2.php:1479
+msgid "products"
+msgstr "Товары"
+
+#: addons/builder/blocks/Product_Stock.php:52 addons/wishlist/Wishlist.php:139
+#: addons/wishlist/Wishlist.php:141 blocks/Product_Grid_1.php:3410
+#: blocks/Product_Grid_2.php:3388 blocks/Product_Grid_3.php:3375
+#: blocks/Product_Grid_4.php:3486
+msgid "In Stock"
+msgstr "В наличии"
+
+#: addons/builder/blocks/Product_Stock.php:70
+msgid "Out of Stock"
+msgstr "Нет в наличии"
+
+#: blocks/template/review.php:7
+msgid "out of 5"
+msgstr "из 5"
+
+#: blocks/Product_Grid_1.php:3357 blocks/Product_Grid_2.php:3336
+#: blocks/Product_Grid_3.php:3295 blocks/Product_Grid_4.php:3420
+msgid "Sale!"
+msgstr "Распродажа!"
+
+#: classes/Functions.php:1664
+msgid "Next"
+msgstr "Далее"
+
+#: classes/Functions.php:1663
+msgid "Previous"
+msgstr "Назад"
+
+#: classes/Notice.php:501
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: classes/Notice.php:224
+msgid "Activate WooCommerce"
+msgstr "Активировать WooCommerce"
+
+#: classes/Notice.php:198
+msgid "Install WooCommerce"
+msgstr "Установить WooCommerce"
+
+#: classes/Notice.php:197 classes/Notice.php:223
+msgid "WooCommerce Product Blocks is a WooCommerce plugin. To use this plugins you have to install and activate WooCommerce."
+msgstr "Блоки товаров WooCommerce - это расширение для WooCommerce. Чтобы использовать его, необходимо установить и активировать WooCommerce."
+
+#: classes/Notice.php:196 classes/Notice.php:222
+msgid "Welcome to Product Blocks."
+msgstr "Добро пожаловать в блоки продуктов."
+
+#: classes/Styles.php:267
+msgid "Product Blocks css file has been updated."
+msgstr "Обновлён CSS-файл блоков товаров."
+
+#: classes/Styles.php:193 classes/Styles.php:265
+msgid "CSS can not be saved due to permission!!!"
+msgstr "CSS не может быть сохранён из-за разрешений!"
+
+#: classes/Styles.php:198 classes/Styles.php:215
+msgid "Data not found!!"
+msgstr "Данные не найдены!"
+
+#: classes/Styles.php:196 classes/Styles.php:213
+msgid "Data retrive done"
+msgstr "Получение данных выполнено"
+
+#: classes/options/Getting_Started.php:152 classes/options/Overview.php:168
+msgid "Changelog"
+msgstr "Список изменений"
+
+#: classes/options/Settings.php:58
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: classes/Options.php:112 classes/Options.php:113 classes/Options.php:265
+#: classes/options/Overview.php:8
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: classes/options/Heading.php:7
+msgid "Rate the plugin"
+msgstr "Оцените плагин"
+
+#: classes/options/Heading.php:5
+msgid "Welcome to <strong>ProductX</strong> - Version"
+msgstr "Добро пожаловать на <strong>ProductX</strong> - версия"
+
+#: classes/options/Settings.php:153
+msgid "Version"
+msgstr "Версия"
+
+#: classes/options/Settings.php:151
+msgid "Released on "
+msgstr "Выпущен "
+
+#: classes/Options.php:231
+msgid "Change Container Width."
+msgstr "Изменить ширину контейнера"
+
+#: classes/Options.php:229 classes/options/Settings.php:76
+msgid "Container Width"
+msgstr "Ширина контейнера"
+
+#: classes/Options.php:225 classes/options/Settings.php:72
+msgid "Select where you want to save CSS."
+msgstr "Выберите, где предпочитаете сохранять CSS."
+
+#: classes/Options.php:222
+msgid "File System"
+msgstr "Файловая система"
+
+#: classes/Options.php:221
+msgid "Header"
+msgstr "Заголовок"
+
+#: classes/Options.php:219
+msgid "CSS Save Method"
+msgstr "Метод сохранения CSS"
+
+#. Author of the plugin
+msgid "wpxpo"
+msgstr "WPXPO"

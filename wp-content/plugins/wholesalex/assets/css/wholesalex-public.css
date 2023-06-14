@@ -1,0 +1,565 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+:root {
+	--wholesalex-primary-color: #4D4DFF;
+    --wholesalex-primary-hover-color: #6C6CFF;
+	--wholesalex-text-color: #444;
+	--wholesalex-meta-color: #888;
+
+	--wholesalex-heading-color: #272727;
+	--wholesalex-border-color: #ddd;
+	--wholesalex-success-button-color: #73b81c;
+	--wholesalex-success-button-hover-color: #619e14;
+	--wholesalex-warning-button-color: #d88a02;
+	--wholesalex-warning-button-hover-color: #d88a02;
+
+    --wholesalex-size-12: 12px;
+    --wholesalex-size-14: 14px;
+    --wholesalex-size-16: 16px;
+    --wholesalex-size-18: 18px;
+    --wholesalex-size-20: 20px;
+    --wholesalex-size-22: 22px;
+    --wholesalex-size-24: 24px;
+    --wholesalex-size-32: 32px;
+}
+
+.wholesalex-btn {
+    font-size: var(--wholesalex-size-16);
+    padding: 12px 25px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 400ms;
+    max-width: fit-content;
+}
+
+.wholesalex-btn-md {
+    padding: 8px 15px 8px;
+}
+
+.wholesalex-btn-sm {
+    padding: 6px 12px 6px;
+    font-size: var(--wholesalex-size-14);
+}
+
+.wholesalex-btn-primary {
+    background-color: var(--wholesalex-primary-color);
+    color: #ffffff;
+}
+
+.wholesalex-btn-primary:hover {
+    background-color: var(--wholesalex-primary-hover-color);
+    color: #fff;
+}
+
+.wholesalex-btn-warning {
+    background-color: var(--wholesalex-warning-button-color);
+    color: #ffffff;
+}
+
+.wholesalex-btn-warning:hover {
+    background-color: var(--wholesalex-warning-button-hover-color);
+    color: #fff;
+}
+
+.wholesalex-btn-black {
+    background-color: var(--wholesalex-heading-color);
+    color: #ffffff !important;
+}
+
+.wholesalex-btn-black:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.wsx-conversation-element input,
+.wsx-conversation-element select {
+    max-height: 40px;
+}
+
+.wsx-conversation-element input,
+.wsx-conversation-element textarea,
+.wsx-conversation-element select {
+    width: 100%;
+    border: 1px solid var(--wholesalex-border-color);
+    border-radius: 2px;
+    padding: 10px 12px;
+    box-sizing: border-box;
+    min-height: 45px;
+}
+.wsx-conversation-element label {
+    display: block;
+    margin-bottom: 5px !important;
+    font-size: var(--wholesalex-size-14);
+    color: var(--wholesalex-text-color);
+}
+
+/* ------------------------- */
+/* ------------------------- */
+/* -- Conversation START --- */
+/* ------------------------- */
+/* ------------------------- */
+
+.wsx-conversation-table-wrapper {
+    margin-top: 22px;
+}
+.wsx-conversation-title {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+}
+
+.wsx-conversation-title .wsx-title {
+    margin-left: auto;
+    /* font-size: 14px;
+    line-height: 22px;
+    padding: 8px 10px 7px 11px;
+    border-radius: 3px; */
+}
+
+.wsx-conversation-wrapper {
+    font-size: var(--wholesalex-size-24);
+    font-weight: 500;
+    padding-bottom: 22px;
+    border-bottom: 2px solid #e6e6e6;
+}
+
+.wsx-conversation-header {
+    font-size: var(--wholesalex-size-32);
+    font-weight: bold;
+    color: #272727;
+    line-height: 1.33;
+}
+
+.wsx-conversation-form {
+    padding: 30px;
+    background: #f5f5f5;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid var(--wholesalex-border-color);
+}
+
+.wsx-conversation-element {
+    margin-bottom: 20px;
+}
+
+.wsx-conversation-element input,
+.wsx-conversation-element textarea,
+.wsx-conversation-element select {
+    width: 100%;
+}
+
+input.wsx-send-reply {
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 25px 10px;
+}
+
+.wsx-conversation-list {
+    border: 1px solid var(--wholesalex-border-color);
+    margin-top: 30px;
+    border-radius: 4px;
+    width: 100%;
+    /* color: white; */
+}
+
+.wsx-conversation-list-head {
+    /* padding: 12px 20px; */
+    border-bottom: 1px solid var(--wholesalex-border-color);
+    text-align: center;
+    padding: 9px 20px 9px 21px;
+    background-color: #272727;
+    color: white;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: normal;
+}
+.wsx-conversation-list-head th,.wsx-conversation-list-body td{
+    border:none;
+}
+
+.wsx-title-down {
+    position: relative;
+}
+
+.wsx-title-up::after,
+.wsx-title-down::after {
+    content: "";
+    border-style: solid;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 4px;
+    margin-left: 10px;
+    position: relative;
+}
+
+.wsx-title-up::after {
+    transform: rotate(45deg);
+    top: -3px;
+}
+
+.wsx-title-down::after {
+    transform: rotate(225deg);
+    top: 3px;
+}
+
+.wsx-conversation-list-body {
+    /* display: flex;
+    justify-content: space-between; */
+    border-bottom: 1px solid var(--wholesalex-border-color);
+    color: var(--wholesalex-text-color);
+    align-items: center;
+}
+
+.wsx-conversation-list-item.conversation-type {
+    text-transform: capitalize;
+}
+
+td.wsx-conversation-list-item {
+    max-width: 20%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+.wsx-go-back {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
+.wsx-conversation-list-item a { 
+    text-decoration: none;
+}
+
+.wsx-conversation-list-open {
+    position: relative;
+    padding-left: 18px;
+}
+
+/* .wsx-conversation-list-open:before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: #38b114;
+    border-radius: 100px;
+    position: absolute;
+    top: 50%;
+    margin-top: -4px;
+    left: 0;
+} */
+
+.new_conversation {
+    width: 10px;
+    height: 10px;
+    background-color: #38b114;
+    border-radius: 100px;
+    position: absolute;
+    top: 50%;
+    margin-top: -4px;
+    left: 0;
+}
+.open_conversation {
+    width: 10px;
+    height: 10px;
+    background-color: #9f9f9f;
+    border-radius: 100px;
+    position: absolute;
+    top: 50%;
+    margin-top: -4px;
+    left: 0;
+}
+.wsx-conversation-list-open a {  
+    font-weight: 700;
+}
+
+.wsx-conversation-time {
+    display: block;
+    font-size: 12px;
+}
+
+.wsx-conversation-date {
+    font-size: 14px;
+}
+
+.wsx-conversation-list .wsx-conversation-list-body:last-child {
+    border-bottom: none;
+}
+
+.wsx-conversation-list-item .wholesalex-btn {
+    text-decoration: none;
+}
+
+.wsx-conversation-back {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.wsx-conversation-back-title {
+    font-size: var(--wholesalex-size-24);
+}
+
+.wsx-reply-lists{
+    margin-bottom: 25px;
+}
+
+.wsx-reply-meta {
+    font-size: 14px;
+    color: var(--wholesalex-meta-color);
+    text-transform: capitalize;
+    margin-bottom: 5px;
+}
+
+.wsx-conversation-form-reply {
+    margin: 20px 0 0;
+}
+
+.wsx-conversation-form-reply input.wsx-send-reply {
+    margin-top: 20px;
+    float: right;
+}
+
+.wsx-reply-lists .wsx-content{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #efefef;
+    font-size: 14px;
+}
+
+.wsx-reply-right .wsx-content {
+    background-color: #f8f8f8;
+    color: #272727;
+    border: 1px solid #e6e6e6;
+    text-align: right;
+}
+.wsx-reply-left .wsx-content{
+    background-color: #f2f0ff;
+    color: #272727;
+    border: 1px solid #e1def7;
+    text-align: left;
+}
+.wsx-reply-right .wsx-reply-meta {
+    text-align: right;
+}
+.wsx-reply-left .wsx-reply-meta{
+    text-align: left;
+}
+.wsx-go-back a{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.wsx-go-back .dashicons-arrow-left-alt {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.wsx-conversation-list-open.conversation-title {
+    text-align: left;
+}
+
+.wsx-conversation-list-item.conversation-action {
+    text-align: right;
+    padding-right: 10px;
+}
+.wsx-conversation-list-action {
+    text-align: right;
+  }
+.wsx-conversation-list-active{
+    text-align: right;
+}
+
+.wsx-conversation-list-title {
+    text-align: left;
+}
+
+.wsx-conversation-list-body td{
+    padding-right: 10px;
+}
+
+.wsx-name .dashicons-arrow-right-alt {
+    width: 16px;
+    height: 16px;
+    margin: 4px 4px 0px;
+    font-size: 16px;
+  }
+.wsx-reply-meta > span {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+.wsx-reply-meta .wsx-name .reply-name {
+    font-weight: 600;
+}
+
+.wholesalex-quote-modal__footer {
+    margin-top: 10px;
+    padding: 10px 20px 20px;
+    display: flex;
+    gap: 15px;
+    
+}
+
+.wsx-conversation-element  input[type=submit]{
+    background-color: var(--wholesalex-primary-color);
+}
+.wsx-conversation-element  input[type=submit]:hover{
+    background-color: var(--wholesalex-primary-hover-color);
+}
+/* ------------------------- */
+/* ------------------------- */
+/* -- Conversation CLOSE --- */
+/* ------------------------- */
+/* ------------------------- */
+
+.LabelHide{
+    color: transparent;
+}
+
+.wsx-conversation-list-item {
+    flex: 1;
+}
+.wsx-conversation-list-body {
+    text-align: center;
+}
+.btn-modal-cancel {
+    color: black;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+.btn-modal-delete {
+    color: white;
+    background-color: red;
+    transition: 0.1ms;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.wholesalex_loader {
+    display: none;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background: rgb(255, 255, 255);
+    opacity: 0.6;
+    cursor: wait;
+    position: absolute;
+    z-index: 999;
+}
+.wholesalex_loader::before{
+    height: 1em;
+    width: 1em;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -0.5em;
+    margin-top: -0.5em;
+    content: "";
+    -webkit-animation: spin 1s ease-in-out infinite;
+    animation: spin 1s ease-in-out infinite;
+    background: url(../img/loader.svg) center center;
+    background-size: cover;
+    line-height: 1;
+    text-align: center;
+    font-size: 2em;
+    color: rgba(0,0,0,.75);
+}
+
+#wholesalex_save_cart_modal{
+    display: none;
+}
+
+.modal_content {
+    border-radius: 6px;
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    z-index: 999999999994;
+    width: 50%;
+    min-height: 15%;
+    padding: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .close-modal-icon {
+    font-size: 22px;
+    line-height: 26px;
+    color: white;
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 0;
+    top: 0;
+    translate: 50% -50%;
+    cursor: pointer;
+  }
+
+  #wholesalex_save_cart_modal .modal_content  {
+    z-index: 997;
+  }
+  #wholesalex_save_cart_modal_form{
+    margin-bottom: 1.618em;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+button.save-btn {
+    background-color: #2fb110;
+    color: white;
+}
+
+button.cancel-btn {
+    background-color: #c73714;
+    color: white;
+}
+
+/* Subaccount Orders Page */
+.wholesalex_placed_by_column
+.dashicons.dashicons-editor-break {
+    transform: translate(0,0) scale(-1,1);
+    font-size: 22px;
+    margin-left: 2px;
+    color: #707070;
+  }
+.wholesalex_placed_by_column
+.name {
+    color: #272727;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+
+/* #wholesalex_subaccounts .flex-column {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#wholesalex_subaccounts .subaccounts_list li .account-info {
+    text-align: left;
+} */
